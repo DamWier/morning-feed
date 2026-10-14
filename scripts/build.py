@@ -125,9 +125,20 @@ def telegram_text(c):
             f"{html.escape(c.get('headline', ''))}\n\n{bullets}\n\n<a href=\"{url}\">Feed lesen</a>")
 
 
+def no_dashes(x):
+    """Hausregel: keine Gedankenstriche als Satzzeichen."""
+    if isinstance(x, str):
+        return x.replace(" – ", ", ").replace(" — ", ", ").replace("—", ", ")
+    if isinstance(x, list):
+        return [no_dashes(i) for i in x]
+    if isinstance(x, dict):
+        return {k: (v if k in ("url", "links", "date", "id") else no_dashes(v)) for k, v in x.items()}
+    return x
+
+
 def main():
     cpath = Path(sys.argv[1])
-    c = json.loads(cpath.read_text())
+    c = no_dashes(json.loads(cpath.read_text()))
     raw_path = ROOT / "work" / "raw.json"
     raw = json.loads(raw_path.read_text()) if raw_path.exists() else {}
     (DOCS / "d").mkdir(parents=True, exist_ok=True)
