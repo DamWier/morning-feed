@@ -1,0 +1,83 @@
+{
+  "youtube": [
+    {"name": "CasuallyFinance", "channel_id": "UCrNfRFWnLC3tCy1TnyhVQ7g", "topic": "finance"},
+    {"name": "AMSPORTLab", "channel_id": "UCNxukuldwxgn5cnozi7OpTQ", "topic": "health"},
+    {"name": "RoboNuggets", "channel_id": "UCgscS8mBsQZ5sFRkJIFWD7Q", "topic": "ai"}
+  ],
+  "youtube_candidates_inactive": [
+    {"name": "Ben Felix", "channel_id": "UCDXTQ8nWmx_EhZ2v-kp7QxA", "topic": "finance"},
+    {"name": "The Plain Bagel", "channel_id": "UCFCEuCsyWP0YkP3CZ3Mr01Q", "topic": "finance"},
+    {"name": "Money & Macro", "channel_id": "UCCKpicnIwBP3VPxBAZWDeNA", "topic": "finance"},
+    {"name": "Heresy Financial", "channel_id": "UC4fg8o6oUkkZDLaC6eAZKwQ", "topic": "finance"},
+    {"name": "Huberman Lab", "channel_id": "UC2D2CMWXMOVWx7giW1n3LIg", "topic": "health"},
+    {"name": "Peter Attia", "channel_id": "UC8kGsMa0LygSX9nkBcBH1Sg", "topic": "health"},
+    {"name": "FoundMyFitness", "channel_id": "UCWF8SqJVNlx-ctXbLswcTcA", "topic": "health"},
+    {"name": "AI Explained", "channel_id": "UCNJ1Ymd5yFuUPtn21xtRbbw", "topic": "ai"},
+    {"name": "Matt Wolfe", "channel_id": "UChpleBmo18P08aKCIgti38g", "topic": "ai"},
+    {"name": "Nate Herk", "channel_id": "UC2ojq-nuP8ceeHqiroeKhBA", "topic": "ai"},
+    {"name": "TheAIGrid", "channel_id": "UCbY9xX3_jW5c2fjlZVBI4cg", "topic": "ai"},
+    {"name": "My First Million", "channel_id": "UCyaN6mg5u8Cjy2ZI4ikWaug", "topic": "business"}
+  ],
+  "sections": [
+    {"id": "berlin", "title": "Berlin", "feeds": [
+      {"name": "rbb24", "url": "https://www.rbb24.de/aktuell/index.xml/feed=rss.xml"},
+      {"name": "Tagesspiegel Berlin", "url": "https://www.tagesspiegel.de/contentexport/feed/berlin"},
+      {"name": "Berliner Zeitung", "url": "https://www.berliner-zeitung.de/feed.xml"}
+    ]},
+    {"id": "germany", "title": "Deutschland", "feeds": [
+      {"name": "tagesschau Inland", "url": "https://www.tagesschau.de/inland/index~rss2.xml"},
+      {"name": "Deutschlandfunk", "url": "https://www.deutschlandfunk.de/nachrichten-100.rss"},
+      {"name": "FAZ Politik", "url": "https://www.faz.net/rss/aktuell/politik/"}
+    ]},
+    {"id": "europe", "title": "Europa", "feeds": [
+      {"name": "Politico Europe", "url": "https://www.politico.eu/feed/"},
+      {"name": "tagesschau Europa", "url": "https://www.tagesschau.de/ausland/europa/index~rss2.xml"}
+    ]},
+    {"id": "world", "title": "Welt", "feeds": [
+      {"name": "tagesschau Ausland", "url": "https://www.tagesschau.de/ausland/index~rss2.xml"},
+      {"name": "BBC World", "url": "https://feeds.bbci.co.uk/news/world/rss.xml"},
+      {"name": "DW", "url": "https://rss.dw.com/rdf/rss-en-all"},
+      {"name": "FT World", "url": "https://www.ft.com/world?format=rss"},
+      {"name": "The Economist", "url": "https://www.economist.com/the-world-this-week/rss.xml"}
+    ]},
+    {"id": "markets", "title": "Märkte & Makro", "feeds": [
+      {"name": "Handelsblatt Finanzen", "url": "https://www.handelsblatt.com/contentexport/feed/finanzen"},
+      {"name": "tagesschau Wirtschaft", "url": "https://www.tagesschau.de/wirtschaft/index~rss2.xml"},
+      {"name": "FT Markets", "url": "https://www.ft.com/markets?format=rss"},
+      {"name": "Destatis", "url": "https://www.destatis.de/SiteGlobals/Functions/RSSFeed/DE/RSSNewsfeed/Aktuell.xml"},
+      {"name": "EZB", "url": "https://www.ecb.europa.eu/rss/press.html"}
+    ]},
+    {"id": "ecom", "title": "E-Com, Deals & M&A", "feeds": [
+      {"name": "deutsche-startups.de", "url": "https://www.deutsche-startups.de/feed/"},
+      {"name": "Sifted", "url": "https://sifted.eu/feed"},
+      {"name": "Modern Retail", "url": "https://www.modernretail.co/feed/"},
+      {"name": "Axios", "url": "https://api.axios.com/feed/"},
+      {"name": "Retail Dive", "url": "https://www.retaildive.com/feeds/news/"},
+      {"name": "TechCrunch Fundraising", "url": "https://techcrunch.com/category/fundraising/feed/"},
+      {"name": "Ecommerce News Europe", "url": "https://www.ecommercenews.eu/feed/"}
+    ]},
+    {"id": "industry", "title": "Supplements & Beauty", "feeds": [
+      {"name": "NutraIngredients", "url": "https://www.nutraingredients.com/arc/outboundfeeds/rss/"},
+      {"name": "apotheke adhoc", "url": "https://www.apotheke-adhoc.de/rss.xml"},
+      {"name": "Glossy", "url": "https://www.glossy.co/feed/"},
+      {"name": "Beauty Independent", "url": "https://www.beautyindependent.com/feed/"}
+    ]},
+    {"id": "ai", "title": "AI & Tech", "feeds": [
+      {"name": "heise", "url": "https://www.heise.de/rss/heise-top-atom.xml"},
+      {"name": "t3n", "url": "https://t3n.de/rss.xml"},
+      {"name": "The Verge AI", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml"},
+      {"name": "Simon Willison", "url": "https://simonwillison.net/atom/everything/"},
+      {"name": "Hacker News 300+", "url": "https://hnrss.org/frontpage?points=300"}
+    ]}
+  ],
+  "markets": [
+    {"name": "DAX", "symbol": "^GDAXI"},
+    {"name": "Euro Stoxx 50", "symbol": "^STOXX50E"},
+    {"name": "S&P 500", "symbol": "^GSPC"},
+    {"name": "Nasdaq", "symbol": "^IXIC"},
+    {"name": "EUR/USD", "symbol": "EURUSD=X"},
+    {"name": "Gold", "symbol": "GC=F"},
+    {"name": "Bitcoin (EUR)", "symbol": "BTC-EUR"}
+  ],
+  "topic_fields": ["Finanzen & Märkte", "Politik & Geschichte", "E-Commerce & DTC", "Ernährung & Supplements", "Sport & Körper", "AI & Technik", "Berlin"]
+}

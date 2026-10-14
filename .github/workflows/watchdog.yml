@@ -1,0 +1,22 @@
+name: watchdog
+# Meldet per Telegram, wenn der heutige Feed bis ~08:00 Berlin nicht erschienen ist
+# (Routine nicht gelaufen oder abgebrochen, bevor sie selbst melden konnte).
+on:
+  schedule:
+    - cron: "30 6 * * 1-5"
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: claude/feed
+      - name: Heutigen Feed prüfen
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          today=$(TZ=Europe/Berlin date +%F)
+          if [ -f "docs/d/$today.html" ]; then echo "ok $today"; exit 0; fi
+          python3 scripts/notify.py --text "⚠️ Morning Feed $today fehlt. Die Routine ist nicht gelaufen oder vorher abgebrochen. Log: https://claude.ai/code/routines"
