@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-14",
+  "headline": "Die rot-grün-rote Sondierung in Berlin ist nach Zoff um eine Antisemitismus-Erklärung vorerst gerettet, während Bund und Länder die Zuckersteuer ab Mitte 2027 beschließen und die US-Inflation auf 3,7 Prozent springt.",
+  "telegram_bullets": [
+    "Berlin: Rot-Grün-Rot-Sondierung nach Antisemitismus-Streit gerettet, Gespräche gehen Donnerstag weiter.",
+    "Bund: Zuckersteuer ab Juli 2027 beschlossen (bis 26 Cent/Liter), Nord-Stream-Prozess startet in Hamburg.",
+    "Märkte: US-Inflation springt auf 3,7 %, Anleiherenditen auf 24-Jahres-Hoch, DAX seitwärts bei 25.300.",
+    "Tech: Anthropic warnt vor selbstreplizierender KI, Google holt im KI-Rennen gegen OpenAI auf."
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Rot-Grün-Rot-Sondierung in Berlin nach Antisemitismus-Streit fortgesetzt",
+          "summary": "SPD, Grüne und Linke hatten die Sondierungen für eine Koalition kurz unterbrochen, weil die Linksfraktion eine andere Antisemitismus-Erklärung unterschrieben hatte als vereinbart. Am Mittwochabend einigten sich die drei Parteien, dass die gemeinsame Erklärung gilt und Teil des Koalitionsvertrags wird; die Gespräche laufen am Donnerstag weiter.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-gruene-linke-spd-sondierung-vanessa-emde-antisemitismus.html"
+        },
+        {
+          "title": "Nach Gewaltserie in Potsdam kündigt Innenminister Sicherheitsgespräche an",
+          "summary": "Nach mehreren schweren Gewalttaten mutmaßlich migrantischer Jugendlicher in Potsdam hat Brandenburgs Innenminister Jan Redmann Konsequenzen angekündigt und schließt Abschiebungen nicht aus. Die AfD hatte das Thema im Landtag auf die Tagesordnung gesetzt.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-landtag-potsdam-jugend-gewalt-innenminister-sicherheit-gespraeche.html"
+        },
+        {
+          "title": "Brandenburger Landtag erhöht Beamtenbesoldung um bis zu 2400 Euro",
+          "summary": "Nach einem Urteil des Bundesverfassungsgerichts hebt der Landtag einstimmig die Gehälter der Beamtinnen und Beamten an, einen Monat früher als geplant. Ab Dezember gibt es je nach Besoldungsgruppe bis zu 2400 Euro mehr im Monat, dafür müssen Beamte künftig auch mehr arbeiten.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/potsdam/brandenburg/landtag-erhoht-einstimmig-die-gehalter-ab-dezember-gibt-es-fur-beamte-bis-zu-2400-euro-pro-monat-mehr-16160879.html"
+        },
+        {
+          "title": "Berliner Grundschule protestiert mit Tanz gegen Elterntaxis",
+          "summary": "Die Athene-Grundschule in Steglitz-Zehlendorf wünscht sich eine temporäre Schulstraße ohne Autoverkehr und ließ Schülerinnen und Schüler aus Protest griechische Tänze aufführen. Warum eine zeitlich begrenzte Sperrung bislang nicht möglich ist, bleibt unklar.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/bezirke/steglitz-zehlendorf/berliner-schule-will-autos-aussperren--tanzende-kinder-protestieren-gegen-elterntaxis-warum-nicht-poller-16160417.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Merz warnt in Regierungserklärung vor Extremismus durch Unzufriedenheit",
+          "summary": "Bundeskanzler Merz sagte, Deutschland stehe unter so großem Druck wie vielleicht noch nie; Unzufriedenheit begünstige Extremismus. Zugleich betonte er, Gelder für die Ukraine gingen nicht zulasten von Sozial- oder Bildungsausgaben.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/merz-regierungserklaerung-122.html"
+        },
+        {
+          "title": "Koalition einigt sich auf Zuckersteuer ab Mitte 2027",
+          "summary": "Union und SPD haben den Streit über die Steuer auf gesüßte Getränke beigelegt. Ab 1. Juli 2027 gilt ein Zwei-Stufen-Modell mit bis zu 26 Cent Steuer pro Liter, abhängig vom Zuckergehalt ab 5 Gramm pro 100 Milliliter.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/schwarz-rote-koalition-einigt-sich-auf-zuckersteuer-102.html"
+        },
+        {
+          "title": "Nord-Stream-Prozess gegen ukrainischen Ex-Soldaten beginnt in Hamburg",
+          "summary": "Rund vier Jahre nach der Sprengung der Pipelines startet der Prozess gegen Serhii Kuznetsov. Ihm wird vorgeworfen, eine Tauchergruppe angeführt zu haben, die die Sprengsätze platzierte; die Verteidigung nennt Nord Stream ein legitimes militärisches Ziel und beantragt die Einstellung des Verfahrens.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/prozess-nord-stream-100.html"
+        },
+        {
+          "title": "Kabinett beschließt Eckpunkte für Jugendschutz bei Social Media",
+          "summary": "Die Bundesregierung hat ein Maßnahmenpaket von einer Altersgrenze bis zu einem KI-gestützten Jugendschutz-Tool auf den Weg gebracht. Wann die Regelungen konkret in Kraft treten, ist noch offen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/kabinett-beschluss-jugendschutz-social-media-100.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "EU-Gipfel berät über Energiekrise, China und umstrittenen Haushalt",
+          "summary": "Beim Gipfel in Brüssel geht es um günstigere Energie, besseren Schutz der europäischen Industrie vor China und einen wachsenden Streit über die EU-Ausgaben. Macron und Merz halten zwar die Schlüssel für eine Einigung, ihre innenpolitische Schwäche könnte das aber erschweren.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/france-emmanuel-macron-germany-friedrich-merz-hold-keys-eu-budget-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "title": "Proteste in Tirana eskalieren, Bildungsministerium brennt",
+          "summary": "In der albanischen Hauptstadt haben Studierende am zweiten Tag in Folge Brandsätze auf Regierungsgebäude geworfen. Die Polizei wird wegen übermäßiger Gewalt gegen Demonstrierende und Journalisten kritisiert.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/albania-protests-escalate-students-torch-businesses-government-buildings/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "title": "Papst Leo XIV. nach Lungenkrebs-Diagnose auf dem Weg der Besserung",
+          "summary": "Nach einer rund 90-minütigen Operation am Dienstag bestätigte der Vatikan die Diagnose Lungenkarzinom beim 71-jährigen Papst. Die Ärzte beschreiben die Erholung als erwartungsgemäß.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/papst-leo-xiv-krebserkrankung-100.html"
+        },
+        {
+          "title": "Ukraine warnt vor Drosselung des Starlink-Zugangs durch SpaceX",
+          "summary": "Ukrainische Offiziere vergleichen die plötzliche Einschränkung ihres Satellitendienstes mit einem nuklearen Schlag gegen die eigenen Drohnenmissionen. Präsident Selenskyj bat Elon Musk persönlich, den Dienst wieder freizugeben.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/ukraine-starlink-restrictions-disrupt-drone-strikes/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Türkische Polizei durchsucht oppositionskritischen Sender Halk TV",
+          "summary": "Die Behörden stoppten eine laufende Sendung, setzten einen Treuhänder ein und eröffneten ein Ermittlungsverfahren. Es ist das jüngste Kapitel einer jahrzehntelangen Einschränkung kritischer Medien durch Präsident Erdogan.",
+          "source": "DW",
+          "url": "https://www.dw.com/en/turkey-government-raids-takes-over-top-news-channel/a-79662749?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "title": "Netflix streicht 1000 Jobs, tiefster Einschnitt seit 2022",
+          "summary": "Der Streaminganbieter baut rund sechs Prozent der weltweiten Belegschaft ab. Die Aktie war zuvor binnen eines Jahres um mehr als 40 Prozent gefallen.",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/5f1b2f31-2067-4c3a-8093-54210a7c0e72?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Frachtschiff nach Treffer in der Straße von Hormus gesunken",
+          "summary": "Das unter Singapur-Flagge fahrende Containerschiff GFS Pride wurde nach einem Beschuss vollständig evakuiert, alle 21 Seeleute kamen in Sicherheit. Die Schifffahrtsbehörden warnen vor treibenden Containern auf der wichtigen Öl-Route.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/crkg7q97z078o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Britischer Premier Burnham empfängt Selenskyj nach Streit mit Trump",
+          "summary": "Nach dem umstrittenen Diesel-Deal zwischen Trump und Russland will der britische Premierminister Brücken zwischen Washington und Kiew reparieren und empfing den ukrainischen Präsidenten mit König Charles in Downing Street.",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/16ceb1fb-662c-4379-8187-0a51a7f4106f?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "US-Inflation springt im September überraschend auf 3,7 Prozent",
+          "summary": "Höhere Spritpreise trieben die Teuerung deutlich über die Erwartungen der Ökonomen, die US-Anleiherenditen zogen sofort an. Für Präsident Trump kommt das kurz vor den Midterms zum ungünstigsten Zeitpunkt.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/geldpolitik/inflation-preise-in-den-usa-steigen-im-september-um-37-prozent/100261070.html"
+        },
+        {
+          "title": "US-Staatsanleiherenditen auf höchstem Stand seit 24 Jahren",
+          "summary": "Auf das Renditehoch von 1981 folgte damals eine jahrzehntelange Kursrally am Anleihemarkt. Ob sich die Geschichte wiederholt, ist unter Anlegern umstritten.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/us-staatsanleihen-renditen-kursgewinne-anleger-100.html"
+        },
+        {
+          "title": "IWF warnt Industriestaaten vor weiter steigenden Schulden",
+          "summary": "Der Währungsfonds fordert große Volkswirtschaften auf, ihre Haushaltsdefizite zu senken, da steigende Zinsen und hohe Ausgaben den finanziellen Spielraum der Staaten einschränken.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-staatsverschuldung-industrielaender-haushalt-100.html"
+        },
+        {
+          "title": "Chinas Handelsüberschuss nähert sich der Billionen-Dollar-Marke",
+          "summary": "Die chinesischen Exporte stiegen im September überraschend stark, getrieben vor allem von Halbleitern und Autos. Der Handelsüberschuss könnte 2026 ein historisches Hoch erreichen.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/china-handelsueberschuss-100.html"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "Berkshire Hathaway steckt weitere 330 Millionen Dollar in Bending Spoons",
+          "summary": "Der Mutterkonzern der Routen-App Komoot sowie der Marken AOL und Vimeo hatte beim Börsengang im Juli bereits 600 Millionen Dollar von Berkshire erhalten. Die Aktie sprang nach der Nachricht zunächst um mehr als 40 Prozent.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/aktien-berkshire-investiert-weitere-330-millionen-dollar-in-bending-spoons/100262273.html"
+        },
+        {
+          "title": "Startup-Ticker: Causa Prima erhält 20 Millionen Euro Finanzierung",
+          "summary": "Im wöchentlichen Startup-Ticker von deutsche-startups.de meldet Causa Prima eine neue Finanzierungsrunde über 20 Millionen Euro, während der Risikokapitalmarkt insgesamt einen Milliarden-Boom erlebt.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/10/14/kittl-interface-capital-doreen-huber-finches-venture-capital-scipio-causa-prima/"
+        },
+        {
+          "title": "US-Kindermodemarke Monica + Andy startet erste große Kategorie-Erweiterung",
+          "summary": "Mehr als zehn Jahre nach der Gründung hat die DTC-Marke binnen eines Monats eine neue Baby-Care-Linie gelauncht und erweitert sich damit erstmals über Kinderkleidung hinaus.",
+          "source": "Modern Retail",
+          "url": "https://www.modernretail.co/marketing/monica-andy-expands-beyond-kids-clothing-and-into-baby-care/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+        },
+        {
+          "title": "Beauty-Pitch HyEx scheitert bei Höhle der Löwen an Wirksamkeitsnachweisen",
+          "summary": "Zwei Gründerinnen stellten ein ungewöhnliches Beauty-Produkt vor, der Deal kam aber nicht wegen des Preises, sondern wegen fehlender Wirksamkeitsnachweise und heikler Werbeversprechen nicht zustande, ein Problem, das laut Bericht viele Supplement- und Beauty-Startups betrifft.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/10/14/hyex-wenn-der-wichtigste-satz-nicht-gesagt-werden-darf/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "US-Gericht stoppt gefälschte Websites mit Fake-Timeline-Produkten",
+          "summary": "Ein Bundesgericht in Massachusetts erließ eine Verfügung gegen ein Netzwerk von Websites, die die Schweizer Firma Timeline imitierten, um gefälschte oder nicht existierende Mitopure-Präparate mit Urolithin A zu verkaufen.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/14/us-court-freezes-fraudulent-timeline-copycat-websites/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Redcare Pharmacy bekommt mit Peter Schmid von Linstow neuen CEO",
+          "summary": "Die außerordentliche Hauptversammlung in Sevenum bestellte von Linstow, der mehr als 20 Jahre Erfahrung bei digitalen Plattformen wie eBay, Parship und AutoScout24 mitbringt, zum neuen Vorstandschef.",
+          "source": "apotheke adhoc",
+          "url": "https://www.apotheke-adhoc.de/nachrichten/detail/markt/redcare-von-linstow-ist-neuer-ceo/"
+        },
+        {
+          "title": "Neuseeland konsultiert über neue Regeln für Nahrungsergänzungsmittel",
+          "summary": "Bis zum 2. November können Stellungnahmen zu geplanten Vorgaben für Health Claims, Markteintritt, Herstellung und Kennzeichnung von natürlichen Gesundheitsprodukten eingereicht werden.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/14/new-zealand-consults-on-health-claims-pre-market-entry-for-natural-health-products/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "TikTok Shop erwartet deutlich stärkere Beauty-Umsätze zu den Feiertagen",
+          "summary": "Der Beauty-Chef der Plattform rechnet mit Umsätzen deutlich über dem Vorjahreswert von 392,8 Millionen Dollar im November, getragen von mehr Livestreams der Marken.",
+          "source": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/tiktok-shop-beauty-gm-forecasts-bigger-holiday-sales-more-brand-livestreams/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Anthropic warnt vor selbstreplizierender KI in vernetzten Haushaltsgeräten",
+          "summary": "Eine neue Studie beschreibt, wie sich KI-Modelle theoretisch von Gerät zu Gerät verbreiten könnten, etwa über Kühlschränke, Öfen oder Sicherheitskameras. Kritiker werfen Anthropic vor, mit der Warnung erneut Ängste vor unkontrollierbarer KI zu befeuern.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk"
+        },
+        {
+          "title": "Hinton, Bengio und 400 Forscher fordern erneut strengere KI-Regulierung",
+          "summary": "In einem offenen Brief verlangen die KI-Pioniere ein internationales Kontrollgremium für Sicherheitsstandards. Beobachter zweifeln, ob ein weiterer offener Brief dieses Mal mehr bewirkt als die vorherigen.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/ki-regulierung-hinton-forderung-1768146/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "title": "Das KI-Wettrennen ist zurück: Google holt gegen Anthropic und OpenAI auf",
+          "summary": "Nachdem Anthropic und OpenAI zuletzt mit immer leistungsfähigeren Modellen davonzuziehen schienen, meldet sich Google wieder zurück im Rennen, während Meta trotz Milliardeninvestitionen noch nicht als ernstzunehmender Konkurrent gilt.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on"
+        },
+        {
+          "title": "Festnahme nach versteckter Wanze in OpenAI-Konferenzraum",
+          "summary": "In einem Besprechungsraum des Unternehmens wurde ein verstecktes Aufnahmegerät entdeckt. Der mutmaßliche Täter wurde festgenommen und von OpenAI entlassen.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/Meetings-heimlich-aufgenommen-OpenAI-Angestellter-festgenommen-und-gefeuert-11487158.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "Ernährung & Supplements",
+    "title": "Skorbut und die Entdeckung von Vitamin C",
+    "body": "Jahrhundertelang starben Seeleute auf langen Reisen an Skorbut, einer Mangelkrankheit mit Zahnfleischbluten, offenen Wunden und großer Erschöpfung, ohne dass jemand die Ursache kannte. 1747 führte der schottische Schiffsarzt James Lind eines der ersten kontrollierten klinischen Experimente der Medizingeschichte durch: Er teilte erkrankte Seeleute in Gruppen und gab ihnen unterschiedliche vermeintliche Heilmittel, von Essig bis Meerwasser. Nur die Gruppe, die Zitrusfrüchte erhielt, erholte sich deutlich schneller. Trotzdem dauerte es noch fast 50 Jahre, bis die britische Marine Zitrusfruchtsaft zur Pflicht machte, und erst 1932 isolierten Forscher den eigentlichen Wirkstoff: Vitamin C, also Ascorbinsäure. Der Fall zeigt, wie lange der Weg von einer wirksamen Beobachtung bis zum belegten Wirkmechanismus sein kann, ein Muster, das sich bis heute in der Supplement-Forschung wiederholt.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Skorbut",
+      "https://de.wikipedia.org/wiki/James_Lind"
+    ]
+  }
+}
