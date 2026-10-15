@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-15",
+  "headline": "Asiens Börsen stürzen wegen KI- und Inflationssorgen ab, während der EU-Gipfel über den Haushalt streitet und die Berliner Sondierung zwischen SPD, Grünen und Linken weiterläuft.",
+  "telegram_bullets": [
+    "Berlin: SPD, Grüne und Linke setzen die Sondierung heute fort, Antisemitismus-Erklärung wird Teil des Koalitionsvertrags.",
+    "EU-Gipfel in Brüssel: Merz will den EU-Haushalt bis 2034 kürzen, Le Pen fordert kleinere Beiträge.",
+    "Märkte: Nikkei bricht um 5 Prozent ein, Gold auf Rekordkurs, IWF warnt vor Staatsschulden.",
+    "Beauty & Supplements: Galderma kauft ZO Skin Health für 1,5 Mrd. Dollar, Zuckersteuer treibt Getränkepreise über 2 Euro."
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "SPD, Grüne und Linke setzen Sondierungsgespräche in Berlin fort",
+          "summary": "Nach der kurzen Unterbrechung wegen des Streits um eine Antisemitismus-Erklärung bestätigt SPD-Landeschef Krach, dass die gemeinsame Vereinbarung weiter gilt und Teil des Koalitionsvertrags wird. Die nächste Gesprächsrunde findet am Donnerstag statt.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/linke-gruene-und-spd-sondieren-weiter-102.html"
+        },
+        {
+          "title": "Brandenburg erlaubt kleine automatisierte Supermärkte",
+          "summary": "Der Landtag hat den Weg für sogenannte Smart Stores frei gemacht, kleine unbemannte Verkaufsflächen mit automatisierter Kasse. Für den Einzelhandel eröffnet das neue Standortmöglichkeiten etwa in dünner besiedelten Gebieten.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-landtag-erlaubnis-kleine--automatisierte-Supermaerkte.html"
+        },
+        {
+          "title": "Berlins Notfallreform droht Rettungsstellen zusätzlich zu belasten",
+          "summary": "Bis zu 20 neue Notfallzentren wären laut Bericht nötig, doch es fehlt an Geld und Ärzten. Ein Drittel der Praxisärzte geht zudem bald in Rente.",
+          "source": "Berliner Zeitung",
+          "url": "https://www.berliner-zeitung.de/article/notfallreform-berlin-benoetigt-bis-zu-20-neue-notfallzentren-doch-es-fehlen-geld-und-aerzte-10494866"
+        },
+        {
+          "title": "Bezirkskoalition in Steglitz-Zehlendorf bleibt bis Weihnachten offen",
+          "summary": "Die CDU hat Brücken zu möglichen Partnern gekappt, Schwarz-Grün und Grün-Rot-Rot bleiben beide im Rennen.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/bezirke/steglitz-zehlendorf/die-cdu-hat-die-brucken-zu-moglichen-partnern-abgerissen-im-berliner-sudwesten-wird-die-bezirksregierung-wohl-erst-vor-weihnachten-gewahlt-16162135.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Bundestag stimmt heute über die Notfallreform ab",
+          "summary": "Die Reform soll überlastete Notaufnahmen und Rettungsdienste entlasten und die Steuerung der Patienten verbessern. Große Hilfs- und Rettungsorganisationen fordern allerdings noch Nachbesserungen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/notfallreform-im-bundestag-100.html"
+        },
+        {
+          "title": "Tabaksteuer steigt, Zigarettenpackung soll bald 12 Euro kosten",
+          "summary": "Der Finanzausschuss hat den Gesetzentwurf bereits gebilligt, heute soll der Bundestag final zustimmen. Rauchen wird damit ab dem kommenden Jahr deutlich teurer.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/bundestag-soll-hoehere-tabaksteuer-absegnen-packung-soll-bald-12-euro-kosten-102.html"
+        },
+        {
+          "title": "Bundesweites Alkoholverbot an allen Bahnhöfen tritt in Kraft",
+          "summary": "Seit dem 15. Oktober gilt an rund 5.700 Stationen der Deutschen Bahn ein Alkoholverbot, auch auf den Bahnsteigen. Drogenbeauftragter Streeck begrüßt die Regelung, weil Alkohol Konflikte verschärfen könne.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/bahn-alkoholverbot-102.html"
+        },
+        {
+          "title": "Krankenkassen-Zusatzbeitrag soll 2027 stabil bleiben",
+          "summary": "Der GKV-Schätzerkreis erwartet keine Erhöhung des durchschnittlichen Zusatzbeitrags im kommenden Jahr. Gesundheitsminister Linnemann wertet das als gutes Zeichen für Beitragszahlerinnen und -zahler.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/gkv-zusatzbeitrag-bleibt-offenbar-stabil-100.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "EU-Gipfel verhandelt über Haushalt, Merz will bis 2034 kürzen",
+          "summary": "Auf dem zweitägigen Gipfel in Brüssel geht es um bis zu zwei Billionen Euro. Deutschland ist größter Nettozahler, Merz' Kürzungspläne stoßen bei anderen Staats- und Regierungschefs auf Unverständnis.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-gipfel-haushalt-102.html"
+        },
+        {
+          "title": "Le Pen bringt Forderung nach kleinerer EU zum Gipfel",
+          "summary": "Die Favoritin für die französische Präsidentschaftswahl bekräftigt vor dem Brüsseler Gipfel ihr Versprechen, die EU-Beiträge um Milliarden zu kürzen.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/le-pen-downsize-eu-contribution-cut-brussels/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "title": "Britischer Umfrage-Aufseher muss sich nach Farage-Affäre rechtfertigen",
+          "summary": "Mitglieder des British Polling Council fordern härteres Vorgehen gegen eine Firma, die ihre Reform-UK-Verbindungen verschwiegen haben soll.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/uk-polling-watchdog-faces-reckoning-after-farage-donor-sting/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "title": "Frontex setzt Reintegrationsprogramm nach Budget-Überschreitung aus",
+          "summary": "Die Pause kommt kurz vor einer geplanten Ausweitung der Rolle der EU-Grenzagentur bei Abschiebungen und wirft Finanzierungsfragen auf.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/frontex-suspends-reintegration-program-after-blowing-through-its-budget/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Istanbuls Ex-Bürgermeister İmamoğlu sagt erstmals im Mammutprozess aus",
+          "summary": "Nach mehr als anderthalb Jahren U-Haft äußerte sich İmamoğlu erstmals vor Gericht, parallel durchsuchte die Polizei den Sender Halk TV.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/tuerkei-imamoglu-prozess-110.html"
+        },
+        {
+          "title": "Nordkorea meldet Test von Marschflugkörpern aus U-Booten",
+          "summary": "Nach einem jüngsten Raketentest ins Meer meldet Pjöngjang nun den Test strategischer Marschflugkörper mit Unterwasserstart und baut seine Marine weiter aus.",
+          "source": "FAZ Politik",
+          "url": "https://www.faz.net/aktuell/politik/ausland/nordkorea-testet-marschflugkoerper-aus-u-booten-accg-201323426.html"
+        },
+        {
+          "title": "Houthis attack Saudi Aramco headquarters in Riyadh",
+          "summary": "Iran-backed militants retaliated after a Riyadh-led coalition targeted sites in Yemen's capital, raising fresh security concerns for Gulf oil infrastructure.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/a25417b3-d4e4-4b89-b14d-6370a85ce3c4?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Musk suggests US government may be behind Starlink slowdown",
+          "summary": "Musk pushed back on Zelensky's criticism, saying speed limits on Ukraine's Starlink access may originate elsewhere; Kyiv says access has improved but remains restricted.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Nikkei stürzt um 5 Prozent, KI-Sorgen erfassen Asiens Börsen",
+          "summary": "Gute Bilanzen zerstreuen die Furcht vor überteuerten KI-Bewertungen nicht mehr, der südkoreanische Kospi musste den Handel zeitweise aussetzen.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/sorge-um-ki-und-us-inflationsdaten-asiens-aktienkurse-stuerzen-ab/100262358.html"
+        },
+        {
+          "title": "IWF warnt Industriestaaten erneut vor wachsenden Schuldenbergen",
+          "summary": "Der Währungsfonds fordert große Volkswirtschaften auf, ihre Haushaltsdefizite zu senken, da steigende Zinsen und hohe Ausgaben den finanziellen Spielraum zunehmend einschränken.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/iwf-staatsverschuldung-industrielaender-haushalt-100.html"
+        },
+        {
+          "title": "Investors predict new gold price record within two years",
+          "summary": "Central banks made their highest monthly gold purchases in almost two years in September, as the metal trades near record highs amid global instability.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/7761de04-7fac-4f7b-bddb-8457e425b642?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Euro-Staatsanleihefonds erleben schwächstes Quartal seit 2022",
+          "summary": "Kaum eine wichtige Anlagestrategie lief zuletzt schlechter als europäische Staatsanleihen, zeigt eine Auswertung für das Handelsblatt.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/fonds-etf/geldanlage-euro-staatsanleihefonds-erleben-schwaechstes-quartal-seit-2022/100260017.html"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "Galderma buys ZO Skin Health for $1.5 billion",
+          "summary": "The deal combines two of the top five professional skincare brands in the US, diversifying Galderma's business beyond facial fillers amid softness in that market.",
+          "source": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/galderma-bolsters-skincare-portfolio-1-5b-deal-zo-skin-health/"
+        },
+        {
+          "title": "Gauge Capital acquires Saltyface, its third sunless-tanning brand",
+          "summary": "The private equity firm's latest buy fits into the broader 'skinification' of sunless tanning, as it builds a roll-up across the category in just over three years.",
+          "source": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/gauge-capital-acquires-premium-sunless-tanning-brand-saltyface/"
+        },
+        {
+          "title": "Moody's upgrades retail and apparel outlook as tariffs ease",
+          "summary": "The ratings agency expects more stable household finances to support the sector, though rising energy costs and geopolitical risk remain factors to watch.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/moodys-retail-apparel-outlook-boosted-tariff-refunds/832964/"
+        },
+        {
+          "title": "Crocs and Vera Bradley mine archives for fashion inspiration",
+          "summary": "Legacy brands are turning to their own back catalogs for current designs, a low-risk way to generate buzz without betting on new product development.",
+          "source": "Modern Retail",
+          "url": "https://www.modernretail.co/operations/why-crocs-vera-bradley-and-other-brands-are-diving-into-their-archives-for-fashion-inspiration/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "Zuckersteuer lässt 1,25-Liter-Cola über die 2-Euro-Marke steigen",
+          "summary": "Bis zu 32 Cent Steuer pro Liter sind geplant, Coca-Cola, Red Bull und Fritz-Kola reagieren zurückhaltend auf die kommende Zuckersteuer. Ein Hersteller warnt bereits vor steigenden Endverbraucherpreisen.",
+          "source": "Berliner Zeitung",
+          "url": "https://www.berliner-zeitung.de/article/neue-zuckersteuer-kommt-das-sagen-coca-cola-red-bull-und-fritz-kola-10495361"
+        },
+        {
+          "title": "New review casts doubt on magnesium for better sleep",
+          "summary": "A systematic review of randomized controlled trials found the evidence for magnesium supplementation improving sleep inconsistent and of low certainty, challenging a popular supplement claim.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/14/magnesium-and-sleep-what-does-the-science-say/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Supplement executives question what private equity buyers really bring",
+          "summary": "At the CRN Convergence conference, industry leaders discussed ownership changes in the sector, stressing that buyers need to offer long-term value beyond just capital.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/14/crn-convergence-2026-supplement-executives-question-what-buyers-bring-to-brands/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Touchland founder Andrea Lisbona steps down as CEO",
+          "summary": "Lisbona built the hand-sanitizer brand from its 2018 launch to its 2025 sale to Church & Dwight for up to $880 million, and will stay involved.",
+          "source": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/founder-andrea-lisbona-steps-down-touchland-ceo/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Anthropic flags revenue surge to investors before stock debut",
+          "summary": "The disclosure comes as some investors grow uneasy about the scale of spending on AI infrastructure ahead of Anthropic's planned stock market listing.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Eight US states sue OpenAI over child safety in ChatGPT",
+          "summary": "Iowa, Kansas, Nebraska and five other states allege OpenAI put profits over safety and misled customers about risks to children using the chatbot.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety"
+        },
+        {
+          "title": "Kritik an Anthropics Warnung vor KI-Würmern im Smart Home",
+          "summary": "Nach der neuen Studie zu selbstreplizierender KI in vernetzten Geräten wächst der Unmut: Kritiker werfen Anthropic vor, mit der Warnung erneut gezielt Ängste vor unkontrollierbarer KI zu schüren.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/killer-ki-im-smarthome-anthropic-pr-1768255/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "title": "Digitalministerium dementiert Rückzug aus KI-Projekt mit SAP und Mistral",
+          "summary": "Das Ministerium widerspricht Berichten über einen Projektstopp, die Zusammenarbeit laufe unverändert weiter. Der Bund setzt damit weiter auf europäische KI-Alternativen.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/Digitalministerium-stellt-klar-Kein-Rueckzug-bei-KI-Projekt-mit-SAP-und-Mistral-11487212.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "Politik & Geschichte",
+    "title": "Sondierung oder Koalitionsverhandlung: Wo der Unterschied liegt",
+    "body": "Wenn in Berlin gerade von Sondierungsgesprächen zwischen SPD, Grünen und Linken die Rede ist, klingt das nach einem technischen Detail, ist aber ein eigener, ernster Verfahrensschritt im deutschen Regierungsbilden. Nach einer Wahl prüfen potenzielle Partner zunächst in Sondierungsgesprächen, ob eine Zusammenarbeit überhaupt möglich ist: Welche Themen sind verhandelbar, wo liegen rote Linien, wer käme als Partner in Frage. Diese Gespräche sind unverbindlich, es gibt noch keinen Vertrag und keine Ministerposten. Erst wenn sich die Sondierer einig sind, beginnen die eigentlichen Koalitionsverhandlungen, an deren Ende der Koalitionsvertrag steht, das verbindliche Regierungsprogramm. Genau deshalb konnte die Berliner Sondierung wegen des Streits um eine Antisemitismus-Erklärung so leicht ins Stocken geraten: Ohne Vertrag gibt es noch nichts zu brechen, nur Vertrauen, das verloren gehen kann. Der Begriff stammt aus der Seefahrt, wo man mit einem Lot die Wassertiefe sondierte, bevor man sich mit dem Schiff hineinwagte, ein passendes Bild für vorsichtiges politisches Austesten vor der eigentlichen Fahrt.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Koalitionsvertrag",
+      "https://de.wikipedia.org/wiki/Regierungsbildung"
+    ]
+  }
+}
