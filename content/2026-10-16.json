@@ -1,0 +1,279 @@
+{
+  "date": "2026-10-16",
+  "headline": "Der Bundestag beschließt an einem Reformtag Tabaksteuer, Frühstartrente und Notfallreform, die EZB gibt UniCredit grünes Licht für die Commerzbank-Übernahme, und ein Amoklauf an einer Grundschule in Oregon kostet drei Kinder und eine Lehrerin das Leben.",
+  "telegram_bullets": [
+    "Bundestag beschließt an einem Reformtag Tabaksteuer, Frühstartrente und die Notfallreform.",
+    "EZB gibt grünes Licht: UniCredit darf seinen Commerzbank-Anteil auf rund 50 Prozent aufstocken.",
+    "Oregon: 16-Jähriger tötet drei Kinder und eine Lehrerin an einer Grundschule, wird von einem Anwohner erschossen.",
+    "Berlin: Grüne entscheiden am Montag über den nächsten Schritt bei der Sondierung mit SPD und Linken."
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Grüne wollen Montag über nächsten Schritt bei Sondierung entscheiden",
+          "summary": "Nach der Wahl sondieren Grüne, Linke und SPD weiterhin über eine mögliche Koalition. Auf einem Parteitag wollen die Grünen am Montag festlegen, wie es mit den Gesprächen weitergeht, ein Experte spricht von völlig offenem Ausgang.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-gruene-linke-spd-sondierung-zielgerade-parteitag-koalitionsgespraeche.html"
+        },
+        {
+          "title": "Senatskanzlei: Akute Gefahr nach Hackerangriff beendet",
+          "summary": "Nach einem Angriff auf IT-Systeme der Berliner Senatskanzlei sieht die Verwaltung die unmittelbare Bedrohung inzwischen gebannt. Details zu Umfang und Hintergrund des Angriffs blieben zunächst offen.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-senatskanzlei-akute-gefahr-nach-hackerangriff-beendet.html"
+        },
+        {
+          "title": "BVG will ab 2029 rund 3.600 neue Fahrkartenautomaten mit kontaktlosem Bezahlen",
+          "summary": "Die Berliner Verkehrsbetriebe planen einen schrittweisen Austausch ihrer Ticketautomaten an Bussen, Trams und U-Bahnhöfen, um kontaktloses Bezahlen flächendeckend zu ermöglichen. Der Umbau soll mehrere Jahre dauern.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/bvg-austausch-ticketautomaten-schrittweise-ab-2029-geplant-busse-tram-u-bahnhoefe-berlin.html"
+        },
+        {
+          "title": "Linda Teuteberg wird neue DDR-Aufarbeitungsbeauftragte für Brandenburg",
+          "summary": "Die FDP-Politikerin folgt auf Maria Nooke und ist die erste Beauftragte in diesem Amt, die keine DDR-Oppositionelle war, ein Generationenwechsel in der Aufarbeitung der kommunistischen Diktatur.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/beitrag/2026/10/brandenburg-teuteberg-neue-ddr-aufarbeitungsbeauftragte.html"
+        },
+        {
+          "title": "Olympiastadion-GmbH widerspricht Vorwurf der Betriebsratsbehinderung",
+          "summary": "Verdi wirft der landeseigenen Olympiastadion GmbH vor, die Gründung eines Betriebsrats zu erschweren und prüft rechtliche Schritte. Das Unternehmen weist die Vorwürfe zurück.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/betriebsrat-gruendung-gewerkschaft-verdi-rechtliche-schritte-landeseigene-olympiastadion-berlin-gmbh.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Bundestag beschließt Notfallreform, was sich für Patienten ändert",
+          "summary": "Wer dringend medizinische Hilfe braucht, soll künftig schneller versorgt werden, leichtere Fälle sollen gar nicht erst in der Notaufnahme landen. Kritiker sehen in der Reform einen ersten Schritt, aber keinen Beweis echten Reformwillens.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/notfallversorgung-krankenhaus-reform-100.html"
+        },
+        {
+          "title": "Bundestag beschließt Anhebung der Tabaksteuer",
+          "summary": "Die Steuer auf Tabakprodukte wird über vier Jahre regelmäßig angehoben, der Bund erhofft sich daraus zusätzliche Einnahmen von rund 12 Milliarden Euro. Raucherinnen und Raucher müssen sich auf deutlich höhere Preise einstellen.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/erhoehung-der-tabaksteuer-und-weitere-beschluesse-100.html"
+        },
+        {
+          "title": "Frühstartrente: Wie aus zehn Euro eine Altersvorsorge werden soll",
+          "summary": "Der Bundestag will eine staatlich geförderte private Altersvorsorge schon im Kindesalter beschließen. Kinder ab Geburtsjahrgang 2020 sollen damit früh den Aufbau einer eigenen Vorsorge beginnen können.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/fruehstart-rente-wie-aus-zehn-euro-eine-altersvorsorge-werden-soll-102.html"
+        },
+        {
+          "title": "Bundesverfassungsgericht: Reiche muss Instagram-Video löschen",
+          "summary": "Wirtschaftsministerin Reiche muss ein Video mit einem Antisemitismusvorwurf gegen die Linkspartei vorerst aus dem Netz nehmen. Das Verfassungsgericht gab einem Eilantrag der Linken statt.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/reiche-linke-instagram-100.html"
+        },
+        {
+          "title": "Pistorius will Reservedienst in der Bundeswehr verpflichtend machen",
+          "summary": "Der Bundestag berät über das Reservestärkungsgesetz, das die Zahl der Reservistinnen und Reservisten bis 2033 auf 200.000 erhöhen soll. Aus der Wirtschaft kommt Kritik an den geplanten Verpflichtungen für Arbeitgeber.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-reservestaerkungsgesetz-100.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "EU-Gipfel ohne Fortschritt, Haushaltsstreit verschiebt sich auf November",
+          "summary": "Beim Brüsseler Gipfel blieb der Streit um den langfristigen EU-Haushalt und die Energiepolitik ungelöst. Ratspräsident Costa will nun in den kommenden Wochen einen neuen Verhandlungsvorschlag vorlegen, Macron unterstützt sein Ziel, bis Jahresende zu einer Einigung zu kommen.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/budget-showdown-november-antonio-costa-deal-european-council-summit/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "title": "Deutschland und Frankreich wollen Verbrenner-Aus aufweichen",
+          "summary": "Berlin setzt sich dafür ein, dass auch nach 2035 weiter Neuwagen mit Verbrennungsmotor zugelassen werden können. Frankreichs Präsident Macron hat sich bislang gesperrt, nun zeichnet sich zwischen beiden Ländern ein Kompromiss ab.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-lockerung-100.html"
+        },
+        {
+          "title": "Erneut Feuer auf Handelsschiff vor Rumäniens Küste",
+          "summary": "Im Schwarzen Meer ist nach rumänischen Angaben ein Handelsschiff von Drohnen getroffen worden und in Brand geraten. Mehrere Seeleute werden noch vermisst.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/rumaenien-schiff-feuer-100.html"
+        },
+        {
+          "title": "Slowakei nimmt im Stillen Militärkontakte zu Russland wieder auf",
+          "summary": "Unter Premier Fico gilt die Slowakei schon länger als Russlands Einfallstor in die EU. Dass das Land nun auch die Militärkontakte erneuert hat, sorgt in Brüssel für Besorgnis.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/slowakei-fico-russland-102.html"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Oregon: Schütze tötet drei Kinder und eine Lehrerin an Grundschule",
+          "summary": "Ein 16-Jähriger eröffnete in einer Grundschule in Bend das Feuer und tötete drei Kinder im Alter von fünf, acht und elf Jahren sowie eine Lehrerin, zwei weitere Personen wurden verletzt. Ein Anwohner verfolgte und erschoss den Angreifer.",
+          "source": "DW",
+          "url": "https://www.dw.com/en/oregon-school-shooting-gunman-kills-3-students-and-teacher-before-being-shot-dead-by-community-member/a-79674849?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "title": "Huthi-Raketenangriff auf Regierungssitz im jemenitischen Aden",
+          "summary": "Ballistische Raketen trafen den Palast der international anerkannten Regierung, mindestens fünf Menschen starben. Regierungsmitglieder blieben nach Angaben des Informationsministers unverletzt.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Mindestens 33 Tote bei Einsturz eines Schuldachs in Pakistan",
+          "summary": "Unter den Toten sind vor allem Schüler, die zur Unterrichtszeit im Gebäude waren. Die Polizei hat bereits eine erste Festnahme im Zusammenhang mit dem Einsturz gemeldet.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/pakistan-schuldach-einsturz-tote-100.html"
+        },
+        {
+          "title": "Tote nach Starkregen und Überschwemmungen in Istanbul",
+          "summary": "Heftige Regenfälle setzten Straßen unter Wasser und ließen Fahrzeuge stecken bleiben, mehrere Menschen kamen ums Leben. Behörden warnen bereits vor neuem Starkregen in den kommenden Tagen.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/tuerkei-ueberschwemmungen-istanbul-100.html"
+        },
+        {
+          "title": "Ukraines Starlink-Zugang nach Drosselung wieder voll verfügbar",
+          "summary": "Nach tagelangen Einschränkungen funktionieren Starlink und Starshield in der Ukraine wieder uneingeschränkt. Kiew setzte parallel die Angriffe auf russische Ölraffinerien fort, entgegen einer Forderung von Präsident Trump.",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/10/15/ukraine-starlink-restored-strikes-russia-trump-musk"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "EZB gibt grünes Licht, UniCredit darf Commerzbank-Anteil auf rund 50 Prozent aufstocken",
+          "summary": "Die italienische Großbank kommt ihrem Ziel einer Kontrollübernahme damit einen entscheidenden Schritt näher. Die Übernahme stieß seit Monaten auf Widerstand, auch aus der Bundesregierung.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/ezb-uebernahme-commerzbank-100.html"
+        },
+        {
+          "title": "Nasdaq fängt sich nach Abverkauf von Chipwerten, DAX bleibt stabil",
+          "summary": "US-Anleger trauen den enormen Investitionen in KI weiterhin nicht ganz, gemischte Konjunktursignale deuten zudem auf eine weiter steigende Inflation hin. Der deutsche Leitindex zeigte sich von den weltweiten Kursverlusten bei Technologieaktien kaum beeindruckt.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nasdaq-faengt-sich-zu-handelsende-nach-abverkauf-von-chipwerten/100262544.html"
+        },
+        {
+          "title": "UBS erwägt bei zu strengen Schweizer Regeln offenbar Umzug oder Fusion",
+          "summary": "Insidern zufolge zieht die Schweizer Großbank als Reaktion auf strengere geplante Bankenregeln sogar einen Umzug ins Ausland in Betracht. Hintergrund sind Pläne der Schweizer Politik für schärfere Eigenkapitalvorgaben.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-ubs-erwaegt-bei-zu-strengen-regeln-offenbar-umzug-oder-fusion/100262665.html"
+        },
+        {
+          "title": "Anleger fliehen angesichts der KI-Turbulenzen in Staatsanleihen",
+          "summary": "Treasuries legten zu, während weltweit Chipaktien unter Zweifeln an der Nachhaltigkeit des KI-Booms litten. Gleichzeitig verkaufen Investoren zunehmend Anleihen von Rechenzentrumsbetreibern, deren Bonität zusehends unter Druck steht.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/cf5f1209-da29-4ce1-b425-0e83818bf9ec?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "Fintech Ramp erreicht 60-Milliarden-Dollar-Bewertung dank KI-Fokus",
+          "summary": "Die Finanzierungsrunde kommt, während der annualisierte Umsatz des Ausgabenmanagement-Anbieters auf über 2 Milliarden Dollar steigt und die Kundenzahl bereits 85.000 erreicht.",
+          "source": "TechCrunch Fundraising",
+          "url": "https://techcrunch.com/2026/10/15/ramp-reaches-60b-valuation-as-it-pushes-deeper-into-ai/"
+        },
+        {
+          "title": "80 Prozent des Marktplatz-Umsatzes in Europa stammen aus grenzüberschreitendem Handel",
+          "summary": "Die 100 größten in Europa aktiven Marktplätze erzielen laut einer neuen Studie zusammen rund 175,8 Milliarden Euro Warenvolumen, der Anteil grenzüberschreitender Verkäufe soll weiter steigen.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/80-of-marketplace-gmv-in-europe-come-from-cross-border-transactions/"
+        },
+        {
+          "title": "Heimtextil-Marke Ruggable verschiebt Werbebudget zu ShopMy-Creators",
+          "summary": "Seit August hat die DTC-Marke rund 10 Prozent ihres Budgets von Performance-Kanälen wie Meta in Markenkanäle wie Influencer und Connected TV umgeschichtet und will diesen Anteil 2027 weiter erhöhen.",
+          "source": "Modern Retail",
+          "url": "https://www.modernretail.co/marketing/ruggables-new-ad-spend-strategy-shifts-focus-to-shopmy-creators/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+        },
+        {
+          "title": "Target setzt auf TikTok-Marken wie Mellow Sleep, um Heimtextilien zu beleben",
+          "summary": "Der US-Händler hat die auf TikTok populäre Bettwarenmarke Mellow Sleep und weitere viral gewordene Brands ins Sortiment genommen, um die schwächelnde Home-Kategorie wiederzubeleben.",
+          "source": "Modern Retail",
+          "url": "https://www.modernretail.co/operations/target-bets-on-buzzy-tiktok-brands-like-mellow-sleep-to-revamp-its-home-category/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "EU startet Plattform zur Beschleunigung von Novel-Food-Zulassungen",
+          "summary": "Das neue „New Foods RegLab“ soll Unternehmen beim EFSA-Zulassungsprozess unterstützen, Anträge verbessern und regulatorische Verzögerungen verringern, ohne die Lebensmittelsicherheit zu senken.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/15/new-platform-to-speed-up-eu-and-uk-novel-food-approvals/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Milliarden-Dollar-Exits werden zum neuen Maßstab für Supplement-Marken",
+          "summary": "Angesichts eines Klimas großer Übernahmen streben inzwischen auch kleinere Supplement-Marken gezielt Milliarden-Dollar-Exits an, ein deutlicher Anstieg der Bewertungserwartungen in der Branche.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/15/are-billion-dollar-supplement-deals-becoming-the-new-benchmark/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Supplement-Marken denken Stoffwechselgesundheit über reinen Gewichtsverlust hinaus",
+          "summary": "Da GLP-1-Medikamente den Markt für Gewichtsmanagement verändern, richten neue Produktlaunches den Fokus stärker auf Darmgesundheit, Blutzuckerkontrolle, Sättigung und Muskelerhalt.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/15/metabolic-health-supplements-target-gut-health-glucose-control-and-satiety/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Beauty-Trend für Frühjahr 2027: Ausdrucksstarkes Make-up kehrt zurück",
+          "summary": "Von metallischem Lidstrich bei Dior bis farbenfrohen Smokey Eyes bei Gucci signalisierten die Laufstege eine Rückkehr zu kräftigerem Augen-Make-up, kombiniert mit frischer, natürlich wirkender Haut.",
+          "source": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/makeup-mary-phillips-patrick-ta-predict-whats-next/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Anthropic meldet Investoren vor geplantem Börsengang fast 50 Prozent Umsatzwachstum",
+          "summary": "Der Quartalsumsatz stieg laut Investoren-Briefing auf rund 16,8 Milliarden Dollar, nach 11,5 Milliarden im Vorquartal. Die Zahlen sollen das Vertrauen vor dem geplanten Börsengang stärken.",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors/"
+        },
+        {
+          "title": "Apple und Meta kooperieren, offenes KI-Modell Muse läuft künftig auf Macs",
+          "summary": "Die langjährigen Rivalen bringen gemeinsam eines der leistungsfähigsten offenen KI-Modelle auf hochwertige Mac-Rechner, ein überraschendes Bündnis angesichts früherer Streitigkeiten über Datenschutz und die Zukunft des Computings.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/news/1012293/meta-apple-muse-spark-open-ai-model-mlx"
+        },
+        {
+          "title": "ChatGPT kann jetzt geöffnete Chrome-Tabs einsehen",
+          "summary": "Über die Chrome-Erweiterung kann ChatGPT künftig bereits offene Browser-Tabs auswerten, wenn Nutzer Chrome im Chat markieren. Der separate Atlas-Browser von OpenAI wurde dafür eingestellt.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs"
+        },
+        {
+          "title": "Studie: Werbenetzwerke als Einfallstor für gezielte Spionage-Software",
+          "summary": "Eine Untersuchung des Citizen Lab zeigt, wie globale Online-Werbenetzwerke für Zero-Click-Spionageangriffe missbraucht wurden. Auch Medienhäuser gerieten dabei ins Visier der Angreifer.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/AdFection-Wie-Online-Werbung-zum-Einfallstor-fuer-Staatstrojaner-wird-11489744.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "E-Commerce & DTC",
+    "title": "Der Sears-Katalog: Urvater des Direct-to-Consumer-Modells",
+    "body": "Lange bevor Warby Parker oder Harry's als Direct-to-Consumer-Pioniere galten, erfand ein Uhrenhändler aus Chicago das Grundprinzip. Richard Sears begann 1886, Waren per Versandkatalog direkt an Kunden zu verkaufen, ohne den Umweg über den stationären Einzelhandel. Sein Katalog erreichte vor allem die Landbevölkerung in den USA, die kaum Zugang zu den großen Kaufhäusern der Städte hatte. Bis 1897 wuchs das Heft auf über 700 Seiten mit Tausenden Artikeln, von Kleidung bis zu kompletten Bausätzen für Fertighäuser, und wurde als „Wish Book“ zum festen Bestandteil amerikanischer Haushalte. Sears, Roebuck and Co. stieg so zum größten Handelsunternehmen der Welt auf, lange bevor es E-Mail, Internet oder Paid Social gab. Das Grundprinzip ist bis heute identisch: den Zwischenhändler umgehen, direkten Zugang zur Kundin oder zum Kunden aufbauen und darüber Vertrauen, Daten und Marge sichern, das Erfolgsrezept jeder modernen DTC-Marke.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Sears,_Roebuck_and_Company",
+      "https://en.wikipedia.org/wiki/Sears_Catalog"
+    ]
+  }
+}
