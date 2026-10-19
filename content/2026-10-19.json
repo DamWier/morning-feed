@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-19",
+  "headline": "Frankreich steckt nach einem Wochenende voller Plünderungen und Brandstiftungen in der Staatskrise, während SPD und Grüne in Berlin heute über Koalitionsverhandlungen mit der Linken entscheiden.",
+  "telegram_bullets": [
+    "Frankreich im Ausnahmezustand: Nach Plünderungen und Brandstiftungen in zahlreichen Städten berief Macron eine Krisensitzung ein, rund 1.800 Festnahmen.",
+    "Berlin: SPD und Grüne entscheiden heute, ob sie mit der Linken in Koalitionsverhandlungen eintreten.",
+    "US-Börsen geben wegen KI-Bewertungssorgen weiter nach (Nasdaq -2,15 %), der DAX bleibt robust (+0,95 %).",
+    "Anthropic will vor einem möglichen Börsengang 5 Prozent seiner Aktien in einen gemeinnützigen Fonds einbringen."
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "SPD und Grüne entscheiden heute über Koalitionsgespräche mit der Linken",
+          "summary": "Zwei Tage nach Abschluss der Sondierungen entscheiden SPD und Grüne heute, ob sie mit der Linken in Koalitionsverhandlungen eintreten. Die Entscheidung gilt als richtungsweisend für die erste rot-grün-rote Landesregierung in der Geschichte der Bundesrepublik.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/spd-landesvorstand-gruene-parteitag-koalitionsgespraeche.html"
+        },
+        {
+          "title": "Krings: Wahlrecht für Nicht-Deutsche in Berlin wäre verfassungswidrig",
+          "summary": "Linke, Grüne und SPD wollen Menschen ohne deutschen Pass nach fünf Jahren Aufenthalt wählen lassen. Unionspolitiker Günter Krings sieht darin einen Verstoß gegen das Grundgesetz.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-plane-in-der-hauptstadt-krings-auslander-wahlrecht-in-berlin-ware-verfassungswidrig-16175342.html"
+        },
+        {
+          "title": "Bundesregierung berät über Verbot der Wohnungsvergesellschaftung",
+          "summary": "Linke, SPD und Grüne wollen im Fall einer Regierung Wohnungen in Berlin vergesellschaften. Die Bundesregierung will das per Gesetz verhindern, doch ein Verbot hat rechtliche Hürden.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-umstrittene-plane-vergesellschaftung-verbieten-regierung-noch-in-abstimmung-16175330.html"
+        },
+        {
+          "title": "Vor 20 Jahren scheiterte Berlins Haushalt in Karlsruhe",
+          "summary": "Vor 20 Jahren zerstörte das Bundesverfassungsgericht Berlins Hoffnung auf Bundeshilfe bei den Schulden. Jetzt steuert die Stadt erneut auf eine Haushaltsnotlage zu, die Lage ist aber eine andere als damals.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-20-jahre-karlsruhe-bundesverfassungsgericht-haushalt-notlage-schulden.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Söder fordert bei Junger Union \"Brandmauer nach links\"",
+          "summary": "Nach dem Sondierungs-Durchbruch von Linke, Grünen und SPD in Berlin fordert CSU-Chef Söder beim \"Deutschlandtag\" der Jungen Union eine klare Abgrenzung nach links. Die Delegierten feiern ihn dafür.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/soeder-junge-union-102.html"
+        },
+        {
+          "title": "20 SPD-Bundestagsabgeordnete lehnen Gespräche mit Berliner Linken ab",
+          "summary": "In einer Erklärung fordern 20 SPD-Bundestagsabgeordnete, derzeit keine Verhandlungen mit der Berliner Linken aufzunehmen. Ihr \"Wertekompass\" sei nicht verhandelbar, berichtet der Spiegel.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/politik/afp-wertekompass-ist-niemals-verhandelbar-20-spd-abgeordnete-lehnen-koalitionsgesprache-mit-linken-ab-16175166.html"
+        },
+        {
+          "title": "Zeitplan der Rentenreform bleibt in der Koalition umstritten",
+          "summary": "Dass die Rentenreform kommen soll, ist in der schwarz-roten Koalition unstrittig. Über Details und Zeitplan gehen die Meinungen der Fraktionschefs aber weiterhin auseinander.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-zeitplan-miersch-frei-100.html"
+        },
+        {
+          "title": "Zahl der Menschen ohne Krankenversicherung in Deutschland steigt",
+          "summary": "Offiziell sind rund 72.000 Menschen in Deutschland nicht krankenversichert, Hilfsorganisationen schätzen die Dunkelziffer auf Hunderttausende. Die Tendenz ist nach Angaben von Ärzte der Welt steigend.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/leben-ohne-krankenversicherung-100.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "Frankreich im Ausnahmezustand nach landesweiten Krawallen",
+          "summary": "Bei Protesten gegen die Lebenshaltungskosten kam es in zahlreichen französischen Städten zu Plünderungen und Brandstiftungen, in Limoges brannte das historische Rathaus. Rund 1.800 Menschen wurden festgenommen, Präsident Macron berief eine Krisensitzung ein.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-ausschreitungen-116.html"
+        },
+        {
+          "title": "Proteste und Ausschreitungen erfassen auch Italien und Belgien",
+          "summary": "Auch in Mailand und Brüssel kam es am Wochenende zu gewaltsamen Zusammenstößen bei Protesten gegen hohe Lebenshaltungskosten und Bildungsreformen. Italiens Regierungschefin Meloni verurteilte die Gewalt, die Polizei setzte Tränengas und Wasserwerfer ein.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/italien-proteste-belgien-portugal-100.html"
+        },
+        {
+          "title": "Drohne stürzt in Litauen ab, NATO-Jets steigen auf",
+          "summary": "Eine Drohne drang in den litauischen Luftraum ein und sorgte für Alarm, NATO-Kampfjets stiegen auf. Kiew entschuldigte sich und vermutet eine russische Störaktion hinter dem Vorfall.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/litauen-drohne-absturz-ukraine-100.html"
+        },
+        {
+          "title": "Polens Verfassungsgericht wird erneut zum Schauplatz des Machtkampfs",
+          "summary": "In Warschau kommt es wegen des Streits um das Verfassungsgericht zu Handgreiflichkeiten. Ministerpräsident Tusk versucht, der nationalkonservativen PiS endgültig die Kontrolle über das Gericht zu entziehen.",
+          "source": "FAZ Politik",
+          "url": "https://www.faz.net/aktuell/politik/ausland/polens-verfassungsgericht-wieder-ein-showdown-zwischen-tusk-und-kaczyski-accg-201530283.html"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Chinas Wirtschaft wächst im dritten Quartal um 4,5 Prozent",
+          "summary": "Die Wachstumsrate bringt die zweitgrößte Volkswirtschaft der Welt nach Einschätzung von Analysten auf Kurs für ihr Jahresziel.",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/cf113314-1077-4ab4-b667-9912656684f1?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Kanadische Provinz Alberta stimmt über Abspaltung ab",
+          "summary": "In der ölreichen Provinz im Westen Kanadas erstarkt seit Jahren eine von US-Präsident Trump unterstützte Separatistenbewegung. Heute stimmen die Bewohner über ein mögliches Unabhängigkeitsreferendum ab.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/kanada-alberta-volksabstimmung-100.html"
+        },
+        {
+          "title": "Trump verteidigt Aussetzung von Russland-Sanktionen gegen Kritik",
+          "summary": "Der US-Präsident blockierte zahlreiche Sanktionen gegen Russland zwei Tage vor deren Inkrafttreten und begründet dies mit laufenden Friedensverhandlungen. Republikaner und Demokraten kritisierten den Schritt gleichermaßen scharf.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Vier Tote bei Großbrand auf Militärstützpunkt in Kanada",
+          "summary": "Militär und Rettungskräfte kämpften laut Premierminister Carney die ganze Nacht unter extremen Bedingungen gegen die Flammen auf der Basis in Alberta. Neben den vier Toten wurden Dutzende Menschen verletzt.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump spricht sich vor Wahl in Israel für Netanyahu aus",
+          "summary": "Neun Tage vor der Wahl am 27. Oktober unterstützt der US-Präsident den amtierenden Regierungschef öffentlich. Umfragen sehen Netanyahus rechte Koalition bislang unter der nötigen Mehrheit von 61 Sitzen.",
+          "source": "DW",
+          "url": "https://www.dw.com/en/israel-trump-endorses-netanyahu-ahead-of-elections/a-79693698?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Zweifel am KI-Boom belasten US-Börsen, DAX bleibt gelassen",
+          "summary": "Anleger am deutschen Aktienmarkt zeigen sich von der weltweiten Sorge über zu hohe KI-Bewertungen bisher wenig beeindruckt, während Nasdaq und S&P 500 zuletzt deutlich nachgaben. Die laufende Berichtssaison der US-Konzerne dürfte in den kommenden Tagen zeigen, ob der Optimismus trägt.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-und-boerse-aktuell-fuenf-punkte-die-fuer-anleger-heute-wichtig-sind/100002161.html"
+        },
+        {
+          "title": "Asiens Börsen uneins, KI-Sorgen belasten vor allem Japan",
+          "summary": "Anleger zweifeln zunehmend, ob die Einnahmen aus Künstlicher Intelligenz die enormen Investitionen rechtfertigen, der Nikkei gab deutlich nach. Chinesische Börsen legten dagegen zu, auch gestützt durch die am Montag gemeldeten starken Wachstumsdaten.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-asiens-boersen-uneins-ki-sorgen-belasten-japan-china-im-plus/100263138.html"
+        },
+        {
+          "title": "BoE-Chef Bailey fordert Antworten auf Risiken von KI-Agenten",
+          "summary": "Der Chef der britischen Notenbank warnte die Runde der G30, die rapide Verbreitung autonomer KI-Agenten sei inzwischen ein ernstes Thema für die Finanzstabilität. Aufsichtsbehörden müssten dringend nachziehen.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/3185b4cd-ab35-4efc-9d75-dcecc1631625?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Steigende Anleiherenditen bremsen Immobiliendeals weltweit aus",
+          "summary": "Durch stark steigende Anleiherenditen müssen Käufer bereits vereinbarte Immobiliendeals neu verhandeln, die Stimmung in der Branche gilt als düster. Betroffen sind auch erst vor wenigen Monaten geschlossene Transaktionen.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/aef890f1-e3f5-4add-b1fc-6187e2658106?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "Fintech Iwoca sichert sich 185 Millionen Euro Kreditlinien",
+          "summary": "Das Berliner Fintech sichert sich bei ABN Amro und Neuberger neue Kreditlinien für weiteres Wachstum in Deutschland, wo sich das Kreditgeschäft binnen zwölf Monaten mehr als verdoppelt hat.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/fintechs-iwoca-holt-abn-amro-und-neuberger-an-bord/100262798.html"
+        },
+        {
+          "title": "Energie-Startup Rabot Energy sammelt 50 Millionen Euro ein",
+          "summary": "Das Startup sichert sich eine der größeren Finanzierungsrunden der Woche in der DACH-Gründerszene, wie der Wochenrückblick von deutsche-startups.de zeigt.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/10/16/calibration-deeptech-byond-vc-elevateone-ai-15leafs-rabot-energy/"
+        },
+        {
+          "title": "Resale-Plattform RealReal refinanziert sich, Roots-Übernahme rückt näher",
+          "summary": "Der Luxus-Resale-Marktplatz stärkt mit einer neuen Finanzierung seine Bilanz, während die Aktionäre der Modemarke Roots die Übernahme durch Marquee Brands billigten.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/the-realreal-new-financing-gildan-ftc-price-fixing-scrutiny/833130/"
+        },
+        {
+          "title": "\"Dupe\"-Händler Quince startet in Großbritannien",
+          "summary": "Das US-Unternehmen kopiert Produkte bekannter Luxusmarken und verkauft sie deutlich günstiger weiter. Mit dem UK-Start wagt Quince den Sprung aus dem Heimatmarkt nach Europa.",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/3dae6c98-afeb-4b4c-9996-4279d4e2e3b2?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "FDA plant strengere Meldepflichten für \"GRAS\"-Inhaltsstoffe",
+          "summary": "Die US-Arzneimittelbehörde will mit verpflichtenden Meldungen für als sicher geltende Inhaltsstoffe mehr Transparenz in der Lebensmittelversorgung schaffen, ohne das bisherige Zulassungsverfahren grundlegend zu ändern. Ein Kommentarverfahren läuft bereits.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/16/fda-cites-gras-oversight-gaps-in-push-for-mandatory-notifications-requests-comments/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "GLP-1-Medikamente verändern die Nachfrage nach Supplements",
+          "summary": "Abnehmspritzen treiben die Nachfrage nach Produkten, die Nährstofflücken schließen, Nebenwirkungen abfedern und das Gewichtsmanagement unterstützen. Für Supplement-Marken entsteht damit ein wachsendes neues Produktsegment.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/16/five-ways-glp-1-drugs-are-altering-consumer-demand-for-supplements/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Patrick Ta Beauty klagt gegen CVS wegen nicht autorisierter Verkäufe",
+          "summary": "Die Marke wirft der Drogeriekette und einem Zwischenhändler Markenrechtsverletzung und unlauteren Wettbewerb vor. Die Klage wurde am 14. Oktober in Kalifornien eingereicht.",
+          "source": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/patrick-ta-beauty-sues-cvs-distributor-unauthorized-product-sales/"
+        },
+        {
+          "title": "Victoria's Secret baut Beauty-Sparte mit erster Skincare-Partnerschaft aus",
+          "summary": "Rund um die Fashion Show 2026 nutzt das Unternehmen die große Bühne, um seine Expansion ins Beauty-Geschäft zu bewerben. Erstmals kooperiert die Marke dafür auch im Hautpflege-Bereich.",
+          "source": "Glossy",
+          "url": "https://www.glossy.co/beauty/victorias-secret-to-leverage-fashion-show-to-promote-beauty-expansion-and-first-ever-skin-care-partnership/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Anthropic will 5 Prozent seiner Aktien in Stiftungsfonds einbringen",
+          "summary": "Die Ankündigung kommt, während das Unternehmen Vorbereitungen für einen möglichen Börsengang trifft. Der \"Public Benefit Fund\" soll gemeinnützige Zwecke mit einem Teil der künftigen Unternehmenswerte unterstützen.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Immer mehr Websites schließen sich für KI-Agenten",
+          "summary": "OpenAI, Meta und Google werben mit Agenten, die das Internet eigenständig durchsuchen und Aufgaben wie Buchungen erledigen sollen. Doch immer mehr Website-Betreiber verweigern den Bots in den vergangenen Wochen den Zugang.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web"
+        },
+        {
+          "title": "Meta streicht umstrittene Scraping-Klausel aus neuen Nutzungsbedingungen",
+          "summary": "Nach Kritik entfernt der Konzern eine Formulierung, die ihm erlaubt hätte, Inhalte von Nachrichtenseiten ungefragt für das KI-Training zu nutzen. Die neuen Bedingungen treten am 30. Oktober in Kraft.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites"
+        },
+        {
+          "title": "MIT-Forscherin warnt vor falschen Erinnerungen durch KI",
+          "summary": "Pattie Maes vom MIT Media Lab zeigte in einem Experiment, dass KI menschliche Erinnerungen beeinflussen kann. Sie warnt, das sei sowohl für Gerichtsverfahren als auch für die Geschichtsschreibung gefährlich.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/ki-menschen-falsche-erinnerungen-1768784/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "Finanzen & Märkte",
+    "title": "Der Nixon-Schock: Das Ende der Goldbindung des Dollars",
+    "body": "Am 15. August 1971 trat US-Präsident Richard Nixon im Fernsehen auf und verkündete eine folgenreiche Entscheidung: Die USA würden Dollar nicht mehr auf Verlangen in Gold umtauschen. Damit beendete er faktisch das Bretton-Woods-System, das seit 1944 die Weltwirtschaft stabil gehalten hatte, indem feste Wechselkurse an den Dollar und dieser wiederum an Gold gebunden waren. Der Auslöser war simpel: Die USA hatten durch Vietnamkrieg und Sozialprogramme mehr Dollar gedruckt, als ihre Goldreserven deckten, andere Länder tauschten zunehmend Dollar gegen Gold ein. Nixons Schritt, von Ökonomen seither Nixon-Schock genannt, machte den Dollar zur ersten großen Fiat-Währung ohne Edelmetall-Deckung und läutete das Zeitalter frei schwankender Wechselkurse ein, in dem wir bis heute leben. Für Anleger bedeutete das mehr Freiheit, aber auch neue Risiken wie Inflation und Währungsschwankungen, Themen, die Notenbanken seitdem jeden Tag beschäftigen.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Nixon-Schock",
+      "https://en.wikipedia.org/wiki/Bretton_Woods_system"
+    ]
+  }
+}
