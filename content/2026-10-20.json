@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-20",
+  "headline": "Berlin startet in Koalitionsverhandlungen zwischen SPD, Grünen und Linke, während Frankreichs Krawalle Märkte und Nachbarn in Europa beunruhigen.",
+  "telegram_bullets": [
+    "Berlin: SPD und Grüne stimmen für Koalitionsverhandlungen mit der Linken, deren Parteitag steht noch aus.",
+    "Frankreich verhängt nach den Krawallen Ausgangssperren, Innenminister Nuñez bietet seinen Rücktritt an.",
+    "Bund und Nvidia vereinbaren KI-Kooperation beim ersten Invest-in-Germany-Gipfel.",
+    "DAX startet schwach in die Woche, US-Börsen erholen sich nach dem Chip-Ausverkauf der Vorwoche."
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "SPD und Grüne stimmen für Koalitionsverhandlungen mit der Linken",
+          "summary": "Zwei Tage nach Abschluss der Sondierungen haben sich SPD und Grüne in Berlin für die Aufnahme von Koalitionsverhandlungen mit der Linkspartei ausgesprochen. Die Linke entscheidet erst Ende Oktober auf einem Parteitag, SPD-Fraktionschef Miersch äußerte zuvor noch Zweifel.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/berlin-wahl-spd-gruene-koalitionsverhandlungen-100.html"
+        },
+        {
+          "title": "Berliner Linke berät über Umgang mit Abgeordneter Emde",
+          "summary": "Nach dem Wahlsieg der Linken wird bundesweit über Antisemitismus- und Israel-Kritik in der Partei diskutiert. Die Fraktion will klären, wie sie mit der umstrittenen Abgeordneten Vanessa Emde umgeht, deren Neuköllner Bezirksverband sie gegen die Kritik der Parteispitze verteidigt.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-linke-israel-kritik-vanessa-emde-abgeordnete.html"
+        },
+        {
+          "title": "Grüne richten Kommission zur Senatsbesetzung ein",
+          "summary": "Nach Kritik am Spitzenduo Werner Graf und Bettina Jarasch soll eine vierköpfige Kommission mögliche Senatsmitglieder der Grünen auswählen. Die Partei reagiert damit auf ihr schwaches Wahlergebnis.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/checkpoint/der-checkpoint-am-morgen-partei-kommission-soll-senatsmitglieder-der-grunen-auswahlen-16178784.html"
+        },
+        {
+          "title": "Fast hunderttausend Straftaten in Berlins Bahnhöfen und Zügen",
+          "summary": "Die Bundespolizei registrierte binnen eines Jahres fast 100.000 Straftaten in Bahnhöfen und Zügen der Region. Betroffen sind vor allem stark frequentierte Umsteigebahnhöfe, Gewalt- und Diebstahlsdelikte dominieren die Statistik.",
+          "source": "Berliner Zeitung",
+          "url": "https://www.berliner-zeitung.de/article/fast-hunderttausend-straftaten-in-bahnhoefen-und-in-zuegen-10510908"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Steuerschätzung könnte höhere Einnahmen zeigen",
+          "summary": "Ab heute berät der Arbeitskreis Steuerschätzung, mit wie vielen Einnahmen Bund und Länder rechnen können - es könnte mehr werden als bisher erwartet. Das weckt bereits neue Ausgabenwünsche in der Koalition.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/steuereinnahmen-bund-laender-steuerschaetzung-100.html"
+        },
+        {
+          "title": "Bund vereinbart KI-Kooperation mit Nvidia",
+          "summary": "Beim ersten „Invest in Germany“-Gipfel haben Deutschland und der US-Chiphersteller Nvidia eine Absichtserklärung zur Zusammenarbeit bei Künstlicher Intelligenz unterzeichnet. Die Bundesregierung erhofft sich davon einen Schub für die deutsche Wettbewerbsfähigkeit.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bund-nvidia-zusammenarbeit-ki-100.html"
+        },
+        {
+          "title": "Kompromiss zur abschlagsfreien Frührente in der Union diskutiert",
+          "summary": "Im Streit um die Frührente für langjährig Versicherte wird in der Unionsfraktion laut Berichten ein Kompromiss gesucht. SPD-Generalsekretär Klüssendorf sieht noch Klärungsbedarf mit dem Koalitionspartner.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/unions-politiker-diskutieren-kompromiss-zur-abschlagsfreien-fruehrente-112.html"
+        },
+        {
+          "title": "Frauenanteil in deutschen Führungsetagen bleibt unter EU-Schnitt",
+          "summary": "Nur 30,3 Prozent der Führungspositionen in Deutschland waren 2025 mit Frauen besetzt, wie Destatis zum Europäischen Statistiktag mitteilt. Deutschland liegt damit weiter unter dem EU-Durchschnitt, Spitzenreiter ist Schweden.",
+          "source": "Destatis",
+          "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_N071_13.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "Frankreich verhängt Ausgangssperren nach Krawallen",
+          "summary": "Nach den gewalttätigen Protesten am Wochenende hat Frankreichs Regierung lokale Ausgangssperren verhängt. Innenminister Nuñez bot seinen Rücktritt an, Justizminister Darmanin räumte einen „Kontrollverlust“ der Sicherheitsbehörden ein.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-ausschreitungen-ausgangssperren-100.html"
+        },
+        {
+          "title": "Trump verschärft Ton gegen Selenskyj",
+          "summary": "US-Präsident Trump wirft der Ukraine vor, nichts zurückgegeben zu haben, obwohl die USA viel gegeben hätten. Selenskyj wiederum beschuldigt Washington, zugesagte Waffenlieferungen zurückzuhalten.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-spannungen-100.html"
+        },
+        {
+          "title": "Mindestens vier Tote durch Überschwemmungen in Spanien",
+          "summary": "Ein schweres Sturmtief hat Straßen und Ortschaften im Südosten Spaniens überflutet, Menschen mussten sich auf Hausdächer retten. Auf Mallorca fiel das Unwetter schwächer aus als zunächst befürchtet.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/spanien-unwetter-mallorca-102.html"
+        },
+        {
+          "title": "EU-Strategie rückt die Arktis als Sicherheitsrisiko in den Fokus",
+          "summary": "Die EU-Kommission stellt eine neue Arktis-Strategie vor, weil Russland dort seine militärische Präsenz ausbaut und China neue Schifffahrtsrouten erkundet. Auch der Klimawandel verändert die Region grundlegend.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/arktis-veraenderungen-eu-strategie-100.html"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Trump open to trilateral summit with Putin and Xi",
+          "summary": "President Trump said he would be open to a three-way summit with Russia's Putin and China's Xi, focused on denuclearization rather than the war in Ukraine as Moscow had suggested. No date has been confirmed.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/trump-says-he-is-open-to-trilateral-summit-with-putin-and-xi/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "title": "Huthi-Angriff auf jemenitisches Militärlager tötet mehr als 50",
+          "summary": "Die Huthi-Miliz beschoss ein Militärlager im Jemen mit mehreren ballistischen Raketen, mindestens 53 Soldaten starben. Die proiranische Miliz sprach von Vergeltung gegen Saudi-Arabien.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/jemen-huthi-angriff-militaerlager-viele-tote-100.html"
+        },
+        {
+          "title": "Canada's Alberta votes on independence referendum",
+          "summary": "Alberta, Canada's oil-rich western province, held a vote on whether to pursue a future independence referendum. Analysts see little chance of a real breakaway, but separatists hope the result will give them leverage over Mark Carney's government.",
+          "source": "DW",
+          "url": "https://www.dw.com/en/canada-alberta-votes-on-holding-independence-referendum/a-79700283?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "title": "Zwölf Tote bei zwei Bootsunglücken vor griechischen Inseln",
+          "summary": "Vor Samos und Lesbos sind binnen weniger Stunden zwei Boote mit Migranten gesunken, mindestens zwölf Menschen starben. Die Behörden nahmen einen mutmaßlichen Schleuser fest.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/aegaeis-bootsunglueck-100.html"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "DAX startet verlustreich in die Woche",
+          "summary": "Der Dax ist mit deutlichen Verlusten in die neue Woche gestartet, Rheinmetall zählte zu den größten Verlierern. Neue Konjunkturdaten und Quartalszahlen sollen am Dienstag für Erholung sorgen.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-europas-boersen-unter-druck-rheinmetall-groesster-verlierer-im-dax/100263149.html"
+        },
+        {
+          "title": "US-Börsen erholen sich nach Chip-Ausverkauf",
+          "summary": "Dow, S&P 500 und Nasdaq schlossen am Montag höher, Anleger griffen nach dem Ausverkauf der Vorwoche wieder bei Tech-Werten zu. Im Blick stehen nun die Quartalszahlen von Meta und Tesla als Gradmesser für den KI-Boom.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-indizes-schliessen-hoeher-investoren-greifen-bei-tech-wieder-zu/100263242.html"
+        },
+        {
+          "title": "Französische Staatsanleihen nach Unruhen unter Druck",
+          "summary": "Die Ausschreitungen am Wochenende verunsichern Investoren, die Risikoprämien für französische Staatsanleihen steigen weiter. Der Abstand zu deutschen Bundesanleihen hat sich damit erneut vergrößert.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/anleihen/investoren-franzoesische-staatsanleihen-nach-unruhen-unter-druck/100263262.html"
+        },
+        {
+          "title": "AI debt fears spark surge in default insurance trading",
+          "summary": "Trading volumes for credit default swaps tied to big tech companies have surged as investors seek protection against a potential unraveling of the AI investment boom. CoreWeave's bonds slipped into distressed territory last week, fueling the concern.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/6dd31584-064c-4015-bf5d-e5747799ccd5?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "Bird&Be raises $13M to accelerate fertility expansion",
+          "summary": "The DTC fertility brand raised $13 million after nearly 100% year-over-year growth and expansion into almost 1,000 Ulta Beauty stores. The funding will fuel further product and retail growth.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/19/birdbe-raises-13m-to-accelerate-fertility-expansion/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "POV Beauty raises $15M Series A on the back of TikTok fame",
+          "summary": "Investors are betting $15 million on POV Beauty, the skin-prep brand co-founded by TikTok creator Mikayla Nogueira, who has around 21 million followers. The round tests whether creator fame can be turned into a lasting beauty business.",
+          "source": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/15m-series-mikayla-nogueira-pov-beauty-tiktok-lasting-brand/"
+        },
+        {
+          "title": "UK plans to extend VAT liability for marketplaces",
+          "summary": "The UK government wants to make marketplaces liable for collecting VAT on sales by larger domestic sellers, a move that could raise up to £1 billion a year. The revenue is meant to fund tax cuts for high-street businesses.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/uk-plans-to-extend-vat-liability-for-marketplaces/"
+        },
+        {
+          "title": "Nearly 30% of holiday budgets expected to be spent by end of October",
+          "summary": "According to Deloitte's annual holiday shopping survey, 28% of shoppers' budgets are expected to be exhausted by the end of October, the highest level in six years. Consumers are starting their holiday shopping earlier than before.",
+          "source": "Modern Retail",
+          "url": "https://www.modernretail.co/operations/nearly-30-of-holiday-budgets-expected-to-be-spent-by-the-end-of-october/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "FDA releases final guidance on new dietary ingredient safety",
+          "summary": "The FDA published final guidance detailing what companies must show to demonstrate the identity and safety of new dietary ingredients before marketing them. It emphasizes a more flexible, case-by-case approach and recognizes alternative testing methods.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/19/ndi-notifications-fda-releases-final-guidance-on-identity-and-safety/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Vivify acquires AuNutra Industries ingredient platform",
+          "summary": "Vivify Specialty Ingredients, backed by private equity firm Gryphon Investors, acquired botanical-extract supplier AuNutra Industries. The deal continues a wave of consolidation among supplement ingredient suppliers.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/19/vivify-acquires-aunutra-industries-ingredient-platform/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "New EU platform aims to speed up novel food approvals",
+          "summary": "The EU has launched the New Foods RegLab platform to accelerate novel food approvals through better regulatory guidance and knowledge sharing. The goal is to help companies bring ingredients like algae bioactives and alternative proteins to market faster.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/19/across-the-nutraverse-accelerating-eu-novel-foods-nz-explores-natural-health-product-rule-changes-closing-gras-oversight-gaps/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Peru cancels second anchovy season amid record El Niño",
+          "summary": "Peru's fisheries ministry will not authorize a second anchovy fishing season this year because of the strongest El Niño on record and concerns over low fish biomass. Anchovy oil is a key input for omega-3 supplements, so the cancellation could tighten supply.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/19/peru-cancels-second-anchovy-fishing-season-amidst-unprecedented-el-nino-event/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Hacker breaches John Deere and SharkNinja using an army of AI agents",
+          "summary": "A hacker broke into more than 100 websites using largely autonomous AI agents, according to security firm Norforge; Reuters named John Deere, SharkNinja and Cummins among the victims. The case fuels growing concern about AI-powered cybersecurity breaches.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins"
+        },
+        {
+          "title": "Google baut Namenschaos bei Gemini um",
+          "summary": "Google ordnet die Funktionen Skills, Gems und Tasks in Gemini neu und ändert dabei vertraute Bezeichnungen. Wer sich eigene Arbeitsabläufe eingerichtet hat, muss sich auf eine veränderte Oberfläche einstellen.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/google-gemini-umbau-skills-gems-tasks-spark-1768926/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "title": "Google baut mit dem Universal Cart die Kontrolle über den Onlinehandel aus",
+          "summary": "Mit dem Universal Cart führt Google einen Sammelkorb für Bestellungen bei unterschiedlichen Händlern ein. Für Händler könnte das ein wichtiger, aber auch riskanter neuer Vertriebskanal werden, sobald agentisches Einkaufen seinen Reifegrad erreicht.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/ein-warenkorb-fuer-alle-wie-google-die-kontrolle-ueber-den-onlinehandel-ausbaut-1768846/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "title": "My obituary for programming",
+          "summary": "Developer Jeremy Scheff reflects on how AI coding agents have changed what made programming rewarding: the puzzle-solving that used to be well-paid work. Simon Willison shares the essay as a thoughtful take on the profession's shifting identity.",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming/"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "Sport & Körper",
+    "title": "Pheidippides und der Ursprung des Marathons",
+    "body": "Der Name „Marathon“ geht auf eine Legende zurück, die bis heute umstritten ist. Der Überlieferung nach lief 490 v. Chr. der Bote Pheidippides nach der Schlacht von Marathon die rund 40 Kilometer bis nach Athen, um den Sieg der Griechen über die persische Armee zu verkünden - und brach danach tot zusammen. Historisch belegt ist diese Geschichte nicht: Der Geschichtsschreiber Herodot erwähnt sie in dieser Form nicht, wahrscheinlich entstand die Legende erst Jahrhunderte später aus mehreren vermischten Botenläufen. Trotzdem wurde genau diese Strecke zur Vorlage für den modernen Marathon: Bei den ersten Olympischen Spielen der Neuzeit 1896 in Athen lief man die Route von Marathon zum Stadion nach, rund 40 Kilometer. Die bis heute gültige Distanz von 42,195 Kilometern wurde erst 1908 bei den Olympischen Spielen in London festgelegt - aus einem pragmatischen Grund: Die Strecke sollte vom Schloss Windsor bis zur königlichen Loge im Stadion führen.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Marathon_(Sportart)",
+      "https://de.wikipedia.org/wiki/Pheidippides"
+    ]
+  }
+}
