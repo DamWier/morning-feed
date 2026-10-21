@@ -1,0 +1,273 @@
+{
+  "date": "2026-10-21",
+  "headline": "Nach einem Hackerangriff kursieren Berliner Senatsdaten im Darknet, der Investorengipfel in Berlin vermeldet 230 Milliarden Euro an Zusagen, und Tesla prüft einen Zusammenschluss mit SpaceX.",
+  "telegram_bullets": [
+    "Berliner Senatsdaten nach Hackerangriff im Darknet aufgetaucht",
+    "Investorengipfel in Berlin: Merz spricht von 230 Milliarden Euro Zusagen",
+    "Tesla und SpaceX prüfen laut Musk einen Zusammenschluss",
+    "Gestohlene eMudhra-Zertifikate gefährden Vertrauensketten im gesamten Internet"
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Hackerangriff auf Senatsverwaltungen: Daten im Darknet aufgetaucht",
+          "summary": "Der Cyberangriff auf zwei Berliner Senatsverwaltungen hat gravierende IT-Sicherheitslücken offengelegt, Recherchen zeigen hochsensible Daten im Darknet, obwohl es schon früh Warnungen gegeben hatte.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-hackerangriff-verwaltung-darknet-rhysida-daten-senatorin-bonde.html"
+        },
+        {
+          "title": "Vergesellschaftung: 160.000 Wohnungen sollen ans Land gehen",
+          "summary": "Berlin plant einen bundesweit einmaligen Schritt, rund 160.000 Wohnungen sollen in Landesbesitz übergehen. Ökonomen warnen, dass die Mieten dadurch sogar steigen könnten.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/wirtschaft/dpa-regierungsbildung-vergesellschaftung-soll-kommen--was-konnte-sie-bringen-16181947.html"
+        },
+        {
+          "title": "Marode Unigebäude: Berliner Studierende hoffen auf Protest",
+          "summary": "An vielen Berliner Hochschulgebäuden bröckelt es sichtbar. Studierende berichten von den Zuständen und hoffen, dass der Hochschulprotest aus Frankreich auf Deutschland überschwappt.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-hochschulen-marode-unis-in-berlin-studierende-hoffen-auf-protest-16181968.html"
+        },
+        {
+          "title": "Akten zeigen, warum Senatsexperten vor der Magnetbahn warnten",
+          "summary": "Interne Akten belegen, dass Senatsexperten eine geplante Stelzenbahn nach Spandau als akut gefährdet einstuften, die CDU hielt trotzdem an dem bis zu 888 Millionen Euro teuren Projekt fest.",
+          "source": "Berliner Zeitung",
+          "url": "https://www.berliner-zeitung.de/article/akut-gefaehrdet-interne-akten-zeigen-warum-senatsexperten-vor-der-magnetschwebebahn-warnten-10513486"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Investorengipfel in Berlin: Merz spricht von 230 Milliarden Euro",
+          "summary": "Zum Abschluss des zweitägigen Investorengipfels zog Kanzler Merz eine positive Bilanz, insgesamt seien bislang rund 230 Milliarden Euro an Investitionszusagen für Deutschland zusammengekommen.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/merz-zufrieden-mit-zweitaegigem-treffen-102.html"
+        },
+        {
+          "title": "Panne im Finanzministerium: Tabaksteuer gilt aus Versehen sofort",
+          "summary": "Eigentlich sollten die Tabaksteuersätze erst ab 2027 steigen. Durch einen Fehler des Finanzministeriums gelten sie nun, zumindest auf dem Papier, bereits mit sofortiger Wirkung.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-aus-versehen-in-kraft-100.html"
+        },
+        {
+          "title": "421.000 AfD-Mails nach Hackerangriff widerrechtlich veröffentlicht",
+          "summary": "Die AfD hatte offenbar ein größeres Datenleck als zunächst bekannt. Unter anderem 421.000 E-Mails wurden veröffentlicht und geben tiefe Einblicke ins Parteiinnenleben.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/Massenhaft-AfD-Daten-widerrechtlich-migriert-11493666.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "title": "Kassenärzte warnen vor längeren Wartezeiten ab 2027",
+          "summary": "Ab 2027 wird in Arztpraxen ein festes Terminkontingent eingeführt. Die Kassenärztliche Bundesvereinigung befürchtet dadurch noch längere Wartezeiten, die Kassen sprechen dagegen von Angstmacherei.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/kassenaerzte-lange-wartezeiten-termine-100.html"
+        },
+        {
+          "title": "Industrie verliert fast 500.000 Jobs, während der Staat wächst",
+          "summary": "Deutschlands Industrie hat fast 500.000 Stellen verloren, während der öffentliche Dienst weiter wächst. Ein IHK-Vertreter fragt, wie lange sich das Land diese Entwicklung leisten kann.",
+          "source": "Berliner Zeitung",
+          "url": "https://www.berliner-zeitung.de/article/industrie-verliert-500000-jobs-staat-waechst-ihk-vertreter-was-laeuft-hier-falsch-10512962"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "EU to press Canada and UK for more Ukraine funding",
+          "summary": "Brussels is seeking around 70 billion euros to keep Kyiv afloat and is pushing Canada, Britain and Japan to help foot the bill as US support grows uncertain.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/eu-to-press-canada-and-uk-for-more-ukraine-funding/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "title": "Frankreich und Italien reagieren auf Ausschreitungen",
+          "summary": "Ausgangssperren, Antiterror-Soldaten und neue Dekrete: Beide Länder haben auf die schweren Unruhen vom Wochenende reagiert und wollen damit weitere Krawalle verhindern.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-italien-ausschreitungen-proteste-100.html"
+        },
+        {
+          "title": "EU-Parlament einigt sich auf Verbrenner-Kompromiss",
+          "summary": "Das Verbrenner-Aus ab 2035 könnte aufgeweicht werden. Unterhändler der Mitte-Fraktionen im EU-Parlament haben sich auf einen Kompromiss geeinigt, die finale Abstimmung steht noch aus.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/verbrenner-aus-eu-108.html"
+        },
+        {
+          "title": "Polens Parlament lockert Abtreibungsrecht, Präsidenten-Veto erwartet",
+          "summary": "Das polnische Parlament hat mit knapper Mehrheit für eine Lockerung der strengen Abtreibungsregeln gestimmt, Präsident Nawrocki dürfte sein Veto einlegen.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/parlament-verabschiedet-liberalisierung-des-abtreibungsrechts-veto-des-praesidenten-erwartet-108.html"
+        },
+        {
+          "title": "Slowakei überholt Frankreich beim Atomstrom-Anteil",
+          "summary": "Mit einem neuen Reaktorblock am Netz wird die Slowakei zum Land mit dem weltweit höchsten Atomstrom-Anteil im Energiemix. Staatschef Fico plant bereits das nächste Kraftwerk.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/slowakei-atomreaktor-100.html"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "US-Gesandter Witkoff reist mit Friedensvorschlag zu Putin",
+          "summary": "Nach Gesprächen mit Selenskyj in Oslo wird US-Gesandter Witkoff in St. Petersburg erwartet, um Putin neue Vorschläge aus Kiew für eine Friedenslösung vorzustellen.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/us-gesandter-witkoff-zu-treffen-mit-putin-in-st-petersburg-erwartet-100.html"
+        },
+        {
+          "title": "Bukele kündigt Freilassung Tausender Häftlinge an",
+          "summary": "El Salvadors Präsident Bukele will überraschend Tausende Gefangene freilassen, Menschenrechtler kritisieren schon lange, dass etwa die Hälfte der 90.000 Inhaftierten unschuldig sitzt.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/el-salvador-bukele-gefangene-100.html"
+        },
+        {
+          "title": "Sudan drone strike kills around 150 in Abyei market",
+          "summary": "A drone strike hit a market in the disputed Abyei border region and caused a large fire after hitting a fuel depot, South Sudanese officials blamed Sudan's military.",
+          "source": "DW",
+          "url": "https://www.dw.com/en/sudan-drone-strike-kills-around-150-in-abyei-market/a-79716587?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "title": "Nigeria bestätigt ersten Ebola-Fall der aktuellen Welle",
+          "summary": "Nigeria ist nun das vierte afrikanische Land mit einem bestätigten Ebola-Fall. Für die betroffene Patientin wurden bislang 44 Kontaktpersonen ermittelt.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/ebola-nigeria-102.html"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Erzeugerpreise steigen so stark wie seit 2023 nicht mehr",
+          "summary": "Die Erzeugerpreise gewerblicher Produkte lagen im September 6,7 Prozent über dem Vorjahresmonat, der stärkste Anstieg seit März 2023. Gegenüber August stiegen sie um 1,9 Prozent.",
+          "source": "Destatis",
+          "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_373_61241.html"
+        },
+        {
+          "title": "Ölpreis springt wegen Nahost-Spannungen auf Fünf-Monats-Hoch",
+          "summary": "Neue Angriffe im Persischen Golf treiben den Ölpreis auf das Niveau von Mai. Das schürt Sorgen vor einem neuen Inflationsschub, Hoffnung bleibt nur eine Annäherung der Kriegsparteien.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-oelpreis-100.html"
+        },
+        {
+          "title": "Gaspreis knackt 90 Euro vor dem Winter",
+          "summary": "Deutschlands Gasspeicher sind nur zu rund 61 Prozent gefüllt, während Käufer aus Asien und Lateinamerika um LNG mitbieten. Das verschärft den europäischen Kampf um Flüssiggas.",
+          "source": "Berliner Zeitung",
+          "url": "https://www.berliner-zeitung.de/article/gaspreis-knackt-90-euro-europas-kampf-um-lng-spitzt-sich-vor-dem-winter-zu-10512823"
+        },
+        {
+          "title": "Wall Street: Dow Jones schließt ein Prozent höher",
+          "summary": "Sinkende Ölpreise und die Hoffnung auf starke Quartalszahlen stützten den Dow Jones. Anleger warten nun gespannt auf die Bilanzen der großen US-Technologiekonzerne.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-dow-jones-schliesst-ein-prozent-hoeher/100263530.html"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "Musk bestätigt: Tesla und SpaceX prüfen Zusammenschluss",
+          "summary": "Der Elektroautohersteller Tesla und das Raumfahrtunternehmen SpaceX prüfen laut Musk einen Zusammenschluss, beide Unternehmen haben dafür eigene Prüfausschüsse eingerichtet.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/musk-bestaetigt-tesla-und-spacex-pruefen-zusammenschluss-100.html"
+        },
+        {
+          "title": "Nvidia backs four German startups in European spending spree",
+          "summary": "Nvidia continues its European investment push by backing four German startups, part of a broader wave of capital flowing into the region's tech scene.",
+          "source": "Sifted",
+          "url": "https://sifted.eu/articles/nvidia-germany-europe-uk-france-jensen-huang-invests/"
+        },
+        {
+          "title": "Walmart enlists Sam's Club in challenge to Amazon Prime",
+          "summary": "Walmart bundled its Walmart+ and Sam's Club Plus memberships for savings of nearly 100 dollars, aiming to appeal to stressed-out consumers ahead of the holiday season.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/walmart-sams-club-membership-challenge-to-amazon-prime/833447/"
+        },
+        {
+          "title": "Allegro opens its marketplace to consumers in Ukraine",
+          "summary": "Polish marketplace Allegro now lets Ukrainian consumers order and ship products through its Polish site, without launching a dedicated local marketplace.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/allegro-opens-to-consumers-in-ukraine/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "FDA reexamining dietary substance definition for novel ingredients",
+          "summary": "The FDA is revisiting how it interprets the statutory definition of a dietary substance, a move that could reshape the path to market for novel ingredients.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/20/fda-reexamining-dietary-substance-definition-as-industry-seeks-clarity-on-novel-ingredients/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "EU reclassifies healthy-aging ingredient SAMe as non-novel",
+          "summary": "The EU has reclassified SAMe disulfate tosylate as non-novel, allowing its use in supplements without Novel Food authorisation, though experts warn of inconsistent classifications elsewhere.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/20/eu-reclassifies-same-ingredient-as-non-novel/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Health Canada updates resveratrol and beta-glucan monographs",
+          "summary": "Health Canada now recognizes yeast-derived resveratrol and beta-glucan in its natural health product monographs, streamlining licensing for manufacturers using these ingredients.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/20/what-health-canadas-resveratrol-and-beta-glucan-updates-mean-for-manufacturers/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Allies Of Skin names new CEO as founder exits",
+          "summary": "Alicia Valencia becomes CEO of Allies of Skin, two months after joining the skincare brand as interim president, while founder Nicolas Travis prepares to step down.",
+          "source": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/allies-of-skin-names-ceo-founder-nicolas-travis-prepares-exit/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "eMudhra intermediate CA compromise threatens web trust",
+          "summary": "Private keys of eight eMudhra intermediate CA certificates were compromised, they chain to roots trusted by Mozilla, Microsoft, Apple and Chrome, forcing broad software updates.",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates/"
+        },
+        {
+          "title": "Meta pauses Muse sharing after AI chats found exposed online",
+          "summary": "Meta paused a feature letting users share conversations with its Muse assistant after researchers found over 6,800 chat links publicly indexed via DNS records.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1014627/meta-muse-ai-sharing-ai-chats"
+        },
+        {
+          "title": "When AI models refuse to fight hackers",
+          "summary": "Security teams relying on AI to investigate cyberattacks are running into a new problem, strict safety guardrails can make the most powerful models refuse to help mid-investigation.",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/10/21/when-ai-models-refuse-to-fight-hackers"
+        },
+        {
+          "title": "Entwickler baut digitalen Zwilling von Genf mit 15 KI-Agenten",
+          "summary": "Ein Softwareprojekt aus der Westschweiz zeigt, wie sich die Grenzen eines Feierabendprojekts verschieben, wenn der Mensch beim Programmieren nur noch Regie führt und KI-Agenten den Code schreiben.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/ki-agenten-claude-digitaler-zwilling-genf-geneve-3d-1769078/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "AI & Technik",
+    "title": "Zertifizierungsstellen: Das unsichtbare Vertrauensnetz des Internets",
+    "body": "Jedes Mal, wenn der Browser ein kleines Schloss-Symbol zeigt, verlässt er sich auf eine Zertifizierungsstelle (Certificate Authority, CA). Das ist eine Organisation, die digitale Zertifikate ausstellt und damit bestätigt, dass ein Server wirklich zu der Domain gehört, die er vorgibt zu sein. Browser und Betriebssysteme vertrauen nur einer begrenzten Liste solcher Stellen, jede von ihnen kann aber technisch für jede beliebige Domain ein gültiges Zertifikat ausstellen. Genau das macht eine kompromittierte CA so gefährlich: Fallen die privaten Schlüssel in falsche Hände, lassen sich damit täuschend echte Zertifikate für Banken, Shops oder Mailserver fälschen, unsichtbar für die meisten Nutzer. Erst kürzlich wurde bekannt, dass acht private Schlüssel der indischen Zertifizierungsstelle eMudhra gestohlen wurden, deren Zertifikate von Mozilla, Microsoft, Apple und Chrome als vertrauenswürdig eingestuft sind. Browser-Hersteller müssen nun jedes betroffene Zertifikat einzeln zurückziehen, ein Vorgang, der Tage dauern kann.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Zertifizierungsstelle",
+      "https://simonwillison.net/2026/Oct/20/emudhra-certificates/"
+    ]
+  }
+}
