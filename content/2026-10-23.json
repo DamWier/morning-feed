@@ -1,0 +1,254 @@
+{
+  "date": "2026-10-23",
+  "headline": "Massiver Tech-Ausverkauf an den Börsen: Meta verliert 7 Prozent, der Nasdaq fällt so stark wie seit Monaten nicht mehr, während eine kritische PHP-Sicherheitslücke weltweit Webseiten bedroht.",
+  "telegram_bullets": [
+    "Börsen: Tech-Ausverkauf drückt Nasdaq um 2,6%, Meta verliert 7% wegen KI-Ausgabenangst, DAX -270 Punkte.",
+    "Kritische PHP-Sicherheitslücke (php2shell) bedroht Millionen Websites weltweit, Updates sofort einspielen.",
+    "Berlin: Streit um Sondierung von SPD, Grünen und Linken, Emirates stoppt Dubai-Flugpläne vorerst.",
+    "Ministerpräsidenten fordern Entlastung bei Strom- und Spritpreisen, Serbien steht vor Schicksalswahl am Sonntag."
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Emirates fliegt vorerst doch nicht nach Dubai",
+          "summary": "Die geplante Langstreckenverbindung zwischen BER und Dubai kommt vorerst nicht. Ein Insider spricht von Pfusch bei der Auslegung des zugrunde liegenden Abkommens, es gibt Streit über harte Auflagen.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/flughafen-ber-keine-langstreckenverbindung-berlin-dubai.html"
+        },
+        {
+          "title": "Streit um Sicherheitsinformationen nach möglicher Rot-Grün-Rot-Koalition",
+          "summary": "Sollte Die Linke künftig in Berlin mitregieren, will die Junge Union die Stadt vom Austausch wichtiger Sicherheitsinformationen mit BKA und Verfassungsschutz ausschließen. Rechtlich ist das höchst umstritten, das Thema beschäftigte auch die Ministerpräsidentenkonferenz.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/beitrag/2026/10/berlin-nach-der-wahl-rot-gruen-rot-sicherheitsinformation-bka-verfassungsschutz.html"
+        },
+        {
+          "title": "Unklarheit über Sondierungseinladung von CDU-Fraktionschef Evers",
+          "summary": "Ob Stefan Evers SPD und Grüne nun zu Sondierungsgesprächen eingeladen hat oder nicht, bleibt strittig. Linke, Grüne und SPD geben sich derweil demonstrativ zuversichtlich für die Zukunft der Stadt.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/checkpoint/sondieren-oder-nicht-sondieren-hat-stefan-evers-spd-und-grune-eingeladen-oder-nicht-16191184.html"
+        },
+        {
+          "title": "Jura-Professor verteidigt Vergesellschaftung als Grundrecht",
+          "summary": "227 Prominente protestieren per offenem Brief gegen das geplante Investitionsschutzgesetz der Bundesregierung, das sich gegen Vergesellschaftungen richtet. Jura-Professor Maximilian Pichl erklärt, warum er das Gesetz für falsch hält.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/berliner-wirtschaft/vergesellschaftung-ist-auch-ein-grundrecht-ein-jura-professor-erklart-warum-er-gegen-das-sperrgesetz-der-bundesregierung-ist-16190396.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Ministerpräsidenten fordern Entlastung bei Energiepreisen",
+          "summary": "Die Länderchefs drängen den Bund zu spürbaren Entlastungen: niedrigere Stromsteuer, gedeckelte Kraftstoffkosten. Man sei der Auffassung, dass der Bund dafür die finanziellen Spielräume habe.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/ministerpraesidentenkonferenz-beschluesse-stromsteuer-spritpreise-100.html"
+        },
+        {
+          "title": "Steuerschätzung bringt mehr Geld, aber keine neuen Spielräume",
+          "summary": "Der Bund kann 2027 mit höheren Steuereinnahmen rechnen als erwartet. Finanzminister Klingbeil dämpft trotzdem die Erwartungen an zusätzlichen Haushaltsspielraum, etwa für eine Stromsteuersenkung.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/steuerschaetzung-bund-klingbeil-100.html"
+        },
+        {
+          "title": "Mutmaßlicher russischer Spion in Brandenburg festgenommen",
+          "summary": "Die Polizei nahm einen Mann fest, der im Auftrag Russlands deutsche Rüstungsfirmen ausgespäht haben soll. Der Verdächtige ist ein Ukrainer aus russisch besetztem Gebiet.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/spionage-ruestungindustrie-festnahme-100.html"
+        },
+        {
+          "title": "Kapitalrente startet 2028 als Ergänzung zur Rente",
+          "summary": "Beiträge sollen künftig in Fonds investiert werden, um die Altersvorsorge zu stärken. Ob die neue Kapitalrente die großen Erwartungen erfüllen kann, ist unter Fachleuten umstritten.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/renten-reform-kapitalrente-100.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "Zehntausende demonstrieren in Belgrad vor Serbiens Schicksalswahl",
+          "summary": "Drei Tage vor der Parlamentswahl kam eine riesige Menschenmenge zur Abschlusskundgebung der oppositionellen Studentenliste zusammen. Die Wahl am Sonntag gilt als Referendum über Präsident Vučić.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/serbien-proteste-158.html"
+        },
+        {
+          "title": "Sacharow-Preis geht an Internationalen Strafgerichtshof",
+          "summary": "Das EU-Parlament würdigt mit der Auszeichnung den Einsatz des Gerichts für das Völkerrecht und setzt damit zugleich ein Zeichen gegen die US-Sanktionen gegen den Gerichtshof.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/sacharow-preis-internationaler-strafgerichtshof-100.html"
+        },
+        {
+          "title": "Russland greift Kiew trotz Witkoff-Treffen erneut mit Raketen an",
+          "summary": "Ungeachtet der US-Vermittlungsbemühungen attackierte Russland in der Nacht erneut die ukrainische Hauptstadt, während aus Moskau Drohnenangriffe gemeldet wurden.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-putin-witkoff-100.html"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Erdbeben der Stärke 7,0 erschüttert Tibet",
+          "summary": "Bei dem Beben in der von China kontrollierten Region wurden Häuser zerstört. Behörden melden mindestens 16 Tote und Dutzende Verletzte.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/tibet-erdbeben-104.html"
+        },
+        {
+          "title": "Trump: Musk hat Starlink-Zugang für Ukraine wiederhergestellt",
+          "summary": "Die Ukraine hatte eine Drosselung des Satelliteninternets beklagt, das ihr Militär für zahlreiche Einsätze braucht. Laut Trump hat SpaceX-Chef Musk die Einschränkung nun aufgehoben.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/musk-trump-starlink-ukraine-100.html"
+        },
+        {
+          "title": "Tote nach Huthi-Angriff auf Flughafen in Saudi-Arabien",
+          "summary": "Bei einer Attacke auf den Flughafen in Dammam wurden zwei Menschen getötet und weitere verletzt. Die USA kündigten an, ihr diplomatisches Personal abzuziehen.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/flughafen-saudi-arabien-100.html"
+        },
+        {
+          "title": "Fast alle Korallenriffe weltweit vom Absterben bedroht",
+          "summary": "Eine neue Studie zeigt das volle Ausmaß der Erhitzung der Meere: Praktisch alle Riffe sind durch den Klimawandel erheblich gefährdet, mit gravierenden Folgen für die Artenvielfalt im Meer.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/korallenriffe-weltweit-bedroht-klimawandel-100.html"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Tech-Ausverkauf belastet Wall Street, Meta verliert 7 Prozent",
+          "summary": "Steigende Ölpreise und Sorgen im KI-Sektor lassen zahlreiche Kurse einbrechen, der Nasdaq fällt um 2,6 Prozent. Die Rendite zehnjähriger US-Anleihen fällt dagegen wieder unter fünf Prozent.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-abverkauf-von-tech-werten-belastet-wall-street-meta-verliert-sieben-prozent/100264154.html"
+        },
+        {
+          "title": "Chinas CSI300 rutscht in den Bärenmarkt",
+          "summary": "Asiatische Anleger verdauen enttäuschende Inflationsdaten aus Japan, während der chinesische Leitindex nach dem globalen Tech-Ausverkauf deutlich nachgibt.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/maerkte-asien-asiens-boersen-geben-nach-tech-ausverkauf-und-zinssorgen-belasten/100264400.html"
+        },
+        {
+          "title": "Ölpreis klettert trotz wachsendem Angebot auf Fünfmonatshoch",
+          "summary": "Eigentlich müssten stabile Exporte den Ölpreis sinken lassen. Stattdessen steigt er weiter, Analysten nennen mehrere Faktoren, die den Preis trotz des Überangebots oben halten.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/oelpreis-das-oelparadox-warum-die-preise-steigen-obwohl-das-angebot-waechst/100263331.html"
+        },
+        {
+          "title": "OpenAI trims valuation target to $1.25tn ahead of IPO",
+          "summary": "The AI lab had floated a $1.4tn price tag earlier this month for a planned $30bn raise. The lower target still would make it the most highly valued private company ever.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/bb564eb1-79d4-4694-aa24-1155202a9abc?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "German SMEs generate over 20 billion euros in Amazon sales",
+          "summary": "German small and mid-sized businesses sold goods worth more than 20 billion euros via Amazon last year, 5.9 billion euros of it cross-border. France, Austria, Italy, the US and Spain were the main export markets.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/german-smes-generate-over-20-billion-euros-in-sales-on-amazon/"
+        },
+        {
+          "title": "EU wants to simplify waste rules for small businesses",
+          "summary": "The European Parliament plans to cut red tape for SMEs on waste legislation, exempting small companies from having to appoint a dedicated compliance representative in every EU member state where they sell.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/eu-wants-to-simplify-waste-legislation-for-smes/"
+        },
+        {
+          "title": "StartupTicker: sennder vor Milliardenumsatz, Enact erhält 30 Millionen",
+          "summary": "Logistik-Startup sennder peilt einen Milliardenumsatz an und hat die Gewinnzone erreicht. Zudem erhält das Startup Enact eine Finanzierung von 30 Millionen Euro, ein Heartbeat-Report zeigt nur 10,1 Prozent Gründerinnen in der Szene.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/10/22/klaus-wegener-sennder-arveum-heartbeat-gruenderinnen-enact/"
+        },
+        {
+          "title": "Walmart welcomes external AI shopping agents, with guardrails",
+          "summary": "The mass retailer is opening up to third-party AI agents acting on behalf of shoppers, launching an agent profile feature and updated terms focused on transparency and customer control.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/walmart-welcomes-external-ai-shopping-agents-terms-boundaries/833723/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "Abbott plant Abspaltung seines Nutrition-Geschäfts",
+          "summary": "Abbott Laboratories will seine globale Ernährungssparte bis Ende 2027 als eigenständiges, börsennotiertes Unternehmen ausgliedern. Grundlage ist ein durchwachsenes Quartal mit 5,1 Prozent mehr Umsatz im Nutrition-Bereich.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/22/abbott-plans-nutrition-spinoff-as-q3-sales-improve/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Nestlé startet Longevity-Linie Solgar Prime",
+          "summary": "Die neue Premium-Supplement-Linie zielt auf Muskelkraft, Mobilität und allgemeines Wohlbefinden im Alter, mit Produkten wie einem Vitality-Creatine-Komplex. Der Start erfolgt zunächst in den USA und Europa.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/22/nestle-launches-solgar-prime-for-fast-growing-healthy-longevity-market/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "L'Oréal says weight loss drugs are hitting beauty sales",
+          "summary": "The beauty giant's CEO calls the growing use of GLP-1 drugs like Ozempic \"a very important phenomenon\" for the industry, as it reshapes demand in skincare and body care.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Halsey's mass-market makeup brand Af94 shuts down",
+          "summary": "The singer's affordable sister line to her brand About-Face quietly closed last year, joining a growing list of celebrity beauty ventures that failed to sustain momentum.",
+          "source": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/halsey-mass-market-makeup-brand-af94-shuts-down/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Kritische PHP-Sicherheitslücke bedroht Millionen Webseiten",
+          "summary": "Zwei schwere Sicherheitslücken betreffen sämtliche PHP-Versionen der letzten 20 Jahre. Viele Webseiten gingen bereits offline, Updates einzuspielen ist derzeit das einzig wirksame Mittel gegen Angriffe.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/php2shell-Luecke-Was-jetzt-zu-tun-ist-11497046.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "title": "DeepSeek reportedly raises $15bn days after US restrictions",
+          "summary": "The Chinese AI lab raised one of the country's largest-ever funding rounds just days after Washington ordered federal agencies to remove its technology over national security concerns.",
+          "source": "TechCrunch Fundraising",
+          "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/"
+        },
+        {
+          "title": "Canva launches in-house AI image model Canva Craft",
+          "summary": "The new model plans a design before generating an image, a two-stage approach the company says gives greater precision and control than rivals from OpenAI, Microsoft and Google.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
+        },
+        {
+          "title": "Microsoft says its AI tool beats doctors at diagnosis",
+          "summary": "Microsoft AI chief Mustafa Suleyman says the company's new diagnostic tool can identify conditions up to four times more accurately than human doctors, calling healthcare AI's breakthrough moment.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1016690/suleyman-microsoft-diagnostic-orchestrator-science-medical-superintelligence"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "Finanzen & Märkte",
+    "title": "Die Tulpenmanie: Als eine Blume mehr wert war als ein Haus",
+    "body": "Im Winter 1636/37 brach in den Niederlanden eine der bekanntesten Spekulationsblasen der Geschichte aus: die Tulpenmanie. Seltene Tulpenzwiebeln, besonders Sorten mit gestreiften Blütenblättern wie die berühmte \"Semper Augustus\", wurden zum Spekulationsobjekt. Händler kauften und verkauften Zwiebeln über Terminkontrakte, oft ohne die Blumen je zu sehen. Die Preise stiegen binnen Wochen auf das Vielfache: Eine einzige Zwiebel konnte so viel kosten wie ein Haus an einem Amsterdamer Kanal. Im Februar 1637 brach der Markt dann abrupt zusammen, Käufer verweigerten die vereinbarten Preise, und viele Händler verloren ihr Vermögen. Historiker sind sich uneinig, wie groß der wirtschaftliche Schaden tatsächlich war, doch das Muster wurde zum Lehrbuchbeispiel: Wenn Preise sich von jedem erkennbaren Nutzen lösen und nur noch von der Erwartung weiter steigender Preise getragen werden, spricht man seither von einer \"Tulpenmanie\". Der Begriff taucht bis heute auf, wenn Ökonomen vor überhitzten Märkten warnen, ob bei Dotcom-Aktien, Kryptowährungen oder aktuell bei den hohen Bewertungen von KI-Unternehmen.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Tulpenmanie"
+    ]
+  }
+}
