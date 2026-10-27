@@ -1,0 +1,267 @@
+{
+  "date": "2026-10-27",
+  "headline": "Anthropic reicht den Börsenprospekt für einen der größten Börsengänge der Geschichte ein und warnt darin selbst vor den Risiken der eigenen KI.",
+  "telegram_bullets": [
+    "Anthropic stellt IPO-Antrag: möglicher größter Börsengang der Geschichte, Umsatz vervierzehnfacht, Warnung vor „existenziellen Risiken“ der eigenen Technologie.",
+    "Brasilien: Lula gewinnt Stichwahl gegen Bolsonaros Sohn für vierte Amtszeit, Bolsonaro-Partei erkennt Ergebnis an.",
+    "Berlin: SPD-Basis soll über Rot-Grün-Rot-Koalition abstimmen, Zentralrat der Juden warnt vor Demos am 31. Oktober.",
+    "Microsoft bietet 60.000 Mitarbeitenden Abfindungen an, weil hohe KI-Investitionen Kosten drücken."
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "SPD lässt Basis über Rot-Grün-Rot-Koalition abstimmen",
+          "summary": "Nach Abschluss der Koalitionsverhandlungen mit Linken und Grünen will die Berliner SPD-Spitze die Parteibasis über die künftige Landesregierung befragen. Das Ergebnis entscheidet, ob das Bündnis überhaupt zustande kommt.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/beitrag/2026/10/spd-koalition-berlin-abstimmung-basis.html"
+        },
+        {
+          "title": "Neues Abgeordnetenhaus warnt zum Start vor Antisemitismus",
+          "summary": "Alterspräsident Wansner (CDU) eröffnete die erste Sitzung des neuen Abgeordnetenhauses und mahnte angesichts zunehmenden Antisemitismus zur Wachsamkeit. Berlin habe dabei eine Vorbildfunktion, so Wansner.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-abgeordnetenhaus-altersprasident-wansner-berlin-hat-eine-vorbildfunktion-16203744.html"
+        },
+        {
+          "title": "Zentralrat der Juden warnt vor Demos am 31. Oktober",
+          "summary": "Der Zentralrat der Juden sieht eine „erhöhte Gefährdungslage“ vor den angemeldeten Demonstrationen der Initiative „Gen Z regelt“ und befürchtet antisemitisch motivierte Gewalt.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/schule/sicherheitswarnung-vor-den-demos-am-31-oktober-zentralrat-der-juden-sieht-erhohte-gefahrdungslage-16203556.html"
+        },
+        {
+          "title": "Berliner Taxis dürfen ab 2027 nicht mehr am BER halten",
+          "summary": "Weil die Nachfrage nach Taxis am Flughafen wegen besserer Zuganbindung gesunken ist, dürfen Berliner Taxis dort ab Januar 2027 keine Fahrgäste mehr aufnehmen und müssen leer zurückfahren.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/ab-januar-keine-berliner-taxis-ber.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "BGH verhandelt erneut über Facebooks Pflichten bei Falschzitaten",
+          "summary": "Renate Künast klagt gegen Meta, weil über Facebook gefälschte Zitate von ihr verbreitet wurden. Der Bundesgerichtshof prüft, wie weit die Pflicht des Konzerns reicht, rechtswidrige Memes selbst aufzuspüren.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/facebook-memes-kuenast-100.html"
+        },
+        {
+          "title": "Kritik an Audi-Chef nach Trump-Auftritt reißt nicht ab",
+          "summary": "Audi-Chef Döllner steht nach seinem Auftritt neben Donald Trump weiter unter Beschuss, die SPD fordert Konsequenzen vom Mutterkonzern VW. Döllner verteidigt den Schritt als Werben für US-Investitionen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/audi-kritik-doellner-trump-100.html"
+        },
+        {
+          "title": "Kreuzfahrtschiff rammt zwei Containerschiffe in Bremerhaven",
+          "summary": "Bei stürmischem Wetter kollidierte die „Mein Schiff 3“ beim Auslaufen aus Bremerhaven mit zwei Schiffen, zwei Schlepper wurden beschädigt. Die Polizei ermittelt gegen den Kapitän wegen möglicher Sorgfaltspflichtverletzung, die Kreuzfahrt ist abgesagt.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/herbststurm-norden-deutschland-100.html"
+        },
+        {
+          "title": "Wer wird Steinmeiers Nachfolger als Bundespräsident?",
+          "summary": "Am 30. Januar wählt die Bundesversammlung ein neues Staatsoberhaupt, SPD-Fraktionschef Miersch brachte bereits CSU-Politikerin Aigner ins Spiel. Welche weiteren Namen gehandelt werden, ist noch offen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentenwahl-102.html"
+        },
+        {
+          "title": "Justizministerin sieht Klärungsbedarf bei Dobrindts Vergesellschaftungs-Plänen",
+          "summary": "Bundesjustizministerin Hubig nimmt verfassungsrechtliche Bedenken gegen Innenminister Dobrindts Pläne ernst, Vergesellschaftungen großer Wohnungsbestände zu erschweren. Berlins Linke hält den Vorstoß für grundgesetzwidrig.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/bundesjustizministerin-hubig-sieht-klaerungsbedarf-bei-dobrindts-plaenen-vergesellschaftungen-zu-ers-100.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "Frankreichs Regierung kündigt Reformen nach Schülerprotesten an",
+          "summary": "Nach wochenlangen Protesten verspricht die französische Regierung kleinere Klassen, mehr Studienplätze und eine Reform der Uni-Zulassungsplattform Parcoursup. Die Schülerverbände wollen trotz des Fünf-Punkte-Plans weiter demonstrieren.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-5-punkte-plan-100.html"
+        },
+        {
+          "title": "Massenproteste in Tschechien gegen Kürzung des Rundfunks",
+          "summary": "Zehntausende protestierten landesweit gegen Pläne der Regierung, den öffentlich-rechtlichen Rundfunk aus dem Staatshaushalt zu finanzieren und dessen Mittel deutlich zu kürzen. Kritiker befürchten weniger Unabhängigkeit der Sender.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/tschechien-rundfunk-proteste-100.html"
+        },
+        {
+          "title": "Serbiens Studentenliste gewinnt überraschend die Parlamentswahl",
+          "summary": "Die aus den Protesten hervorgegangene Studentenliste holte die absolute Mehrheit bei der serbischen Parlamentswahl. Wie aus der Protestbewegung eine funktionierende Regierung werden soll, ist noch unklar.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/serbien-wahlsieg-studentenliste-100.html"
+        },
+        {
+          "title": "Spanien und Portugal könnten gemeinsam gegen Wohnungsnot streiken",
+          "summary": "Nach überwiegend friedlichen Protesten gegen die Wohnungsnot auf der iberischen Halbinsel ist für den 11. November ein möglicher Generalstreik in beiden Ländern im Gespräch.",
+          "source": "FAZ Politik",
+          "url": "https://www.faz.net/aktuell/politik/ausland/spanien-und-portugal-generalstreik-gegen-wohnungsnot-201622332.html"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Lula gewinnt vierte Amtszeit, Bolsonaro-Partei erkennt Niederlage an",
+          "summary": "Nach der Stichwahl gegen Flávio Bolsonaro räumt dessen Partei die Niederlage ein, wenn auch mit Vorbehalten. Donald Trump sprach zuvor von möglicher Wahlmanipulation, Lula steht nun vor hohen Lebensmittelpreisen und großen Erwartungen.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/lula-wahl-brasilien-100.html"
+        },
+        {
+          "title": "Israel wählt unter wachsender Spaltung ein neues Parlament",
+          "summary": "Rund 7,3 Millionen Wahlberechtigte entscheiden über die Knesset, während Netanyahu mit dem politischen Novizen Gadi Eisenkot den ernstesten Herausforderer seiner Amtszeit hat. Die Wahl gilt als Weichenstellung in einer der schwersten Krisen des Landes.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-vor-wahl-100.html"
+        },
+        {
+          "title": "Lokale Waffenruhe in umkämpfter Stadt Oleschky in Kraft",
+          "summary": "Trotz angekündigter Gesprächsrunden will Russland die Angriffe auf die Ukraine fortsetzen. In der abgeriegelten, vom Krieg zerstörten Stadt Oleschky gilt nun eine begrenzte Waffenruhe, damit humanitäre Hilfe für rund 2.000 Menschen beginnen kann.",
+          "source": "DW",
+          "url": "https://www.dw.com/en/ukraine-and-russia-begin-oleshky-ceasefire-for-aid-mission/a-79771473?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "title": "USA erheben zum dritten Mal Anklage gegen Ex-FBI-Chef Comey",
+          "summary": "Die Trump-Regierung wirft James Comey erneut vor, vor einem Jahrzehnt geheime Informationen an die New York Times weitergegeben zu haben. Comeys Anwälte halten das Verfahren für rechtlich unzulässig.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Anthropic meldet Börsengang an und warnt vor eigenen Risiken",
+          "summary": "Der KI-Konzern hat seinen Börsenprospekt für die Nasdaq veröffentlicht, der Umsatz hat sich vervierzehnfacht, zugleich listet das Unternehmen auf rund 90 Seiten auch „existenzielle Risiken für die Menschheit“ auf. Es könnte einer der größten Börsengänge aller Zeiten werden.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-bereitet-boersengang-vor-100.html"
+        },
+        {
+          "title": "Ifo-Index steigt zum sechsten Mal in Folge",
+          "summary": "Die Stimmung in deutschen Chefetagen hellt sich trotz hoher Energiepreise weiter auf, befeuert auch durch die KI-Rallye an den Börsen. DAX und Wall Street schlossen zum Wochenstart deutlich im Plus.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-index-oktober-102.html"
+        },
+        {
+          "title": "DWS begrenzt Auszahlungen bei größtem Immobilienfonds",
+          "summary": "Die Deutsche-Bank-Tochter DWS lässt beim offenen Immobilienfonds „Grundbesitz Europa“ nur noch 10 Prozent der fälligen Rücknahmeaufträge auszahlen, um die Liquidität zu sichern und eine komplette Fondsschließung zu vermeiden.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/geldanlage-dws-beschraenkt-ruecknahme-ihres-groessten-offenen-immobilienfonds/100265044.html"
+        },
+        {
+          "title": "Brasiliens Währung stürzt nach Lulas Wiederwahl stark ab",
+          "summary": "Der Real verzeichnete nach dem überraschenden Wahlsieg des linken Amtsinhabers den stärksten Einbruch seit 1999, weil die Märkte fest mit einem Sieg Bolsonaros gerechnet hatten. Auch die Börse in São Paulo gab deutlich nach.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/bffe028e-838d-4e74-b05e-62f6db4978db?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "Autonome Bagger-Firma Bedrock Robotics sammelt 600 Millionen Dollar",
+          "summary": "Das US-Startup, das selbstfahrende Baggertechnik wegen des Fachkräftemangels auf Baustellen entwickelt, wird nach der Finanzierungsrunde mit 4,1 Milliarden Dollar bewertet.",
+          "source": "TechCrunch Fundraising",
+          "url": "https://techcrunch.com/2026/10/26/this-startups-self-driving-excavators-help-dig-up-600m-in-new-funding/"
+        },
+        {
+          "title": "Zooplus startet seinen Marktplatz jetzt auch in Spanien",
+          "summary": "Der deutsche Online-Heimtierbedarfs-Händler weitet sein Marktplatzmodell auf einen dritten europäischen Markt aus und startet in Spanien mit 10.000 neuen Produkten.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/zooplus-marketplace-launches-in-spain/"
+        },
+        {
+          "title": "EU fängt Rekordzahl an gefälschten Produkten ab",
+          "summary": "Zollbehörden und Ermittler in der EU stellten im vergangenen Jahr 196 Millionen mutmaßlich gefälschte Artikel im Wert von 6,3 Milliarden Euro sicher, ein Plus von 67 Prozent gegenüber 2024.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/record-number-of-counterfeit-products-intercepted-in-eu/"
+        },
+        {
+          "title": "Walmart verlängert Black-Friday-Rabattaktionen auf 14 Tage",
+          "summary": "Der US-Handelsriese zieht seine Rabattphase rund um Black Friday und Cyber Monday in diesem Jahr von zehn auf vierzehn Tage, um Kunden früher und länger an sich zu binden.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "Shatavari-Extrakt verbessert laut Studie weibliche Sexualfunktion",
+          "summary": "Eine randomisierte, placebokontrollierte Studie zeigt, dass acht Wochen Shatavari-Wurzelextrakt den FSFI-Score verbessert und sexuellen Stress bei Frauen senkt. Die Kombination mit Ashwagandha (KSM-66) wirkte noch stärker.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/26/shatavari-root-extract-may-support-womens-sexual-wellness/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Pycnogenol soll Lebensqualität bei niedriger Knochendichte verbessern",
+          "summary": "Eine neue Studie legt nahe, dass der Extrakt aus französischer Meereskiefernrinde Frauen mit Knochenschwund zu besseren Lebensqualitäts-Werten verhilft. Knochenerkrankungen betreffen Millionen Menschen weltweit.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/26/pycnogenol-linked-to-improved-quality-of-life-scores-for-women-with-low-bone-density-study/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Verbände fordern Erhalt der Unabhängigkeit der US-Supplement-Behörde",
+          "summary": "AHPA, CHPA, CRN und UNPA warnen die NIH davor, das Office of Dietary Supplements aus seiner eigenständigen Position herauszulösen und in eine übergeordnete Planungsabteilung einzugliedern.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/26/supplement-industry-urges-nih-to-preserve-ods-independence/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Omega-3-Lieferketten unter Druck, SAMe leichter zugänglich in der EU",
+          "summary": "Perus Absage der zweiten Sardellen-Fangsaison 2026 verknappt weltweit Fischöl und treibt die Preise, während steigende Nachfrage aus China den Markt zusätzlich belastet. Zugleich erleichtert die EU-Neueinstufung von SAMe als „nicht neuartig“ den Marktzugang für das Anti-Aging-Supplement.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/26/this-weeks-nutraverse-omega-3-supply-chains-nestles-healthy-longevity-play-and-same-in-eu/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Anthropic will mit IPO ANT an die Nasdaq gehen",
+          "summary": "Mit der S-1-Einreichung bei der SEC macht Anthropic den Weg frei für einen der größten Börsengänge der Geschichte und nennt neben enormem Wachstum auch Rechenzentrumsverpflichtungen von rund 650 Milliarden Dollar.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1018476/anthropic-ipo-details-s1-filed-sec"
+        },
+        {
+          "title": "Microsoft bietet 60.000 Mitarbeitenden Abfindungen an",
+          "summary": "Wegen der hohen Investitionen in KI-Infrastruktur bietet Microsoft etwa jedem vierten Beschäftigten in den USA, Großbritannien, Kanada und Indien eine freiwillige Abfindung an, um Stellen ohne klassische Entlassungswelle abzubauen.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1018666/microsoft-expands-buyouts-60000-employees-eligible"
+        },
+        {
+          "title": "OpenAI soll Geschäftskunden von Anthropic mit Rabatten abwerben",
+          "summary": "Laut Insiderinformationen lockt OpenAI Firmenkunden von Anthropic gezielt mit Preisnachlässen ab, und die Strategie scheint bislang zu funktionieren.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/OpenAI-wirbt-Anthropic-Kunden-offenbar-mit-Rabatten-ab-11500685.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "title": "Chinesisches Open-Weight-Modell Kimi K3.1 Pro nähert sich US-Spitze",
+          "summary": "Moonshot AI hat mit Kimi K3.1 Pro ein frei zugängliches Modell vorgestellt, das laut unabhängigen Benchmarks mit proprietären US-Spitzenmodellen konkurrieren kann.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/Chinesisches-Open-Weight-Modell-Kimi-K3-1-Pro-rueckt-an-US-Spitzenmodelle-heran-11500459.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "Ernährung & Supplements",
+    "title": "Die RDA: Wie der Zweite Weltkrieg die Nährwertangaben erfand",
+    "body": "1941 schuf der US-amerikanische National Research Council mitten im Zweiten Weltkrieg die ersten „Recommended Dietary Allowances“ (RDA). Es ging nicht um optimale Gesundheit, sondern um Rationierung: Wie viel Vitamin C, Eisen oder Eiweiß braucht ein Mensch mindestens, um Mangelkrankheiten wie Skorbut oder Pellagra bei Soldaten und Zivilbevölkerung zu verhindern? Die Werte wurden deshalb bewusst konservativ angesetzt, als Durchschnittsbedarf plus Sicherheitsaufschlag, nicht als individuelles Optimum für einzelne Menschen. Erst Jahrzehnte später lösten die heutigen „Dietary Reference Intakes“ dieses grobe System ab und unterscheiden seither zwischen geschätztem Bedarf, empfohlener Zufuhr und tolerierbarer Obergrenze. Für die Supplement-Branche bis heute spürbar: Die auf Verpackungen gedruckten %NRV- oder %RDA-Werte stammen aus dieser kriegsbedingten Logik der Mangelvermeidung, nicht aus Forschung zu optimaler Zufuhr für Leistung, Regeneration oder Langlebigkeit, wie viele Kundinnen und Kunden es heute erwarten.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Dietary_Reference_Intake",
+      "https://ods.od.nih.gov/HealthInformation/nutrientrecommendations.aspx"
+    ]
+  }
+}
