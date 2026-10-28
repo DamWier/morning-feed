@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-28",
+  "headline": "Israels Parlamentswahl endet bei Rekord-Wahlbeteiligung im Patt zwischen Netanjahu und Eisenkot.",
+  "telegram_bullets": [
+    "Israel: Rekord-Wahlbeteiligung, aber kein klarer Sieger zwischen Netanjahu und Eisenkot.",
+    "Anthropic meldet IPO-Antrag - könnte größter Börsengang der Geschichte werden (bis 100 Mrd. Dollar).",
+    "Berlin: SPD lässt Mitglieder über rot-rot-grüne Koalition abstimmen, CDU-Brandmauer in Reinickendorf wackelt.",
+    "DAX legt vor Fed/EZB-Zinsentscheid zu, EFSA kippt Sättigungs-Claim für Appethyl."
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Berliner Linke vertagt erneut Entscheidung über Abgeordnete Emde",
+          "summary": "Die Fraktionsspitze der Linken hat trotz mehrerer Sitzungen noch keine Entscheidung über den Verbleib von Vanessa Emde getroffen. Der Streit über die umstrittene Abgeordnete zieht sich damit weiter hin.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/linke-fraktion-beratung-vanessa-emde.html"
+        },
+        {
+          "title": "Berliner SPD lässt Mitglieder über rot-rot-grüne Koalition abstimmen",
+          "summary": "Die SPD-Spitze bringt eine Mitgliederbefragung zur möglichen Koalition mit Linken und Grünen auf den Weg. Die Basis soll damit über die Regierungsbildung mitentscheiden.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-regierungsbildung-berliner-spd-spitze-bringt-mitgliederbefragung-auf-den-weg-16207768.html"
+        },
+        {
+          "title": "CDU-Politiker in Reinickendorf will Brandmauer zur AfD aufweichen",
+          "summary": "Marvin Schulz stellt mit der Forderung, einen AfD-Politiker zu wählen, die bisherige Abgrenzung seiner Partei infrage. Das sorgt für Unruhe in der Berliner CDU.",
+          "source": "Berliner Zeitung",
+          "url": "https://www.berliner-zeitung.de/article/brandmauer-in-reinickendorf-dieser-cdu-politiker-will-sie-broeckeln-lassen-10536557"
+        },
+        {
+          "title": "Berlins Solarausbau bleibt weit hinter den eigenen Zielen zurück",
+          "summary": "Der Ausbau von Photovoltaik in Berlin kommt trotz Solarpflicht nur langsam voran. Die Stadt verfehlt damit ihre selbst gesetzten Klimaziele deutlich.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/berlin-ausbau-solarenergie-photovoltaik-solarpflicht.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Suche nach Atommüll-Endlager auf unter fünf Prozent der Fläche eingegrenzt",
+          "summary": "Berlin und die Lausitz sind aus dem Rennen um ein Endlager für rund 27.000 Kubikmeter hochradioaktiven Müll. Bis 2050 soll ein endgültiger Standort feststehen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/endlagersuche-atommuell-100.html"
+        },
+        {
+          "title": "Justizministerin Hubig bremst Gesetz zu Vergesellschaftungen von Wohnungen",
+          "summary": "Innenminister Dobrindt plant hohe Hürden für Vergesellschaftungen, doch Justizministerin Hubig sieht noch viele offene Fragen und verweist auf verfassungsrechtliche Bedenken.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/hubig-sieht-klaerungsbedarf-bei-gesetz-zu-enteignungen-100.html"
+        },
+        {
+          "title": "Gericht lehnt vorzeitige Haftentlassung von Beate Zschäpe ab",
+          "summary": "Die verurteilte NSU-Terroristin bleibt bis mindestens 2035 in Haft. Ihr Antrag auf eine vorzeitige Entlassung nach 15 Jahren Haft hatte keinen Erfolg.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/zschaepe-gericht-gegen-vorzeitige-haftentlassung-100.html"
+        },
+        {
+          "title": "IG Metall weist Tarifangebot zurück, Warnstreiks drohen ab Sonntag",
+          "summary": "Die Arbeitgeber der Metall- und Elektroindustrie haben ein erstes Angebot vorgelegt, das die IG Metall als unzureichend zurückweist. Ab Sonntag sind in der laufenden Tarifrunde Warnstreiks möglich.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/ig-metall-wirtschaftsmeldung-oktober2026-100.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "EU will Grenzschutzagentur Frontex massiv ausbauen",
+          "summary": "Die EU-Kommission plant mehr Personal und Befugnisse für Frontex, auch für Abschiebungen zwischen Drittstaaten. Eine schnelle Eingreiftruppe für Krisen wie in Ceuta ist ebenfalls vorgesehen.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-will-fuer-frontex-mehr-befugnisse-und-personal-100.html"
+        },
+        {
+          "title": "UK Budget: Healey promises households 'breathing space'",
+          "summary": "Ahead of unveiling his first budget, Chancellor Healey plans relief for households and businesses and will keep the cash ISA tax-free allowance at £20,000, reversing his predecessor's cut.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/uk-budget-2026-andy-burnham-john-healey-vows-breathing-space-brits/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "title": "European capitals push ahead with their own social media bans",
+          "summary": "As the EU's Kids Act to restrict minors' social media access stalls in Brussels, several national governments are moving forward with their own laws instead.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/europe-capitals-brush-off-brussels-national-social-media-bans/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "title": "Serbian opposition landslide exposes cost of EU's bet on Vučić",
+          "summary": "After ousting Aleksandar Vučić, Serbia's opposition win leaves the EU facing a skeptical new government in Belgrade, following a decade spent treating the strongman as indispensable.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/serbian-opposition-landslide-exposes-eu-bet-cost-aleksandar-vucic-outsted-belgrade/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Israel: Parlamentswahl endet nach Rekord-Wahlbeteiligung im Patt",
+          "summary": "Weder Netanjahus noch Eisenkots Lager erreichen laut Prognosen die nötige Mehrheit von 61 Sitzen. Die Wahlbeteiligung war die höchste seit 1999.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-prognose-100.html"
+        },
+        {
+          "title": "Bolsonaro-Sohn trotz Ausreiseverbot offenbar in den USA gelandet",
+          "summary": "Der unterlegene Präsidentschaftskandidat Flávio Bolsonaro soll Brasilien trotz gerichtlichem Ausreiseverbot verlassen haben. Die USA wollen ihm und seiner Familie nun Visa erteilen.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/bolsonaro-brasilien-usa-100.html"
+        },
+        {
+          "title": "Ägyptisches Gericht lässt unabhängige Nachrichtenseite Mada Masr schließen",
+          "summary": "Chefredakteurin Lina Attalah wurde zu einer hohen Geldstrafe verurteilt. Reporter ohne Grenzen spricht von einer ungeheuerlichen Entscheidung gegen die Pressefreiheit.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/afrika/aegypten-nachrichtenseite-mada-masr-100.html"
+        },
+        {
+          "title": "Mehr als 10.000 Ebola-Fälle in der Demokratischen Republik Kongo",
+          "summary": "Das Ebola-Virus breitet sich weiter aus, während an Therapien und Impfstoffen gearbeitet wird. Die Zahl der bestätigten Fälle hat die Marke von 10.000 überschritten.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/afrika/demokratische-republik-kongo-ebola-100.html"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "DAX legt vor Fed- und EZB-Zinsentscheid weiter zu",
+          "summary": "Der DAX setzte seine Kurserholung fort, auch gestützt von Hoffnungen auf eine diplomatische Lösung im Iran-Konflikt. Mercedes war mit Verlusten größter Index-Verlierer des Tages.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-jones-anthropic-ki-ezb-100.html"
+        },
+        {
+          "title": "US-Börsen schließen durchmischt, Boeing-Aktie verliert zweistellig",
+          "summary": "Nach der Euphorie über den geplanten Anthropic-Börsengang lässt die Kursdynamik an der Wall Street etwas nach. Anleger richten den Blick nun auf neue Firmenzahlen und den Nahen Osten.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-usboersen-ueberwiegend-im-plus-boeing-aktie-verliert-zweistellig/100265281.html"
+        },
+        {
+          "title": "EZB-Umfrage: Firmen kommen schwerer an neue Kredite",
+          "summary": "Banken im Euroraum sehen laut EZB-Umfrage höhere Kreditrisiken und erwarten eine weitere Verschärfung. Auch die Finanzierung von Immobilien wird durch die Zinsentwicklung schwieriger.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-firmen-im-euro-raum-kommen-schwerer-an-neue-darlehen/100263314.html"
+        },
+        {
+          "title": "Deutsche Sparquote sinkt leicht, bleibt aber über EU-Schnitt",
+          "summary": "Private Haushalte in Deutschland sparten 2025 mit 18,9 Prozent ihres Einkommens deutlich mehr als der EU-Durchschnitt von 14,3 Prozent, wie Destatis zum Weltspartag mitteilt. In Frankreich lag die Quote bei 17,8 Prozent.",
+          "source": "Destatis",
+          "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/Zahl-der-Woche/2026/PD26_44_p002.html"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "Nasal-strip startup Intake Breathing raises $62 million",
+          "summary": "Private equity firm Camino Partners is backing the wellness startup's push to make optimized breathing an everyday retail product, funding its US retail expansion.",
+          "source": "Modern Retail",
+          "url": "https://www.modernretail.co/operations/intake-breathing-62-million-funding-round/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+        },
+        {
+          "title": "Refurbished-Händler refurbed peilt über 100 Millionen Euro Umsatz an",
+          "summary": "Der österreichische Gebrauchtelektronik-Händler wächst weiter in Richtung der 100-Millionen-Euro-Marke. Bei Investor Point Nine gibt es zugleich einen Wechsel: Mitgründer Louis Coppey tritt ab.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/10/27/reverse-pitches-mcmakler-refurbed-point-nine-louis-coppey-tendos/"
+        },
+        {
+          "title": "Target overhauls $3 billion Threshold home goods brand",
+          "summary": "The retailer improved quality, merchandising and in some cases prices for its private label, adding more than 800 new items to the assortment.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/target-overhauls-threshold-home-goods-brand/872851/"
+        },
+        {
+          "title": "Manufacturing startup Re:Build raises $2.1 billion",
+          "summary": "The accelerator, which previously spun out Slate Auto, bills itself as 'America's answer to Shenzhen' and plans to use the funding to scale up domestic manufacturing.",
+          "source": "TechCrunch Fundraising",
+          "url": "https://techcrunch.com/2026/10/27/rebuild-which-spun-out-slate-auto-raises-2-1b/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "EFSA rejects satiety health claim for spinach extract Appethyl",
+          "summary": "The EU food safety authority ruled that prolonged satiety is not a beneficial physiological effect, rejecting Mimer Medical's health claim application for its branded ingredient.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/27/efsa-rejects-appethyl-health-claim-prolonged-satiety-not-a-beneficial-physiological-effect/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "UK watchdog finds 1,383 misleading ADHD and autism supplement ads",
+          "summary": "The Advertising Standards Authority found widespread ads falsely claiming supplements can prevent, treat or cure traits linked to neurodevelopmental conditions, with compliance still low despite enforcement.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/27/asa-report-finds-hundreds-of-misleading-neurodivergent-supplement-claims-ads/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Danish biotech Bactolife tests new gut-binding proteins in humans",
+          "summary": "The company is bringing a new class of fermented 'Helm Binding Proteins' to the US gut-health market, aiming to neutralize harmful metabolites rather than alter the microbiome directly.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/27/bactolife-targets-us-gut-health-market-with-novel-binding-proteins/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Jennifer Lawrence enters celebrity beauty business with haircare brand",
+          "summary": "The actress joins an increasingly crowded celebrity beauty market; separately, Dove is expanding into fine fragrance.",
+          "source": "Glossy",
+          "url": "https://www.glossy.co/beauty/beauty-briefing-jennifer-lawrence-steps-into-the-celebrity-beauty-arena/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Anthropic files for what could be the biggest IPO ever",
+          "summary": "The AI company's filing caps a $235 billion day of AI dealmaking and could raise up to $100 billion, with observers citing reasons for optimism in the prospectus despite billion-dollar losses.",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/10/27/anthropic-ipo-meta-spacex-ai-deals"
+        },
+        {
+          "title": "Google unveils Genie 4 world model for interactive AI experiences",
+          "summary": "The new model generates more realistic virtual worlds, lets users alter experiences in real time via natural language and can generate audio, running on Gemini 3.8 Flash.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1019076/google-genie-4-ai-model"
+        },
+        {
+          "title": "Sicherheitslücke php2shell wird aktiv ausgenutzt, Millionen Server betroffen",
+          "summary": "Seit Bekanntwerden der kritischen PHP-Schwachstelle laufen Angriffe darauf, erste erfolgreiche Attacken sind bestätigt. Allein in Deutschland sind noch über vier Millionen Dienste ungepatcht und verwundbar.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/php2shell-angreifer-nutzen-die-luecken-jetzt-aus-4-millionen-deutsche-dienste-veruwndbar-1770083/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "title": "Apple führt Selfie-Altersprüfung für iPhones ein",
+          "summary": "Wer sein Alter nicht per Selfie nachweist, muss mit gesperrten Funktionen rechnen. Außerdem bekommt Siri AI neue Sprachen wie Französisch und Spanisch - Deutsch fehlt aber weiterhin.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/Altersverifizierung-auf-iPhones-Selfie-Pruefung-jetzt-auch-bei-Apple-11502367.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "Sport & Körper",
+    "title": "Der Fosbury-Flop: Wie ein Student den Hochsprung revolutionierte",
+    "body": "Bis in die 1960er Jahre sprangen Hochspringer fast ausschließlich im Scherensprung oder Straddle über die Latte, seitlich oder mit dem Bauch nach unten. Der US-Amerikaner Dick Fosbury, ein eher mittelmäßiger Student-Athlet, entwickelte dagegen eine völlig neue Technik: Er lief diagonal an, drehte sich kurz vor der Latte um und überquerte sie rückwärts mit dem Rücken nach unten, bevor er auf Schultern und Rücken landete. Trainer und Experten hielten die Methode zunächst für unorthodox und wenig erfolgversprechend. Bei den Olympischen Spielen 1968 in Mexiko-Stadt bewies Fosbury das Gegenteil: Er gewann Gold mit einem olympischen Rekord von 2,24 Metern. Innerhalb eines Jahrzehnts verdrängte der nach ihm benannte 'Fosbury-Flop' alle älteren Techniken und ist bis heute der Standard im Hochsprung. Das Beispiel zeigt, wie eine ungewöhnliche, zunächst belächelte Idee eine ganze Sportart neu definieren kann.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Dick_Fosbury",
+      "https://de.wikipedia.org/wiki/Fosbury-Flop"
+    ]
+  }
+}
