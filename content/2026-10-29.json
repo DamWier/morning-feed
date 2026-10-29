@@ -1,0 +1,285 @@
+{
+  "date": "2026-10-29",
+  "headline": "Zugunglück in Spanien fordert mindestens 68 Tote, menschliches Versagen vermutet.",
+  "telegram_bullets": [
+    "Zugunglück Spanien: mind. 68 Tote, menschliches Versagen vermutet, 3 Tage Staatstrauer.",
+    "Berlin: Neues Abgeordnetenhaus tagt erstmals, Linke könnte Parlamentspräsidentin stellen.",
+    "Fed hält Zinsen trotz Inflation, Gaspreis über 100 Euro, Google-Aktie fällt nach KI-Kapex-Sorgen.",
+    "Google launcht Gemini 4 Carbon und toppt Benchmarks vor Claude und GPT-6."
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Neues Abgeordnetenhaus tagt erstmals, Linke könnte Präsidentin stellen",
+          "summary": "Knapp sechs Wochen nach der Wahl ist das Berliner Abgeordnetenhaus zur konstituierenden Sitzung zusammengekommen. Hendrikje Klein (Linke) gilt als wahrscheinliche neue Parlamentspräsidentin, bei einer weiteren Personalie droht Streit.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-erste-sitzung-abgeordnetenhaus-entschiedet-uber-wichtige-personalien-16213305.html"
+        },
+        {
+          "title": "Berliner Polizei rüstet sich für Großeinsatz am 31. Oktober",
+          "summary": "Nach den Schülerprotesten in Frankreich sind für den 31. Oktober mehrere Demonstrationen in Berlin angemeldet. Rund 1.500 Polizeikräfte sollen im Einsatz sein.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/panorama/beitrag/2026/10/polizei-berlin-31-oktober-vorbereitungen-grosseinsatz.html"
+        },
+        {
+          "title": "Abriss der Schönhauser-Allee-Brücke startet, Verkehr eingeschränkt",
+          "summary": "In Prenzlauer Berg beginnt der Abriss der Brücke für einen Neubau. Ab nächster Woche sind Auto-, Rad- und Nahverkehr am wichtigen Knotenpunkt betroffen.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/bezirke/pankow/start-der-mega-baustelle-in-berlin-sperrungen-und-verkehrseinschrankungen-durch-neubau-der-schonhauser-allee-brucke-16213102.html"
+        },
+        {
+          "title": "Insolventes Autohaus König steht offenbar vor Übernahme",
+          "summary": "Das insolvente Berliner Autohaus König verhandelt laut Medienberichten mit drei Interessenten. Kunden, die bereits bezahlte Fahrzeuge noch nicht erhalten haben, dürfen hoffen.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/gesprache-mit-drei-interessenten-insolventes-berliner-autohaus-konig-steht-offenbar-vor-der-ubernahme-16213112.html"
+        },
+        {
+          "title": "Neues Bevölkerungsschutzzentrum in Luckenwalde eröffnet",
+          "summary": "Mit Feldbetten, Notstrom und mobilen Küchen für bis zu 5.000 Menschen hat das DRK in Luckenwalde ein neues Schutzzentrum in Betrieb genommen, eröffnet von Dobrindt und Woidke.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-luckenwalde-dobrindt-und-woidke-eroffnen-riesiges-hilfsguterlager-16213280.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Steinmeier-Nachfolge: Merz beharrt auf CDU-Vorschlagsrecht",
+          "summary": "Die Debatte um die Nachfolge von Bundespräsident Steinmeier nimmt Fahrt auf. Kanzler Merz sieht das Vorschlagsrecht weiter bei der CDU, obwohl CSU, Grüne und SPD lieber Ilse Aigner ins Schloss Bellevue schicken wollen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/nachfolge-steinmeier-100.html"
+        },
+        {
+          "title": "Elterngeld bleibt bei 14 Monaten, geplante Kürzung gestoppt",
+          "summary": "Das Familienministerium hält an der bisherigen Bezugsdauer von bis zu 14 Monaten fest. Eine Kürzung auf zwölf Monate wird nicht umgesetzt, Mindest- und Höchstbeträge sollen aber steigen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/elterngeld-bezugsdauer-prien-100.html"
+        },
+        {
+          "title": "Ermittlungen gegen zwei Belarusen wegen geplanter Sabotage in Bayern",
+          "summary": "Im Raum Nürnberg sollen zwei Männer im Auftrag einer fremden Regierung einen Brandanschlag auf kritische Infrastruktur geplant haben. Parallel will der Bund Beschäftigte in mehr Betrieben künftig auf Sicherheitsrisiken überprüfen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/bayern-ermittlungen-gegen-belarusen-sabotage-100.html"
+        },
+        {
+          "title": "Gesundheitsminister Linnemann hält Pflege-Leistungskürzungen für möglich",
+          "summary": "Angesichts der angespannten Finanzlage der Pflegeversicherung schließt Linnemann Leistungskürzungen nicht aus. Rund zehn Prozent der Kosten müssten eingespart werden.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/linnemann-haelt-leistungskuerzungen-bei-der-pflege-fuer-moeglich-100.html"
+        },
+        {
+          "title": "40 straffällig gewordene Afghanen aus Deutschland abgeschoben",
+          "summary": "Im Rahmen der verschärften Rückführungspolitik wurden 40 straffällig gewordene Afghanen in ihr Heimatland abgeschoben.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/40-straffaellig-gewordene-afghanen-aus-deutschland-abgeschoben-110.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "Mindestens 68 Tote nach Zugunglück in Spanien, menschliches Versagen vermutet",
+          "summary": "Ein Hochgeschwindigkeitszug fuhr südlich von Madrid auf einen stehenden Zug auf. Erste Ermittlungen deuten auf eine falsche Ansage der Leitstelle hin, Ministerpräsident Sánchez ordnete drei Tage Staatstrauer an.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/zugunglueck-spanien-144.html"
+        },
+        {
+          "title": "EU streicht 'assoziierte Mitgliedschaft' aus Entwurf für Kanada-Gipfel",
+          "summary": "Vor dem Gipfeltreffen in Montreal haben die EU-Staaten den Begriff einer besonderen Status-Option für Kanada aus dem Abschlussentwurf gestrichen. Deutschland gehörte zu den Bedenkenträgern gegen von der Leyens Vorstoß.",
+          "source": "DW",
+          "url": "https://www.dw.com/en/eu-countries-block-canada-s-associate-membership-plan/a-79791601?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "title": "Burnham stellt ersten Haushalt als britischer Premier vor",
+          "summary": "Mit kleinen, direkt spürbaren Maßnahmen besteht Burnham seinen ersten großen Härtetest. Die Erwartungen der Briten an die Labour-Regierung sind hoch, das Budget bleibt vorsichtig.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/uk-burnham-erster-haushalt-100.html"
+        },
+        {
+          "title": "Angriff auf Wachmann vor israelischer Botschaft in Belgrad",
+          "summary": "Ein mutmaßliches IS-Mitglied attackierte einen Wachmann vor der israelischen Botschaft in Belgrad mit einem Messer und wurde dabei getötet. Serbien und Israel werten die Tat als Terrorakt.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/serbien-anschlag-israelische-botschaft-100.html"
+        },
+        {
+          "title": "EU-Abgeordnete kritisieren neue Frontex-Befugnisse zur Social-Media-Überwachung",
+          "summary": "Die EU-Grenzschutzagentur Frontex soll ein breiteres Mandat erhalten, um soziale Medien auf illegale Inhalte zu überwachen. Abgeordnete warnen vor einem zu weit gefassten Eingriff in die Privatsphäre.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/eu-lawmakers-slam-new-border-force-powers-to-surveil-social-media-frontex/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Bolsonaros Sohn flieht in die USA und erklärt sich zum Wahlsieger",
+          "summary": "Flávio Bolsonaro hat sich trotz Ausreiseverbot nach Miami abgesetzt und bezeichnet sich entgegen eindeutiger Ergebnisse als rechtmäßigen Sieger der brasilianischen Präsidentschaftswahl. Gegen ihn wird wegen Korruption und Geldwäsche ermittelt.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/flavio-bolsonaro-erklaerung-wahlsieger-100.html"
+        },
+        {
+          "title": "Israel nach der Wahl: Netanjahu ohne Mehrheit, aber weiter am Hebel",
+          "summary": "Keines der beiden Lager erreichte bei der Parlamentswahl eine klare Mehrheit. Bis eine neue Regierung steht, bleibt Netanjahu im Amt, mit Folgen für Gaza, das Westjordanland und die gesamte Region.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-mehrheitsverhaeltnisse-100.html"
+        },
+        {
+          "title": "North Korea fires around 10 ballistic missiles into sea",
+          "summary": "The latest launch comes amid rising border tensions with South Korea and uncertainty over potential nuclear talks with the US.",
+          "source": "DW",
+          "url": "https://www.dw.com/en/north-korea-fires-around-10-ballistic-missiles-into-sea/a-79791900?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "title": "US Department of Homeland Security data leak exposes details of 40,000 employees",
+          "summary": "The leaked information reportedly includes names, phone numbers and email addresses of personnel across several US security agencies, following recent breaches at the FBI and Defense Department.",
+          "source": "DW",
+          "url": "https://www.dw.com/en/us-department-of-homeland-security-data-leak-exposes-details-of-more-than-40-000-employees/a-79791765?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "title": "Iranischer Regisseur Panahi erneut zu Haftstrafe verurteilt",
+          "summary": "Die iranische Justiz hat den Goldene-Palme-Gewinner Jafar Panahi erneut zu einer mehrjährigen Haftstrafe verurteilt. Der 66-Jährige gilt als prominenter Regime-Kritiker.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/panahi-iran-haftstrafe-100.html"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Fed hält Leitzins trotz steigender Inflation unverändert",
+          "summary": "Die US-Notenbank legt nach der ersten Zinserhöhung seit über drei Jahren eine Pause ein. Ab 2027 soll es künftig nur noch sieben statt acht Zinssitzungen pro Jahr geben.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/geldpolitik/geldpolitik-fed-laesst-zinsen-unveraendert-weniger-zinsentscheidungen-ab-2027/100264521.html"
+        },
+        {
+          "title": "EZB-Zinsentscheid: Inflation trifft Schuldenkrise, Lage so heikel wie lange nicht",
+          "summary": "Die EZB muss bei ihrem Zinsentscheid mit gegenläufigen Problemen umgehen: steigender Inflation und der Schuldenlage Frankreichs. Analysten befürchten einen 'kommunikativen Albtraum'.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-inflation-trifft-schuldenkrise-heikle-lage-fuer-die-notenbank/100262258.html"
+        },
+        {
+          "title": "Europäischer Gaspreis steigt über 100 Euro, kalter Winter könnte Preise weiter treiben",
+          "summary": "Die Gaspreise sind so hoch wie seit Ende 2022 nicht mehr. Der Irankrieg und hohe Nachfrage in Asien treiben die Kosten, niedrige Speicherstände verschärfen die Lage vor dem Winter.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/energie-europaeischer-gaspreis-steigt-auf-mehr-als-100-euro/100265601.html"
+        },
+        {
+          "title": "Asiatische Börsen geben nach, Sorge um KI-Investitionen belastet",
+          "summary": "Nach schwächer als erwarteten Kapex-Zahlen von Alphabet und Microsoft reagieren Anleger in Asien verunsichert. Topix und Kospi fallen, nur der Nikkei legt leicht zu.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-kospi-asiatische-aktien-geben-nach-anleger-vor-quartalsergebnissen-vorsichtig/100265771.html"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "Kennedy Lewis übernimmt Campingbus-Vermieter Roadsurfer",
+          "summary": "Der Private-Equity-Investor Kennedy Lewis steigt beim deutschen Campingbus-Vermieter Roadsurfer ein. Die Übernahme ist Teil einer laufenden Konsolidierung in der europäischen Mobilitäts- und Reisebranche.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/10/28/pitch-it-climatetech-insight-gauss-robotics-skylance-roadsurfer/"
+        },
+        {
+          "title": "Robotik-Startup Gauss Robotics meldet Insolvenz an",
+          "summary": "Das deutsche Robotik-Unternehmen Gauss Robotics ist insolvent. Der Fall reiht sich in eine Serie von Finanzierungsproblemen bei Hardware-Startups ein.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/10/28/pitch-it-climatetech-insight-gauss-robotics-skylance-roadsurfer/"
+        },
+        {
+          "title": "Trian legt 3,8-Milliarden-Dollar-Übernahmeangebot für Wendy's vor",
+          "summary": "Nelson Peltz' Investmentfirma Trian will die Fast-Food-Kette Wendy's von der Börse nehmen. Es ist die jüngste Episode in Trians langjährigem Engagement bei der Burger-Kette.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/9cf40241-94df-403d-b93f-ac6c09728627?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Mubadala-Dealmaker verlässt Staatsfonds für eigenen Venture-Fonds",
+          "summary": "Ibrahim Ajami, leitender Manager der Private-Capital-Sparte des Staatsfonds von Abu Dhabi, will das Unternehmen nächstes Jahr verlassen, um einen eigenen Venture-Fonds aufzubauen.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/e9827543-51c9-451b-b180-e7e2276aa957?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "GLP-1-Nutzerdaten zeigen Chance für Sport- und Active-Nutrition-Marken",
+          "summary": "Nutzer von GLP-1-Präparaten erweisen sich als supplementaffiner als bisher angenommen. Das öffnet eine Marktlücke für Anbieter von Sport- und Active-Nutrition-Produkten.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/28/glp-1-user-data-indicates-white-space-opportunity-for-sports-and-active-innovators/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "EU-Novel-Food-Urteil erschwert Vermarktung von Rotschimmelreis",
+          "summary": "Ein italienisches Urteil stuft den monacolinfreien Rotschimmelreis-Rohstoff RYR-SWM352 als neuartiges Lebensmittel ein. Damit ist vor der Vermarktung in der EU erst eine Zulassung nötig, was den regulatorischen Weg für Cholesterin-Supplements erschwert.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/28/eu-novel-food-ruling-places-extra-hurdle-on-red-yeast-rice/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Umweltbezogene Werbeaussagen bei Supplements: neue EU-Regeln als Compliance-Risiko",
+          "summary": "Seit September gelten in der EU neue Regeln für umweltbezogene Werbeaussagen. Supplement-Marken drohen dabei dieselben Fehler wie schon bei den Health-Claims-Vorgaben.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/28/environmental-claims-on-food-supplements-are-we-getting-them-right/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Europäisches Patentgericht verhängt vorläufiges Verkaufsverbot gegen Pendulum-Probiotikum",
+          "summary": "Nach einer Klage von Caelus Life Sciences hat das Europäische Patentgericht der US-Marke Pendulum und mehreren Online-Händlern vorläufig verboten, ein Probiotikum gegen Insulinresistenz zu verkaufen.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/28/caelus-european-patent-dispute-pendulum-appeals-provisional-ban/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Google launcht Gemini 4 Carbon mit 'deutlichem Sprung' bei Cybersicherheit",
+          "summary": "Googles neues Frontier-Modell führt den Artificial-Analysis-Intelligence-Index (v5.0) an, vor Claude Opus 5.5 und GPT-6 Astra, mit Fortschritten bei Coding, agentischen Aufgaben und Cybersicherheit.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier"
+        },
+        {
+          "title": "GitHub Octoverse 2026: Merged Pull Requests verdreifachen sich",
+          "summary": "Laut GitHubs Jahresreport stiegen die monatlich gemergten Pull Requests 2026 auf 220 Millionen, fast dreimal so viele wie zuvor, getrieben vor allem durch agentische Coding-Tools.",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/"
+        },
+        {
+          "title": "Sicherheitslücke im Microsoft Authenticator geschlossen",
+          "summary": "Bösartige Apps konnten über die Lücke Zugangstoken abgreifen. Microsoft hat die Schwachstelle im Authenticator inzwischen behoben.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/Microsoft-Authenticator-Boesartige-Apps-konnten-Zugangstoken-abgreifen-11503334.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "title": "Proton-Mitarbeiter müssen wegen KI-Nutzung erneut ins Bewerbungsgespräch",
+          "summary": "Der Schweizer Security-Anbieter Proton befragt seine Beschäftigten erneut dazu, wie sie künstliche Intelligenz nutzen. Das Ergebnis kann Folgen für Aufgaben und Jobs haben.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/wegen-ki-proton-mitarbeiter-muessen-erneut-zum-bewerbungsgespraech-1770380/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "E-Commerce & DTC",
+    "title": "Das Razor-and-Blades-Prinzip: Wie Gillette das Geschäftsmodell für Nachkäufe erfand",
+    "body": "King Camp Gillette patentierte 1904 den Einwegrasierer mit austauschbarer Klinge. Die geniale Idee lag nicht in der Klinge selbst, sondern im Preismodell: Der Griff wurde günstig oder fast verschenkt verkauft, während die Nachfüllklingen dauerhaft Gewinn brachten. Kunden banden sich an ein System, dessen Ersatzteile nur zum Hersteller passten, und kauften über Jahre nach. Das Prinzip, oft 'Razor-and-Blades' genannt, wurde zum Vorbild für zahllose Branchen: Drucker und Tintenpatronen, Kaffeemaschinen und Kapseln, Spielkonsolen und Spiele. Auch viele DTC-Marken bauen heute bewusst auf diesem Muster auf, etwa mit günstigen Startsets und margenstarken Abo-Nachfüllungen. Wirtschaftshistoriker sind sich allerdings uneinig, wie bewusst Gillette die Strategie tatsächlich verfolgte; manche Quellen bezweifeln, dass die Rasierer anfangs wirklich verbilligt waren. Unstrittig ist aber, dass das Modell bis heute erklärt, warum manche Produkte vor allem Türöffner für ein lukratives Verbrauchsgeschäft sind.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Gillette_(brand)",
+      "https://en.wikipedia.org/wiki/Razor_and_blades_business_model"
+    ]
+  }
+}
