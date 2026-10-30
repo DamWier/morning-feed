@@ -1,0 +1,261 @@
+{
+  "date": "2026-10-30",
+  "headline": "Ein mutmaßlicher Hack reißt bis zu 6,3 Milliarden Dollar aus Binance und lässt Bitcoin auf ein Sechs-Wochen-Tief fallen, während Alphabet an der Börse 500 Milliarden Dollar Wert verliert.",
+  "telegram_bullets": [
+    "Binance-Hack: mutmaßlich bis zu 6,3 Mrd. Dollar gestohlen, Bitcoin auf Sechs-Wochen-Tief.",
+    "Alphabet verliert 500 Mrd. Dollar Börsenwert, Lagarde tritt im Februar 2027 vorzeitig als EZB-Chefin zurück.",
+    "Berlin: Linke-Politikerin Klein neue Parlamentspräsidentin, Koalitionsbildung weiter von Eralp-Krach belastet.",
+    "Google kontert mit Gemini 4 Carbon nur zwei Wochen nach Argon, überholt laut Ranking Claude Opus 5.5."
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Linke-Politikerin Klein zur Parlamentspräsidentin gewählt",
+          "summary": "Knapp sechs Wochen nach der Berlin-Wahl ist das neue Abgeordnetenhaus zur konstituierenden Sitzung zusammengekommen und hat die Linken-Politikerin Klein zur neuen Parlamentspräsidentin gewählt.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-abgeordnetenhaus-konstituierende-sitzung.html"
+        },
+        {
+          "title": "Krach in Koalitionsgesprächen um Eralps Bedenken",
+          "summary": "Ein Spiegel-Bericht über interne Vorbehalte der Linken-Wahlsiegerin Elif Eralp sorgt für Streit mit dem SPD-Landeschef und belastet die Regierungsbildung. Die Grünen-Chefin zeigt Verständnis für Eralps Sorgen, andere sprechen von einem verheerenden Signal.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-regierungsbildung-in-berlin-krach-uber-eralps-bedenken-das-signal-ist-verheerend-16217275.html"
+        },
+        {
+          "title": "RE33 fährt ab Dezember nicht mehr direkt nach Potsdam",
+          "summary": "Fahrgäste der Regionalbahn RE33 müssen wegen Bauarbeiten ab Dezember für rund ein Jahr mit Einschränkungen rechnen, viele Züge erreichen den Potsdamer Hauptbahnhof nicht mehr direkt.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/panorama/beitrag/2026/10/brandenburg-potsdam-beelitz-regionalbahn.html"
+        },
+        {
+          "title": "IG Metall bereitet Warnstreiks in Berlin und Brandenburg vor",
+          "summary": "Die Gewerkschaft rüstet sich für Warnstreiks in der Region, im Zentrum steht ein Streit um die Lohnentwicklung in der laufenden Tarifrunde.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/wirtschaft/beitrag/2026/10/berlin-brandenburg-ig-metall-warnstreiks-lohn.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Koalition debattiert über Steuer auf KI-Umsätze",
+          "summary": "In der Bundesregierung wird über eine Steuer auf mit Künstlicher Intelligenz erzielte Umsätze diskutiert, auch Familienministerin Prien spricht sich dafür aus. Ziel ist, auf drohende Jobverluste durch KI zu reagieren.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/ministerin-prien-ki-steuer-100.html"
+        },
+        {
+          "title": "Steinmeier-Nachfolge wird zur parteipolitischen Machtfrage",
+          "summary": "Deutschland sucht eine Nachfolge für Bundespräsident Steinmeier, doch die Kandidatensuche bei CDU/CSU ist unübersichtlich und stark parteipolitisch aufgeladen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundespraesident-kandidatensuche-union-100.html"
+        },
+        {
+          "title": "Gesundheitsminister hält Kürzungen bei der Pflege für möglich",
+          "summary": "Linnemann schließt Leistungskürzungen in der Pflegeversicherung angesichts steigender Kosten nicht aus, rund zehn Prozent müssten eingespart werden. Patientenschützer warnen vor Folgen für die häusliche Pflege.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/linnemann-kuerzungen-pflegeleistungen-100.html"
+        },
+        {
+          "title": "Familienministerin will bei Unterhaltsvorschuss nachverhandeln",
+          "summary": "Die geplanten Sparmaßnahmen beim staatlichen Unterhaltsvorschuss sind laut Prien noch nicht final entschieden, man sei bei dem Thema noch nicht am Ende.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/familienministerin-prien-will-bei-unterhaltsvorschuss-nachverhandeln-102.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "Frankreich rüstet sich für neue Schülerproteste",
+          "summary": "Erneut wollen Schüler landesweit gegen die Bildungspolitik protestieren, die bisherigen Zugeständnisse der Regierung reichen ihnen nicht aus.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-schuelerproteste-halloween-100.html"
+        },
+        {
+          "title": "Gesprächsprotokolle zu Spaniens Zugunglück veröffentlicht",
+          "summary": "Nach dem zweiten schweren Zugunglück auf der Strecke Madrid-Andalusien mit mindestens 69 Toten wurden die Funkprotokolle zwischen Leitstelle und Lokführern veröffentlicht, menschliches Versagen gilt als mögliche Ursache.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/spanien-zugunglueck-132.html"
+        },
+        {
+          "title": "EU-Kanada-Gipfel endet ohne 'assoziierte Mitgliedschaft'",
+          "summary": "Beim Gipfel in Montreal haben Kanzler Merz und andere EU-Regierungschefs die Kanada-Pläne von Kommissionschefin von der Leyen abgeschwächt, von einer assoziierten Mitgliedschaft ist nicht mehr die Rede.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-kanada-gipfel-100.html"
+        },
+        {
+          "title": "Vier Tote bei Absturz von EU-Hubschrauber in Bosnien",
+          "summary": "Ein Militärhelikopter der EU-Friedensmission ist in Bosnien-Herzegowina abgestürzt, alle vier Insassen kamen aus Italien und starben. Der genaue Unfallhergang ist noch unklar.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/hubschrauber-bosnien-absturz-100.html"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Maria Corina Machado kehrt aus dem Exil nach Venezuela zurück",
+          "summary": "Die Oppositionspolitikerin ist am Sonntag zurückgekehrt, obwohl die Justiz gegen sie wegen Vaterlandsverrats ermittelt. Sie versteckt sich nicht mehr.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/venezuela-machado-106.html"
+        },
+        {
+          "title": "Nach Auszählung bleibt politisches Patt in Israel bestehen",
+          "summary": "Alle Stimmen der israelischen Parlamentswahl sind ausgezählt, am Patt zwischen den Blöcken ändert das nichts. Netanyahus Likud spricht ohne Beleg von einer 'gestohlenen Wahl'.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-wahl-ergebnis-102.html"
+        },
+        {
+          "title": "Opiumproduktion in Afghanistan um 400 Prozent gestiegen",
+          "summary": "Obwohl die Taliban Mohnanbau und Opiumherstellung 2022 verboten hatten, ist die Produktion laut UN-Zahlen innerhalb eines Jahres wieder stark gestiegen.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/afghanistan-zunahme-opiumproduktion-100.html"
+        },
+        {
+          "title": "Flávio Bolsonaro declares himself opposition leader from exile",
+          "summary": "After losing Brazil's presidential election and fleeing the country amid a money-laundering probe, Flávio Bolsonaro says he will now lead the opposition from the United States.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "EZB und Fed lassen Leitzinsen unverändert",
+          "summary": "Die EZB beließ ihren Leitzins wie erwartet bei 2,5 Prozent, zuvor hatte auch die US-Notenbank Fed auf eine Zinsänderung verzichtet. Die Zurückhaltung beider Notenbanken beflügelte die Kauflust der Anleger.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/weltwirtschaft/ezb-570.html"
+        },
+        {
+          "title": "EZB-Chefin Lagarde tritt im Februar 2027 vorzeitig zurück",
+          "summary": "Nach länger kursierenden Gerüchten ist es offiziell: Christine Lagarde gibt ihr Amt vorzeitig auf, damit kann über die Nachfolge noch vor der Präsidentschaftswahl in Frankreich entschieden werden.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/lagarde-ezb-ruecktritt-100.html"
+        },
+        {
+          "title": "Alphabet verliert 500 Milliarden Dollar Börsenwert",
+          "summary": "Für den Google-Konzern war es der schlechteste Börsentag überhaupt, nachdem er eingeräumt hatte, dass der 'AI Mode' der klassischen Suche schadet. Der Kursrutsch belastete auch den Nasdaq, der deutlich im Minus schloss.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-alphabet-kursrutsch-vernichtet-500-milliarden-dollar-boersenwert/100265906.html"
+        },
+        {
+          "title": "Binance hack may be the largest crypto theft ever",
+          "summary": "Binance halted withdrawals after a suspected hack that may have drained $6.3bn, one of the industry's biggest-ever security breaches. Bitcoin fell to a six-week low as the news rattled markets in early Asian trading.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/c7f5e395-c3a9-430e-b757-5014527b4d49?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "anny übernimmt KI-Spezialisten HiDesk",
+          "summary": "Das profitabel wirtschaftende Kölner Startup anny wächst ohne externe Investoren und übernimmt nun HiDesk, um Buchungsprozesse vom ersten Kundenkontakt bis zur fertigen Reservierung zu automatisieren.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/10/29/anny-und-ki-uebernimmt-die-buchungen/"
+        },
+        {
+          "title": "Breuninger expandiert in elf weitere europäische Märkte",
+          "summary": "Das deutsche Familienunternehmen ist künftig in 24 Märkten aktiv und beschleunigt damit seine Europa-Expansion nach den ersten Markteinführungen im ersten Halbjahr.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/breuninger-expands-into-11-new-markets/"
+        },
+        {
+          "title": "VMG Partners steigt bei Dollar-Beauty-Kette Miss A ein",
+          "summary": "VMG Partners hat eine nicht näher bezifferte Minderheitsbeteiligung an Miss A zu einer Bewertung von rund 750 Millionen Dollar erworben. Der Billig-Beauty-Händler will bis 2030 einen Jahresumsatz von 1 Milliarde Dollar erreichen.",
+          "source": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/vmg-partners-backs-miss-a-750m-valuation-dollar-beauty-retailer-targets-1b-sales/"
+        },
+        {
+          "title": "DoorDash kauft Instacart für 17 Milliarden Dollar",
+          "summary": "Mit der Übernahme konsolidieren sich zwei große Anbieter im US-Liefermarkt. Der Deal zählt zu den größten in diesem Jahr in der Branche.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/doordash-buys-instacart-delivery-seventeen-billion/873151/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "EU-Branchenverband verschärft Regeln für Supplement-Influencer",
+          "summary": "Food Supplements Europe hat neue Leitlinien veröffentlicht, die Transparenzpflichten, zulässige Gesundheitsaussagen und eine sorgfältige Auswahl von Creators für Influencer-Marketing mit Nahrungsergänzungsmitteln vorschreiben.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/29/fse-targets-misleading-supplement-marketing/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Öko-Test vergibt 'ungenügend' für Zink-Präparate",
+          "summary": "Von 21 getesteten Zink- und Vitamin-C-Produkten aus Apotheke und Drogerie sieht Öko-Test für die gesunde Allgemeinbevölkerung keinen echten Nutzen. Als wirksamer gelten laut dem Magazin Händewaschen und ein gesunder Lebensstil.",
+          "source": "apotheke adhoc",
+          "url": "https://www.apotheke-adhoc.de/nachrichten/detail/panorama/oeko-test-ungenuegend-fuer-zink-praeparate/"
+        },
+        {
+          "title": "Lilly erzielt 10,7 Milliarden Dollar Umsatz mit Mounjaro",
+          "summary": "Die Abnehm-Blockbuster Zepbound und Mounjaro trieben das Wachstum des Pharmakonzerns im dritten Quartal weiter an. Lilly schnitt besser als erwartet ab und hob seine Jahresprognose erneut deutlich an.",
+          "source": "apotheke adhoc",
+          "url": "https://www.apotheke-adhoc.de/nachrichten/detail/markt/lilly-allein-107-milliarden-dollar-umsatz-mit-mounjaro/"
+        },
+        {
+          "title": "Kreatin- und Magnesium-Blends dominieren Oktober-Produktneuheiten",
+          "summary": "Premiumisierte Kreatin-Mischungen und dreifach kombiniertes Magnesium für bessere Bioverfügbarkeit prägten im Oktober die Neuprodukte der Branche, daneben bereiten sich viele Hersteller mit Energie- und Immunformulierungen auf den Winter vor.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/29/october-npd-launchpad-triple-blend-magnesium-energy-immunity-and-creatine-blends/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Google stellt mit Gemini 4 Carbon neues Spitzenmodell vor",
+          "summary": "Nur zwei Wochen nach dem Vorgänger Argon hat Google sein bislang leistungsstärkstes KI-Modell veröffentlicht. Im Ranking von Artificial Analysis liegt Carbon vor Anthropics Claude Opus 5.5.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/gemini-4-carbon-google-1770698/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "title": "Mistral veröffentlicht Gewichte von Mistral Large 4",
+          "summary": "Das einzige global konkurrenzfähige EU-KI-Labor will mit dem offenen Modell vor allem bei Coding- und Cyber-Aufgaben chinesische Konkurrenten übertreffen, nachdem die letzten Modelle nicht überzeugen konnten.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/mistral-large-4-gewichte-veroeffentlicht-coding-cyber-benchmarks-1770559/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "title": "Anthropic's IPO filing bets big on AGI and compute",
+          "summary": "Anthropic's S-1 filing for its Nasdaq listing lays out the financial case for spending as much as possible on compute, betting that Wall Street will back the pursuit of artificial general intelligence despite the risks involved.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive"
+        },
+        {
+          "title": "Microsoft offers buyouts to 60,000 employees amid AI shift",
+          "summary": "Microsoft is offering voluntary exit packages to around 60,000 staff across the US, UK and Canada, a sign that CEO Satya Nadella's AI strategy is beginning to reshape the size of the company's workforce.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "AI & Technik",
+    "title": "Der ELIZA-Effekt: Warum wir Chatbots Gefühle zuschreiben",
+    "body": "Der ELIZA-Effekt beschreibt die Tendenz, Computerprogrammen echtes Verständnis oder Empathie zuzuschreiben, obwohl sie nur Muster verarbeiten. Benannt ist er nach ELIZA, einem der ersten Chatbots, den der Informatiker Joseph Weizenbaum 1966 am MIT entwickelte. ELIZA simulierte eine Gesprächstherapeutin und spiegelte Nutzeräußerungen einfach als Fragen zurück. Aus der Aussage 'Ich habe Probleme mit meiner Mutter' wurde so die Antwort 'Erzählen Sie mir mehr über Ihre Familie'. Weizenbaum war selbst überrascht, wie sehr Testpersonen sich dem einfachen Programm öffneten und ihm emotionale Tiefe unterstellten, obwohl er die simplen Regeln dahinter kannte. Er wurde später zu einem scharfen Kritiker unreflektierter KI-Euphorie. Der Effekt erklärt bis heute, warum viele Menschen auch moderne Sprachmodelle wie Gemini oder Claude als mitfühlend oder bewusst wahrnehmen, obwohl dahinter weiterhin statistische Textvorhersage steckt.",
+    "links": [
+      "https://de.wikipedia.org/wiki/ELIZA_(Programm)",
+      "https://en.wikipedia.org/wiki/ELIZA_effect"
+    ]
+  }
+}
