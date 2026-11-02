@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-02",
+  "headline": "Nach den „Gen Z regelt“-Protesten kommt es in mehreren deutschen Großstädten zu Ausschreitungen und Plünderungen, während in Berlin die rot-grün-roten Koalitionsverhandlungen beginnen.",
+  "telegram_bullets": [
+    "Nach „Gen Z regelt“-Protesten: Ausschreitungen und Plünderungen in Frankfurt, Köln, Berlin und Hamburg.",
+    "Berlin startet rot-grün-rote Koalitionsverhandlungen, Randale mit bis zu 120 Beteiligten im Märkischen Viertel.",
+    "Binance-Hack: FBI macht Nordkorea für 6,3-Milliarden-Dollar-Diebstahl verantwortlich, US-Börsen rutschen vor den Midterms ab.",
+    "DoorDash übernimmt Instacart für 17 Mrd. Dollar, Polens Verfassungsgerichtsstreit eskaliert weiter."
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Rot-Grün-Rot startet Koalitionsverhandlungen in Berlin",
+          "summary": "Rund sechs Wochen nach der Abgeordnetenhauswahl beginnen Linke, Grüne und SPD offiziell ihre Gespräche über eine gemeinsame Landesregierung. Bis Dezember könnte ein Koalitionsvertrag stehen, sicher ist das aber nicht.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/rot-gruen-rote-koalitionsverhandlungen-beginnen-in-berlin-100.html"
+        },
+        {
+          "title": "Randale im Märkischen Viertel: Pyrotechnik und Festnahmen",
+          "summary": "Am Sonntagabend kam es in Reinickendorf zu Ausschreitungen mit bis zu 120 vorwiegend jugendlichen Beteiligten, Pyrotechnik, Molotowcocktails und Steinwürfen. Die Polizei nahm zehn Menschen fest.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-maerkisches-viertel-feuer-pyrotechnik-polizei.html"
+        },
+        {
+          "title": "Brandenburg sucht nach Zehs Rückzug neuen Verfassungsrichter",
+          "summary": "Juli Zehs Rückzug hinterlässt eine offene Stelle am Brandenburger Verfassungsgericht. Die Suche nach einem Nachfolger gilt als kompliziert, weil die AfD auf ein Vorschlagsrecht pocht.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-nach-ruckzug-von-juli-zeh-landtag-steht-vor-schwieriger-suche-nach-verfassungsrichter-16228596.html"
+        },
+        {
+          "title": "Schönhauser Allee: Vorbereitungen für neue Brücke beginnen",
+          "summary": "An der Schönhauser Allee in Prenzlauer Berg starten die Vorarbeiten für den Neubau der Brücke. Anwohner und Verkehr müssen sich in den kommenden Monaten auf Einschränkungen einstellen.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-prenzlauer-berg-bruecke-schoenhauser-allee-neubau.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Proteste bundesweit größtenteils friedlich, einige Städte eskalieren",
+          "summary": "Zehntausende demonstrierten am Wochenende bei „Gen Z regelt“ für bessere Bildung, Klimaschutz und bezahlbaren Wohnraum. Am Abend kam es in Frankfurt, Köln, Berlin und Hamburg zu Ausschreitungen und Plünderungen, die Polizei prüft eine mögliche Unterwanderung durch Extremisten.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-ausschreitungen-100.html"
+        },
+        {
+          "title": "Digitalgipfel: Ist der KI-Zug in Deutschland schon abgefahren?",
+          "summary": "Die Bundesregierung lud zum zweitägigen Digitalgipfel nach Berlin. Im Zentrum steht die Frage, wie Deutschland und Europa bei Künstlicher Intelligenz global mitreden können.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/digitalgipfel-bundesregierung-100.html"
+        },
+        {
+          "title": "Digitalminister bestätigt möglichen Hackerangriff auf Bundestag",
+          "summary": "Nach einem ARD-Bericht hat Digitalminister Wildberger einen möglichen Spyware-Einsatz gegen Bundestagsabgeordnete und Mitglieder der Bundesregierung bestätigt. Details zu Umfang und Urhebern nannte er bislang nicht.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/wildberger-hackerangriff-bundestagsabgeordnete-100.html"
+        },
+        {
+          "title": "Neue EU-Gebühr auf Pakete aus Nicht-EU-Ländern startet",
+          "summary": "Ab sofort wird pro Warenposition mindestens zwei Euro Gebühr fällig, um die Flut von Kleinpaketen aus Nicht-EU-Staaten einzudämmen. Die Reform könnte Direktimporte für Händler und Kunden teurer machen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/neue-paketgebuehr-faq-100.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "Polens Verfassungsgerichtsstreit eskaliert weiter",
+          "summary": "Nach der versuchten Absetzung der Gerichtsspitze drängte sich Präsident Nawrocki mit Körpereinsatz ins Verfassungsgericht. Die EU-Kommission stellte sich hinter Regierungschef Tusk, der der Opposition einen Angriff auf Rechtsstaat und Demokratie vorwirft.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/polen-eskalation-verfassungsgericht-102.html"
+        },
+        {
+          "title": "Feuerpause im ukrainischen Oleschky ist ausgelaufen",
+          "summary": "Die sechstägige, von den USA vermittelte Waffenruhe in der südukrainischen Stadt endete am Sonntagabend. Zuvor wurden tausende Menschen evakuiert, nun melden Ukraine und Russland zusätzlich Cyberangriffe auf ihre Warn-Apps.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-waffenruhe-cherson-100.html"
+        },
+        {
+          "title": "Pro-russische Präsidentin Jotowa gewinnt Stichwahl in Bulgarien",
+          "summary": "Die amtierende Präsidentin setzte sich laut Prognosen mit rund 60 Prozent der Stimmen gegen Herausforderer Gjurow durch. Sie gilt als russlandfreundlich und bezeichnet sich selbst als „Präsidentin des Friedens“.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html"
+        },
+        {
+          "title": "Frankreich ermittelt wegen Mordversuch nach Molotow-Angriff",
+          "summary": "Pariser Staatsanwälte eröffneten eine Ermittlung wegen versuchten Mordes, nachdem bei landesweiten Protesten ein Molotowcocktail auf Polizisten geworfen wurde. Insgesamt gab es am Wochenende 779 Festnahmen, weniger als an den Vorwochenenden.",
+          "source": "DW",
+          "url": "https://www.dw.com/en/france-opens-attempted-murder-probe-after-protest-attack/a-79822853?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "title": "Hunderttausende protestieren in Italien gegen Melonis Politik",
+          "summary": "Hohe Lebenshaltungskosten, steigende Rüstungsausgaben und zu wenig Bildungsinvestitionen trieben am Wochenende Hunderttausende in Italien auf die Straße, begleitet von einem massiven Polizeiaufgebot.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/italien-protest-meloni-100.html"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Trump makes final pitch to voters before midterms",
+          "summary": "Republicans are fighting to keep control of Congress as Tuesday's vote approaches, with Democrats hopeful but wary of being let down by the polls again.",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/75e8405b-124f-44aa-9c5e-0a33d0ee5b92?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Gulf braced for escalation of war between US-Israel alliance and Iran",
+          "summary": "Diplomats warn a renewed conflict would be even more damaging than previous rounds of fighting, as President Trump held a frank call with Netanyahu about the next move against Iran.",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/efaa2962-1acb-45cf-afb4-d0088f0a1046?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Israeli strikes in Gaza kill eight including a child",
+          "summary": "Hospitals say five officers from the Hamas-run police were killed in Khan Younis, while three people, including a child, were killed in Gaza City.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmqln14rrzxvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "NASA beendet einjährige Mars-Isolationssimulation",
+          "summary": "Vier Menschen verbrachten in den USA ein Jahr auf 160 Quadratmetern, um das Leben auf dem Mars zu simulieren. Das Experiment ist nun abgeschlossen.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/nasa-mars-108.html"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Deutsche Inflation sinkt im Oktober auf 2,8 Prozent",
+          "summary": "Vor allem fallende Preise an den Zapfsäulen drückten die Teuerung. Gegenüber September sanken die Verbraucherpreise um 0,2 Prozent, Ökonomen geben aber noch keine Entwarnung.",
+          "source": "Destatis",
+          "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_382_611.html"
+        },
+        {
+          "title": "Deutsches BIP wächst im dritten Quartal um 0,2 Prozent",
+          "summary": "Das Bruttoinlandsprodukt legte gegenüber dem Vorquartal zu, nachdem die Wirtschaft bereits in der ersten Jahreshälfte gewachsen war. Die Konsumausgaben entwickelten sich leicht positiv.",
+          "source": "Destatis",
+          "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/10/PD26_381_811.html"
+        },
+        {
+          "title": "FBI macht Nordkorea für 6,3-Milliarden-Dollar-Hack bei Binance verantwortlich",
+          "summary": "Die Gruppe TraderTraitor soll hinter dem größten Krypto-Diebstahl der Geschichte stecken. Binance will alle Verluste der Nutzer ersetzen und hat die Auszahlungen wieder gestartet.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/binance-fbi-sieht-nordkoreanische-hacker-hinter-krypto-diebstahl/100266403.html"
+        },
+        {
+          "title": "US-Börsen rutschen vor den Midterms deutlich ab",
+          "summary": "Nasdaq und S&P 500 verloren zuletzt rund 2,9 beziehungsweise 1,8 Prozent, auch Gold gab nach. Als Treiber gilt unter anderem die Sorge, dass die „Magnificent Seven“ ihre Sonderstellung an den Börsen verlieren.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/trends/tech-aktien-die-aera-der-magnificent-seven-scheint-vorbei/100266107.html"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "DoorDash übernimmt Lieferdienst Instacart für 17 Milliarden Dollar",
+          "summary": "Der auf Essenslieferungen spezialisierte US-Konzern baut mit der Übernahme sein Einzelhandelsgeschäft deutlich aus.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/Fuer-17-Milliarden-US-Dollar-DoorDash-uebernimmt-Shopping-Lieferdienst-Instacart-11505960.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "title": "StrollMe sammelt 22 Millionen ein, Bolzplatzkind ist insolvent",
+          "summary": "Im wöchentlichen Startup-Ticker meldet das Kinderwagen-Startup StrollMe eine Finanzierungsrunde über 22 Millionen Euro, während das Berliner Fußballmode-Label Bolzplatzkind Insolvenz anmelden musste.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/10/30/halloween-lena-gercke-sumup-snap-fusion-bolzplatzkind-strollme/"
+        },
+        {
+          "title": "Marken ändern 2026 ihre Weihnachts-Marketingtaktiken",
+          "summary": "Eine Umfrage von Modern Retail zeigt, dass Händler und Marken ihre Taktiken für die Feiertagssaison 2026 gegenüber dem Vorjahr deutlich anpassen.",
+          "source": "Modern Retail",
+          "url": "https://www.modernretail.co/marketing/modern-retail-research-brands-holiday-marketing-tactics-shift-in-2026/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+        },
+        {
+          "title": "Amazon-Chef Jassy betont Bedeutung des Einzelhandelsgeschäfts",
+          "summary": "Beim Q3-Earnings-Call sprach Andy Jassy ausführlich über AWS und KI, bekräftigte aber auch die wachsende Bedeutung des Einzelhandels für Amazon.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/amazon-ceo-retail-business-important-q3-earnings/873316/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "Buck Institute und Oracle entwickeln Frühwarn-System fürs Altern",
+          "summary": "Die Kooperation nutzt Real-World-Gesundheitsdaten und Analytics, um Biomarker für altersbedingten Abbau zu identifizieren und einen frühen Vitalitäts-Score zu entwickeln.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/30/buck-institute-oracle-partner-to-detect-age-related-decline-years-before-symptoms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Private-Equity-Firma investiert in Wellness-Marke First Day",
+          "summary": "Paine Schwartz Partners hat eine nicht genannte Summe in die auf Familien ausgerichtete Wellness-Marke First Day Life investiert.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/10/30/paine-schwartz-partners-invests-in-family-wellness-brand-first-day/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Mehr als die Hälfte der Online-Supplement-Käufer fürchtet Fälschungen",
+          "summary": "Eine iHerb-Umfrage zeigt, dass über 50 Prozent der Online-Käufer von Nahrungsergänzungsmitteln Sorge vor gefälschten Produkten haben. Händler und Marken suchen nun nach Wegen, mehr Vertrauen in der wachsenden Supplement-Branche zu schaffen.",
+          "source": "Modern Retail",
+          "url": "https://www.modernretail.co/operations/online-supplement-counterfeit-products/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+        },
+        {
+          "title": "Victoria's Secret bringt Beauty-Linie „Mini Bar“ für Pink",
+          "summary": "Die Jugendmarke Pink kooperiert für die neue Kollektion mit Vacation, Mario Badescu und Fazit und richtet dafür einen eigenen Beauty-Bereich in den Filialen ein.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/victorias-secret-pink-debuts-beauty-mini-bars/873308/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Mit Malware infizierte Claude-Code-Erweiterung im Cursor-Marktplatz",
+          "summary": "Im Marktplatz der Entwicklungsumgebung Cursor steckte in der offiziellen Claude-Code-Erweiterung eine SSH-Backdoor.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/Claude-Code-Erweiterung-im-Cursor-Marktplatz-mit-Malware-infiziert-11506368.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "title": "US-Justiz prüft Nvidias Hugging-Face-Übernahme",
+          "summary": "Das US-Justizministerium untersucht, ob der Kauf des KI-Plattform-Anbieters Hugging Face durch Nvidia den Wettbewerb beeinträchtigen könnte. Auch weitere Nvidia-Deals stehen kartellrechtlich im Fokus.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/Hugging-Face-Uebernahme-US-Justiz-prueft-Nvidias-Expansionskurs-11506212.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "title": "OpenAI, Google, Microsoft und Anthropic einigen sich auf Scraping-Opt-out",
+          "summary": "Die großen KI-Anbieter wollen einen gemeinsamen Standard einführen, mit dem Verlage ihre Trainingspräferenzen einmal festlegen und auf mehrere Unternehmen gleichzeitig anwenden können.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1023763/openai-google-microsoft-ai-scraping-standard-opt-out"
+        },
+        {
+          "title": "BSI warnt vor kritischer PHP2Shell-Sicherheitslücke",
+          "summary": "Ein über ein Jahrzehnt bestehender Fehler im PHP-Fundament vieler Websites lässt sich durch neue Werkzeuge nun binnen Stunden ausnutzen. Betreiber sollten ihre Server umgehend aktualisieren.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/php2shell-sicherheitsluecke-bsi-warnung-server-update-1769356/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "Berlin",
+    "title": "Die Rache des Papstes: Das ungewollte Kreuz auf dem Fernsehturm",
+    "body": "Der Berliner Fernsehturm am Alexanderplatz wurde 1969 von der DDR-Führung als Symbol des technischen Fortschritts und des Sozialismus errichtet, ausdrücklich ohne jeden religiösen Bezug. Ironischerweise erzeugt die kugelförmige Aussichtsplattform aus poliertem Edelstahl bei Sonnenschein ein auffälliges Lichtkreuz, das weit über die Stadt sichtbar ist. West-Berliner nannten das Phänomen schon in den 1970er-Jahren spöttisch „Rache des Papstes“, weil der atheistische Staat unbeabsichtigt ein riesiges christliches Symbol in den Himmel über Ost-Berlin projizierte. Versuche, die Reflexion durch andere Beschichtungen der Stahlplatten zu verhindern, blieben erfolglos, das Kreuz taucht bis heute zuverlässig auf, sobald die Sonne im richtigen Winkel steht. Der Fernsehturm, mit 368 Metern bis heute das höchste Bauwerk Deutschlands, ist damit ein seltenes Beispiel dafür, wie Architektur gegen die Absicht ihrer Erbauer eine eigene Symbolik entwickelt.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Berliner_Fernsehturm",
+      "https://en.wikipedia.org/wiki/Fernsehturm_Berlin"
+    ]
+  }
+}
