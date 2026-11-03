@@ -1,0 +1,261 @@
+{
+  "date": "2026-11-03",
+  "headline": "In Berlin beginnen die Koalitionsverhandlungen von Linke, Grünen und SPD, während in den USA mit Spannung die Zwischenwahlen über Trumps Kongressmehrheit entscheiden.",
+  "telegram_bullets": [
+    "Berlin: Koalitionsverhandlungen von Linke, Grünen und SPD gestartet, in der SPD wächst der Widerstand gegen das Bündnis.",
+    "Heute US-Zwischenwahlen: Kongressmehrheit steht auf dem Spiel, Ölpreis fällt vor möglichen neuen US-Iran-Gesprächen.",
+    "Deutscher Einzelhandelsumsatz sinkt im September real um 2,0 Prozent, DoorDash will Instacart übernehmen.",
+    "Anthropic meldet Umsatzplus von 1.100 Prozent vor möglichem Mega-Börsengang."
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Koalitionsverhandlungen von Linke, Grünen und SPD beginnen",
+          "summary": "Linke, Grüne und SPD haben am Montag ihre Gespräche über eine rot-grün-rote Landesregierung aufgenommen, bereits am ersten Tag ging es um den Haushalt. Bis Weihnachten sollen die Verhandlungen abgeschlossen sein.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/beitrag/2026/11/berlin-koalitionsverhandlungen-linke-gruene-spd-beginn.html"
+        },
+        {
+          "title": "Widerstand in der SPD gegen Koalition mit der Linke wächst",
+          "summary": "Fast 1.200 SPD-Mitglieder haben bundesweit einen Aufruf gegen ein mögliches Bündnis mit der Linkspartei unterschrieben, darunter auch prominente Bundespolitiker.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-spd-unterschriften-gegen-koalition-mit-linke.html"
+        },
+        {
+          "title": "Einzelhandel in Berlin und Brandenburg bekommt mehr Geld",
+          "summary": "Verdi und der Handelsverband haben sich in der dritten Verhandlungsrunde auf neue Tarifverträge für den Einzelhandel geeinigt und damit eine Lohnerhöhung für die Beschäftigten der Region vereinbart.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/einzelhandel-verdi-tarifabschluesse-berlin-brandenburg.html"
+        },
+        {
+          "title": "Sicherheitskonferenz legt Teile von Berlin lahm",
+          "summary": "Wegen einer Sicherheitskonferenz mit mehreren Staatsgästen kommt es am Dienstag zu Einschränkungen bei U-Bahn, S-Bahn, Autoverkehr, Wasserstraßen und im Luftraum, tausende Polizisten sind im Einsatz.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-sicherheitskonferenz-staatsgaeste-absperrungen-verkehr.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Merz spricht sich für Frau als Steinmeier-Nachfolgerin aus",
+          "summary": "Der Bundeskanzler hat sich festgelegt, dass die Union für die Nachfolge von Bundespräsident Steinmeier eine Frau aus der politischen Mitte vorschlagen will, eine konkrete Kandidatin nannte er bislang nicht.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/merz-nachfolge-steinmeier-100.html"
+        },
+        {
+          "title": "Reiche legt Gesetzentwurf für Spritpreisdeckel vor",
+          "summary": "Wirtschaftsministerin Reiche, selbst keine Befürworterin des Instruments, hat einen ersten Entwurf vorgelegt, der regelt, wann der von der Koalition gewollte Spritpreisdeckel greifen soll und wann nicht.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/reiche-spritpreisdeckel-entwurf-100.html"
+        },
+        {
+          "title": "Justizministerin Hubig will Sexualstrafrecht verschärfen",
+          "summary": "Ihr Entwurf sieht längere Verjährungsfristen bei Vergewaltigungen und einen neuen Tatbestand für sexuelle Belästigung vor, Ziel sei mehr Schutz für Frauen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/hubig-sexualstrafrecht-102.html"
+        },
+        {
+          "title": "Cyberangriff legt Mail-Postfächer der Linken im Bundestag lahm",
+          "summary": "Binnen Minuten gingen tausende Nachrichten bei Abgeordneten der Linkspartei ein, wer hinter dem Angriff steckt, ist noch unklar. Andere Bundestagsfraktionen waren nicht betroffen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/cyberattacke-linkspartei-mail-postfaecher-100.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "Polens Verfassungsgerichtskrise findet kein Ende",
+          "summary": "Nach Tumulten vor dem Verfassungsgericht am Wochenende und der Suspendierung von Gerichtspräsident und Stellvertreter brach Staatschef Nawrocki eine Auslandsreise ab, ein Kompromiss ist nicht in Sicht.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/polen-verfassungsgericht-krise-100.html"
+        },
+        {
+          "title": "Jotowa gewinnt Präsidentschafts-Stichwahl in Bulgarien",
+          "summary": "Die als russlandfreundlich geltende Amtsinhaberin setzte sich nach vollständiger Auszählung gegen Herausforderer Gjurow durch, der auf Platz zwei landete.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/stichwahl-bulgarien-102.html"
+        },
+        {
+          "title": "Hackerangriff löst Fehlalarm in Kiews Warn-App aus",
+          "summary": "Die ukrainische App zur Vorwarnung der Bevölkerung wurde gehackt und meldete fälschlich Gefahr durch Strahlung, auch Russland berichtet von einem Angriff auf seine eigene Warn-App.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/warn-app-ukraine-russland-gehackt-100.html"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "US-Zwischenwahlen entscheiden über Regierbarkeit des Landes",
+          "summary": "Wegen hoher Preissteigerungen durch Trumps Zölle und den Iran-Krieg könnten die Republikaner bei den Kongresswahlen abgestraft werden, ein politisches Patt in Washington gilt als mögliche Folge.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/midterms-auftakt-100.html"
+        },
+        {
+          "title": "USA greifen laut Berichten iranische Ziele in der Straße von Hormus an",
+          "summary": "Kurz vor den Zwischenwahlen sollen die USA erneut Ziele im Iran angegriffen haben, laut ersten Angaben soll es sich um einzelne Angriffe handeln und nicht um eine vollständige Wiederaufnahme der Kampfhandlungen.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/usa-iran-angriffe-126.html"
+        },
+        {
+          "title": "USA kündigen neue Dreiergespräche zum Ukraine-Krieg an",
+          "summary": "US-Sondergesandter Witkoff kündigte für kommende Woche neue Gespräche zwischen den USA, Russland und der Ukraine an, zuletzt hatten die drei Länder im Februar in diesem Format verhandelt.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/ukraine-verhandlungen-104.html"
+        },
+        {
+          "title": "Russischer Angriff auf Hilfszentrum in Saporischschja tötet mindestens 26 Menschen",
+          "summary": "Die Ukraine spricht von einem gezielten Bombardement eines Verteilzentrums für Hilfsgüter, Präsident Selenskyj macht Moskau dafür verantwortlich.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/ukraine-saporischschja-tote-100.html"
+        },
+        {
+          "title": "Supreme Court rejects Trump bid to block 20,000 California ballots",
+          "summary": "The Trump administration had asked the court to disqualify more than 20,000 disputed California ballots, the justices rejected the request one day before the midterm elections.",
+          "source": "DW",
+          "url": "https://www.dw.com/en/supreme-court-rejects-trump-bid-to-block-20-000-california-ballots/a-79833739?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Einzelhandelsumsatz sinkt im September real um 2,0 Prozent",
+          "summary": "Der Umsatz der deutschen Einzelhandelsunternehmen fiel gegenüber August preisbereinigt um 2,0 Prozent und nominal um 1,5 Prozent, im Jahresvergleich sank er real um 2,3 Prozent.",
+          "source": "Destatis",
+          "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_383_45212.html"
+        },
+        {
+          "title": "Dax schließt im Plus, Öl- und Gaspreise geben nach",
+          "summary": "Der deutsche Leitindex profitierte von fallenden Öl- und Gaspreisen und landete zum Monatsanfang knapp unter der 26.000-Punkte-Marke, parallel läuft die Berichtssaison großer deutscher Unternehmen.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-im-plus-oel-und-gaspreise-fallen/100266531.html"
+        },
+        {
+          "title": "Binance-Kunden ziehen nach Hackerangriff Milliarden ab",
+          "summary": "Binance hat einen Großteil der beim größten Krypto-Diebstahl der Geschichte gestohlenen Kundengelder ersetzt, dennoch zogen Kunden 3,6 Milliarden Dollar ab. Der Gesamtschaden wird auf 6,3 Milliarden Dollar geschätzt.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/binance-kundengelder-100.html"
+        },
+        {
+          "title": "Teurer Wohnraum bremst Deutschlands Wirtschaft",
+          "summary": "Der Mangel an Wohnraum und hohe Mieten erschweren laut Experten die berufliche Mobilität und die Fachkräftesuche von Unternehmen, gefordert werden mehr Anreize für den Wohnungsbau.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/teurer-wohnraum-wirtschaftswachstum-marktbericht-100.html"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "DoorDash will Instacart übernehmen, Branche rechnet mit Konsequenzen",
+          "summary": "Die angekündigte Übernahme zeigt, dass sich Lieferplattformen zunehmend in Richtung Retail-Tech, Werbung und datengetriebenes Shopping verschieben, Konkurrenten wie Uber und Amazon dürften den Druck im Schnelllieferungsmarkt spüren.",
+          "source": "Modern Retail",
+          "url": "https://www.modernretail.co/operations/doordash-instacart-acquisition-delivery-platform/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+        },
+        {
+          "title": "Brüssel billigt Temus Aktionsplan gegen illegale Produkte",
+          "summary": "Die EU-Kommission hat den von Temu vorgelegten Aktionsplan mit fünf Korrekturmaßnahmen gegen illegale Produkte genehmigt, die im Mai verhängte Strafe von 200 Millionen Euro bleibt davon unberührt.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/brussels-approves-temus-action-plan/"
+        },
+        {
+          "title": "KI-Unternehmen Cognigy wird für 955 Millionen Dollar verkauft",
+          "summary": "Das deutsche Unternehmen, das zuletzt 16,6 Millionen Euro Umsatz erzielte, wird für 955 Millionen Dollar übernommen, einer der größten deutschen Tech-Exits des Jahres.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/11/02/taxgraph-cognigy-flow-partners-0to9-traivelling-drafted-ventures/"
+        },
+        {
+          "title": "VC-Fonds Creandum sammelt größten Europa-Fonds aller Zeiten ein",
+          "summary": "Der schwedische Investor, der unter anderem bei Lovable eingestiegen ist, hat 750 Millionen Dollar für den bislang größten europäischen Fonds zur Förderung des KI-Booms eingesammelt.",
+          "source": "Sifted",
+          "url": "https://sifted.eu/articles/creandum-750-largest-vc-fund-back-ai-san-francisco/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "Keine Zuckersteuer auf Nahrungsergänzungsmittel",
+          "summary": "Der Bundestag hat im GKV-Beitragsstabilisierungsgesetz den Bundeszuschuss an den Gesundheitsfonds gekürzt, auf 1,35 Milliarden Euro im kommenden Jahr und ab 2028 auf 1,55 Milliarden Euro. Eine zuvor diskutierte Zuckersteuer auf Nahrungsergänzungsmittel kommt dafür nicht.",
+          "source": "apotheke adhoc",
+          "url": "https://www.apotheke-adhoc.de/nachrichten/detail/politik/keine-zuckersteuer-auf-nahrungsergaenzung/"
+        },
+        {
+          "title": "EU-Regulierung hinkt der Ernährungswissenschaft hinterher",
+          "summary": "Laut Kinga Adamashvili vom europäischen Molkenverband beschleunigt sich die wissenschaftliche Innovation etwa bei Healthy Aging und Gewichtsmanagement, veraltete EU-Vorschriften erschweren es Unternehmen aber, neue Erkenntnisse an Verbraucher zu kommunizieren.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/02/video-can-eu-regulation-keep-pace-with-nutrition-science/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Estée Lauder wächst weiter, Parfum treibt das Geschäft",
+          "summary": "Der Kosmetikkonzern meldete für das erste Quartal des Geschäftsjahres 2027 ein Umsatzwachstum von 7 Prozent auf 3,7 Milliarden Dollar, in drei von vier Kategorien legten die Umsätze zu, am stärksten im Parfum.",
+          "source": "Glossy",
+          "url": "https://www.glossy.co/beauty/the-estee-lauder-companies-reports-continued-growth-with-fragrance-still-driving-the-charge/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+        },
+        {
+          "title": "Engelhard bringt neuartiges Vitamin D auf den Markt",
+          "summary": "Zur dunklen Jahreszeit mit erhöhter Nachfrage nach Vitamin-D-Präparaten bringt der Hersteller eine neue Variante des Nährstoffs heraus, der Wettbewerb zwischen Apotheken, Drogerien und Online-Anbietern bleibt intensiv.",
+          "source": "apotheke adhoc",
+          "url": "https://www.apotheke-adhoc.de/nachrichten/detail/markt/engelhard-bringt-neuartiges-vitamin-d/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Anthropic meldet Umsatzplus von 1.100 Prozent vor möglichem Mega-Börsengang",
+          "summary": "Vor einem möglicherweise größten Börsengang aller Zeiten weist das KI-Unternehmen ein Umsatzplus von rund 1.100 Prozent aus, Milliardenverluste und Infrastruktur-Verpflichtungen von fast 900 Milliarden Dollar könnten Investoren aber abschrecken.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/boersengang-umsatz-anthropic-1771236/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "title": "Mistral CEO warns Europe risks 'complete trap' without frontier AI",
+          "summary": "Arthur Mensch told POLITICO that Europe urgently needs its own strategy for frontier AI, or risks ending up fully dependent on foreign technology.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/mistral-ceo-mensch-warns-europe-trap-ai-dependence/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "title": "Digitalgipfel: Merz fordert KI-Ausbau, hält Google Cloud für ausreichend souverän",
+          "summary": "Beim Digitalgipfel in Berlin forderte der Bundeskanzler einen schnellen Ausbau der deutschen KI-Fähigkeiten, gleichzeitig stufte er US-Clouddienste wie Google Cloud für den Einsatz bei Nachrichtendiensten als ausreichend souverän ein, was Kritiker als Widerspruch zur angestrebten digitalen Souveränität werten.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/Merz-Google-Cloud-ausreichend-souveraen-fuer-Nachrichtendienste-11508517.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "title": "EU fordert Echtzeit-Überwachung von KI-Agenten, Daten fehlen",
+          "summary": "EU und US-Behörden verlangen eine Echtzeit-Überwachung der Aktivitäten autonomer KI-Agenten, die gängigen Frameworks liefern dafür aber bislang nicht die nötigen Daten.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/ki-agenten-eu-fordert-echtzeit-ueberwachung-doch-die-daten-fehlen-1771104/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "Finanzen & Märkte",
+    "title": "Greshams Gesetz: Warum schlechtes Geld gutes Geld verdrängt",
+    "body": "Im 16. Jahrhundert ließ die englische Krone unter Heinrich VIII. die Silbermünzen des Landes systematisch strecken, der Silbergehalt sank, das Münzgewicht blieb aber gleich. Die Menschen merkten schnell, welche Münzen noch echtes Silber enthielten, und hoben diese auf oder schmolzen sie ein, während sie die neuen, minderwertigen Münzen im Alltag ausgaben. Der Finanzberater Thomas Gresham beschrieb dieses Muster später als Gesetz: Sobald zwei Geldsorten mit demselben Nennwert, aber unterschiedlichem inneren Wert im Umlauf sind, verschwindet die werthaltigere Variante aus dem Zahlungsverkehr, Menschen horten sie, während nur die minderwertige Variante zirkuliert. Das Prinzip zeigt sich bis heute, etwa wenn Menschen in Krisenländern mit hoher Inflation harte Fremdwährung horten und nur die eigene, schnell an Wert verlierende Landeswährung ausgeben.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Greshamsches_Gesetz",
+      "https://en.wikipedia.org/wiki/Gresham%27s_law"
+    ]
+  }
+}
