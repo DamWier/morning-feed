@@ -1,0 +1,297 @@
+{
+  "date": "2026-11-04",
+  "headline": "Demokraten erobern den US-Senat, Börsen reagieren nervös auf eine mögliche KI-Investitionsbremse.",
+  "telegram_bullets": [
+    "US-Midterms: Demokraten erobern den Senat, Börsen fürchten langsameren KI-Ausbau",
+    "Berlin: Selenskyj zu Besuch, Koalitionsgespräche von Linke, Grünen und SPD laufen weiter",
+    "Kimberly-Clark kauft Kenvue für 48 Mrd. Dollar, Evonik wehrt sich gegen BASF-Fusion",
+    "Nahrungsergänzungsmittel-Produktion in Deutschland seit 2019 um 48 Prozent gestiegen"
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Selenskyj-Besuch sorgt für Sicherheitskonferenz und Verkehrschaos",
+          "summary": "Der Besuch des ukrainischen Präsidenten und eine Sicherheitskonferenz mit mehreren Staatsgästen führten am Dienstag zu zahlreichen Straßensperrungen; auch am Mittwoch bleiben Einschränkungen bestehen.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-sicherheitskonferenz-staatsgaeste-absperrungen-verkehr.html"
+        },
+        {
+          "title": "Grüne und SPD lehnen CDU-Sondierung ab, Rot-Grün-Rot verhandelt weiter",
+          "summary": "Die Berliner CDU wollte mit Grünen und SPD über eine mögliche Koalition sprechen, wurde aber abgewiesen; stattdessen setzen Linke, Grüne und SPD ihre Gespräche über eine rot-grün-rote Landesregierung fort.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/berlin-wahl-2026/beitraege/berlin-treffen-cdu-gruene-spd-koalition-sondierungsgespraeche.html"
+        },
+        {
+          "title": "270 Berliner Jobs bei Schaeffler stehen vor dem Aus",
+          "summary": "Der Zulieferer Schaeffler will seinen Berliner Entwicklungsstandort schließen; die IG Metall spricht von einer Überrumpelung der Belegschaft, Experten warnen vor einem Verlust von E-Auto-Kompetenz.",
+          "source": "Berliner Zeitung",
+          "url": "https://www.berliner-zeitung.de/article/270-berliner-jobs-bei-schaeffler-vor-dem-aus-das-hat-mit-demokratie-nichts-zu-tun-10558313"
+        },
+        {
+          "title": "Vonovia-Partner Gropyus schickt Tochterfirmen in die Insolvenz",
+          "summary": "Der Holzbau-Pionier Gropyus, auf den Vonovia beim seriellen Wohnungsbau große Hoffnungen setzt, ist mit mehreren Tochterunternehmen in Finanzierungsschwierigkeiten geraten.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/berliner-wirtschaft/vonovia-partner-in-der-krise-holzbau-pionier-gropyus-schickt-mehrere-tochterunternehmen-in-die-insolvenz-16238642.html"
+        },
+        {
+          "title": "Rodungen für Erweiterung von Red Bulls Dosenwerk in Baruth gestartet",
+          "summary": "Für den Ausbau des Red-Bull-Werks in Baruth/Mark sollen 17 Hektar Kiefernwald weichen; die Arbeiten haben begonnen, der Ausbau bleibt umstritten.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/red-bull-werk-baruth-mark-erweiterung-rodung-wald-gestartet.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Renten sollen 2027 um mehr als vier Prozent steigen",
+          "summary": "Der Rentenversicherungsbericht der Bundesregierung sieht für 2027 eine Erhöhung von 4,1 Prozent vor – ein spürbares Plus für Rentnerinnen und Rentner.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/rentenerhoehung-entwurf-100.html"
+        },
+        {
+          "title": "Weitere präparierte Halloween-Süßigkeiten entdeckt, auch im Ausland",
+          "summary": "Nach Funden von Nadeln und Metallteilen in Süßigkeiten in mehreren Bundesländern werden nun auch Fälle im Ausland gemeldet; einige Kinder wurden verletzt.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/halloween-suessigkeiten-nadeln-100.html"
+        },
+        {
+          "title": "Dobrindts \"Chaoten\"-Aussage nach Krawallen sorgt weiter für Kritik",
+          "summary": "Nach gewalttätigen \"Gen Z\"-Protesten vor allem in Frankfurt hält Innenminister Dobrindt an seiner umstrittenen Wortwahl zu \"migrantischen Milieus\" fest, Kritik von mehreren Seiten hält an.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/dobrindt-genz-proteste-100.html"
+        },
+        {
+          "title": "Bundesweite Razzia gegen mutmaßliche Linksextremisten",
+          "summary": "Die Polizei durchsuchte in mehreren Bundesländern Wohnungen wegen des Verdachts auf Bildung einer kriminellen Vereinigung, fünf Verdächtige wurden festgenommen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/razzia-linksextremismus-100.html"
+        },
+        {
+          "title": "Lufthansa steigt bei portugiesischer Fluggesellschaft TAP ein",
+          "summary": "Der Lufthansa-Konzern hat seinen Einstieg bei der portugiesischen Staatsfluglinie TAP besiegelt und baut damit seine Position im europäischen Flugmarkt aus.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/lufthansa-steigt-bei-der-portugiesischen-tap-ein-100.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "Tschechien: Streik und Massenproteste gegen Rundfunk-Reform",
+          "summary": "Tschechiens öffentlich-rechtlicher Rundfunk streikte, Tausende protestierten gegen Pläne der Regierung, den Sender künftig aus dem Staatshaushalt statt über Gebühren zu finanzieren; Kritiker fürchten um die Unabhängigkeit.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/protest-tschechien-rundfunk-100.html"
+        },
+        {
+          "title": "Merz empfängt Selenskyj, Russland bombardiert Krankenhaus in Charkiw",
+          "summary": "Bundeskanzler Merz sagte der Ukraine beim Besuch Selenskyjs in Berlin mehr Unterstützung zu und mahnte mehr Engagement der Europäer an, während Russland erneut medizinische Einrichtungen und Energieanlagen angriff.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/merz-selenskyj-134.html"
+        },
+        {
+          "title": "EU bremst Ukraines Beitrittstempo, Moldau bekommt ambitionierteren Fahrplan",
+          "summary": "Brüssel fordert von der Ukraine mehr Reformen vor einem EU-Beitritt und zeigt sich gegenüber Moldau deutlich entgegenkommender bei der Mitgliedschaftsperspektive.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/ukraine-accession-path-eu-membership-wobbles-european-commission-brussels-caution/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "title": "Tusk und Nawrocki liefern sich Machtkampf um Polens Verfassungsgericht",
+          "summary": "Polens Regierungschef Tusk verteidigt die Umgestaltung des Verfassungsgerichts als notwendig für EU-konforme Rechtsstaatlichkeit, Präsident Nawrocki wirft ihm dagegen einen Verfassungsbruch vor.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/clash-intensifies-between-tusk-and-nawrocki-over-polands-top-court/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "title": "Spaniens Verkehrsminister tritt nach tödlichem Zugunglück zurück",
+          "summary": "Nach zwei schweren Zugunglücken in diesem Jahr mit zuletzt 69 Toten erklärte Verkehrsminister Puente seinen Rücktritt und verzichtet auch auf eine Kandidatur bei der vorgezogenen Wahl Ende November.",
+          "source": "DW",
+          "url": "https://www.dw.com/en/spain-transport-minister-offers-resignation-in-wake-of-train-accident/a-79848097?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Demokraten erobern den US-Senat, kommen dem Repräsentantenhaus nah",
+          "summary": "Bei den Midterms sicherten sich die Demokraten mindestens 51 der 100 Senatssitze und flippten bislang republikanisch dominierte Staaten wie Texas und South Carolina; Juliana Stratton wird als dritte schwarze Frau gleichzeitig im Senat sitzen.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/eilmeldung-midterms-usa-100.html"
+        },
+        {
+          "title": "Trump erkennt Wahlergebnis an, macht eigene Abwesenheit verantwortlich",
+          "summary": "Nach der Schlappe seiner Partei erklärte Präsident Trump, er werde das Ergebnis akzeptieren, behauptete aber, mit ihm auf dem Stimmzettel hätten die Republikaner klar gewonnen.",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/04/trump-republicans-midterms-2026-landslide-blue-wave"
+        },
+        {
+          "title": "Südafrikas ANC unter Druck bei Kommunalwahlen",
+          "summary": "Während Südafrikaner über lokale Dienstleistungen abstimmen, zeigen sich viele Wählerinnen und Wähler frustriert über schlechte Versorgung – ein Stimmungstest für die seit Jahren schwächelnde Regierungspartei.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump: Keine unmittelbaren Angriffspläne gegen Iran",
+          "summary": "Nur Stunden vor Schließung der Wahllokale bezeichnete Trump die Beziehungen zum Iran als \"brillant\" und erteilte Spekulationen über einen bevorstehenden Militärschlag eine Absage.",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/f3afd549-65fc-487e-922e-2748fa6a8a5f?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Bundesbankchef Nagel hält EZB-Zinserhöhung im Dezember für wahrscheinlich",
+          "summary": "Angesichts einer Inflationsrate, die weiter über dem Ziel der Notenbank liegt, sieht Bundesbankpräsident Nagel eine Leitzinserhöhung im Dezember als \"sehr wahrscheinlich notwendig\" an.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/bundesbankpraesident-nagel-erwartet-hoeheren-ezb-leitzins-im-dezember-104.html"
+        },
+        {
+          "title": "Demokraten-Sieg schürt an den Börsen Sorge um KI-Ausbau",
+          "summary": "Aus Furcht vor einer langsameren Infrastruktur-Förderung unter einer demokratisch kontrollierten Legislative stürzte der Nikkei ab, US-Futures und der Dollar gaben nach.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/a0b18705-3bd8-4886-992c-b6062fdec6ea?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Binance-Hack: 6,3 Milliarden Dollar durch gefälschte Jobinterviews erbeutet",
+          "summary": "Interne Ermittlungen der Krypto-Börse zeigen, dass Hacker seit Juni mit vorgetäuschten Vorstellungsgesprächen und gefälschten Profilen Zugang erlangten – der größte Diebstahl der Kryptogeschichte.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/1ed838c0-a525-49bb-b494-15e4d1296791?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Ölpreis fällt auf Monatstief, Notenbanken nutzen Goldschwäche für Zukäufe",
+          "summary": "Der Ölpreis gab nach einem Bericht über diplomatische Fortschritte im Nahen Osten weiter nach, während gleich zwei Zentralbanken die jüngste Korrektur am Goldmarkt für Zukäufe nutzten.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/d0ab9542-8542-4357-a534-ddbdd1a9678d?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "Kimberly-Clark übernimmt Kenvue für 48 Milliarden Dollar",
+          "summary": "Der Konsumgüterkonzern kauft den Johnson-&-Johnson-Spin-off mit Marken wie Neutrogena und Tylenol – einer der größten Consumer-Health-Deals des Jahres.",
+          "source": "Glossy",
+          "url": "https://www.glossy.co/beauty/wellness/the-5-consumer-archetypes-driving-the-2-7-trillion-wellness-industry-today-plus-news/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+        },
+        {
+          "title": "EU genehmigt Übernahme von MediaMarktSaturn durch JD.com",
+          "summary": "Der chinesische Tech-Riese JD.com darf Europas größten Elektronikhändler übernehmen; die EU-Kommission knüpft die Freigabe an Auflagen.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/eu-mediamarkt-saturn-jd-genehmigung-100.html"
+        },
+        {
+          "title": "Evonik wehrt sich gegen Fusionsavancen von BASF",
+          "summary": "Ein Zusammenschluss von BASF und Evonik würde einen Chemiekonzern mit rund 74 Milliarden Euro Jahresumsatz schaffen – doch Evonik sträubt sich noch gegen die größte Fusion der Branche.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/evonik-basf-fusion-100.html"
+        },
+        {
+          "title": "DHL führt Gebühr für zweiten Zustellversuch ein",
+          "summary": "Ab sofort verlangt DHL 2,99 Euro für einen zweiten Zustellversuch, der bislang im Standardpreis enthalten war – eine von mehreren Preisanpassungen des Logistikers.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/dhl-introduces-fee-for-second-delivery-attempt/"
+        },
+        {
+          "title": "Conrad Electronic übernimmt Beschaffungs-Startup Hivebuy",
+          "summary": "Die Conrad-Gruppe kauft den B2B-Beschaffungsspezialisten Hivebuy; es ist einer von mehreren Personal- und Übernahmewechseln in der deutschen Startup-Szene diese Woche.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/11/03/robin-capital-finn-conrad-hivebuy-logicc-yobsti/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "Produktion von Nahrungsergänzungsmitteln seit 2019 um 48 Prozent gestiegen",
+          "summary": "Laut Destatis wurden 2025 rund 241.000 Tonnen Nahrungsergänzungsmittel in Deutschland produziert, ein neuer Höchststand und 1,6 Prozent mehr als im Vorjahr.",
+          "source": "Destatis",
+          "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/Zahl-der-Woche/2026/PD26_45_p002.html"
+        },
+        {
+          "title": "Zuckersteuer-Debatte zeigt Wirkung: Weniger zuckerhaltige Getränke produziert",
+          "summary": "Die deutsche Getränkeindustrie stellte 2025 4,1 Prozent weniger zuckerhaltige Erfrischungsgetränke her und setzte stattdessen verstärkt auf Light-Getränke und Mineralwasser – auch mit Blick auf eine mögliche Zuckerabgabe.",
+          "source": "Destatis",
+          "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_N075_42.html"
+        },
+        {
+          "title": "Holland & Barrett erwartet 2027 Trend zu einfacherer, gezielter Wellness",
+          "summary": "Digitale Erschöpfung, Klimawandel und gesundes Altern treiben laut dem Händler sechs Trends voran, darunter Nervensystem-Regulation, Muskelerhalt und funktionale Ernährung mit wissenschaftlicher Evidenz.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/03/holland-barrett-reveals-6-key-wellness-trends-for-2027/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Polen etabliert sich als europäisches CDMO-Kraftzentrum",
+          "summary": "Dank wachsender Wirtschaft und moderner Fertigungsanlagen entwickelt sich Polen laut Branchenexperten zum Zentrum der europäischen Auftragsproduktion für Nahrungsergänzungsmittel.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/03/polands-rise-to-cdmo-powerhouse-experts-discuss-the-manufacturing-boom/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Studie: Resveratrol-Kombination könnte altersbedingte Augenerkrankung bremsen",
+          "summary": "Eine kleine klinische Phase-2a-Studie deutet darauf hin, dass eine Kombination aus Resveratrol, Quercetin und Curcumin das Fortschreiten der altersbedingten Makuladegeneration wirksamer verlangsamt als Curcumin allein.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/03/resveratrol-quercetin-curcumin-combination-protect-aging-eye/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "EuGH-Gutachten: KI-Chatbots können Urheberrechte von Verlagen verletzen",
+          "summary": "Generalanwalt Szpunar sieht Chatbots \"unter bestimmten Umständen\" in der Pflicht gegenüber Presseverlagen; ein Urteil steht noch aus, folgt aber meist dem Gutachten.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/ki-chatbots-eugh-urheberrechte-1771465/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "title": "OpenAI: ChatGPT-Suche erreicht 20 Prozent von Googles Suchvolumen",
+          "summary": "OpenAI meldet, dass die über ChatGPT abgewickelten Suchanfragen inzwischen einem Fünftel des Google-Volumens entsprechen – ein Zeichen, wie stark sich Suchgewohnheiten verschieben.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1025482/openai-says-chatgpt-is-catching-up-to-google-in-search"
+        },
+        {
+          "title": "Marvell will Zulieferer Lumentum für 115 Milliarden Dollar kaufen",
+          "summary": "Mit Rückendeckung von Nvidia wollen sich zwei zentrale Zulieferer der Nvidia-Lieferkette zusammenschließen; der hohe Kaufpreis sorgt an der Börse für Irritation.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/Mit-Nvidias-Segen-Marvell-will-Lumentum-fuer-115-Milliarden-US-Dollar-kaufen-11508781.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "title": "Apple öffnet Siri für KI-Zugriff auf Drittanbieter-Apps",
+          "summary": "Mit iOS 27.3 können Entwickler Siris neue KI-Funktionen in beliebige Apps integrieren; die Sprachassistentin nutzt dabei persönlichen Kontext und erkennt Bildschirminhalte.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1025694/apple-siri-ai-third-party-apps"
+        },
+        {
+          "title": "Hacker legen Kühlanlagen in europäischen Supermärkten lahm, Russland im Verdacht",
+          "summary": "In mehreren deutschen Supermärkten wurden Kühlanlagen in der Nacht aus der Ferne auf 50 Grad umgestellt, Lebensmittel mussten entsorgt werden; ähnliche Angriffe gab es auch im Ausland, als Urheber wird Moskau vermutet.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/supermarket-chain-thaw-massacre-ii-russia-suspected-in-europe-fridge-attacks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "Politik & Geschichte",
+    "title": "Gerrymandering: Wie Wahlkreise zur politischen Waffe wurden",
+    "body": "Der Begriff geht auf Elbridge Gerry zurück, Gouverneur von Massachusetts, der 1812 einen Wahlbezirk so zuschneiden ließ, dass er seiner Partei nutzte. Ein Karikaturist fand, die verschlungene Form erinnere an einen Salamander – daraus wurde \"Gerry-mander\". Das Prinzip: Wahlkreisgrenzen werden nicht nach Bevölkerung, sondern nach politischem Kalkül gezogen, oft mit zwei Taktiken – \"packing\", bei dem gegnerische Wähler in wenigen Bezirken konzentriert werden, und \"cracking\", bei dem sie auf viele Bezirke verteilt und so unwirksam gemacht werden. In den USA liegt die Neuziehung der Wahlkreise meist bei den Bundesstaaten selbst, was der dort gerade regierenden Partei erhebliche Macht gibt. Vor den diesjährigen Midterms sorgte etwa eine umstrittene Neuaufteilung in Texas für Schlagzeilen, mit der die Republikaner zusätzliche Sitze sichern wollten. Software macht die Technik heute präziser als je zuvor – und damit auch die Debatte über faire Wahlkreise dringlicher.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Gerrymandering",
+      "https://www.brennancenter.org/our-work/research-reports/gerrymandering-explained"
+    ]
+  }
+}
