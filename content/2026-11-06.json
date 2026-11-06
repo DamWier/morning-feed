@@ -1,0 +1,279 @@
+{
+  "date": "2026-11-06",
+  "headline": "Nach dem Demokraten-Sieg bei den US-Midterms bricht die Wall Street ein: KI-Sorgen vernichten an einem Tag 3,2 Billionen Dollar Börsenwert, Asiens Börsen folgen.",
+  "telegram_bullets": [
+    "Wall Street verliert 3,2 Billionen Dollar: Nasdaq -5,5%, Bitcoin -5,7%, Sorge vor strengerer KI-Regulierung durch neuen Kongress.",
+    "Nikkei fällt unter 60.000, Kospi unter 5.000 Punkte – Asiens Börsen folgen dem US-Ausverkauf.",
+    "Kalifornien wandelt alle 548 Todesstrafen um, demokratische Sozialistin gewinnt Bürgermeisteramt in Los Angeles.",
+    "Berlin: Ermittlungen gegen SPD-Landeschef Krach pausieren wegen neuer Immunität als Abgeordneter."
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Ermittlungen gegen SPD-Landeschef Krach pausieren",
+          "summary": "Seit vergangener Woche sitzt Steffen Krach als Abgeordneter im Parlament, wodurch für ihn nun Immunität gilt. Das zwingt die Staatsanwaltschaft, die laufenden Ermittlungen gegen ihn vorerst auszusetzen.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/wegen-der-immunitat-fur-abgeordnete-ermittlungen-gegen-berlins-spd-landeschef-steffen-krach-pausieren-16247439.html"
+        },
+        {
+          "title": "Digitale Parkraumbewirtschaftung in Berlin kommt nicht vom Fleck",
+          "summary": "Der Senat hinkt bei der Einführung digitaler Parksysteme weiter hinterher. Verzögerungen bei Vergabe und Umsetzung lassen das Projekt seit Jahren kaum vorankommen.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-senat-verzoegerungen-digitale-parkraumbewirtschaftung.html"
+        },
+        {
+          "title": "Tiergartentunnel erneut wegen Personalmangels gesperrt",
+          "summary": "Schon zum zweiten Mal in Folge muss der Tiergartentunnel am Abend gesperrt werden, weil Personal für die Überwachung fehlt. Das Problem besteht laut Betreiber seit Längerem.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/personalprobleme-dauern-an-berliner-tiergartentunnel-wird-am-donnerstagabend-schon-wieder-gesperrt-16247624.html"
+        },
+        {
+          "title": "Berliner Unternehmen offenbar in Steuerbetrug mit Luxusautos verwickelt",
+          "summary": "Ermittler haben Durchsuchungen und Beschlagnahmungen bei einem Berliner Unternehmen durchgeführt, dem Steuerbetrug im Handel mit Luxusfahrzeugen vorgeworfen wird.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/steuerbetrug-berlin-durchsuchungen-beschlagnahmungen-.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Christian Freuding wird neuer Generalinspekteur der Bundeswehr",
+          "summary": "Verteidigungsminister Pistorius hat Christian Freuding zum ranghöchsten Soldaten der Truppe bestimmt. Freuding sei der richtige Mann für das „neue Zeitalter“ der Bundeswehr, so der Minister.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/generalinspekteur-freuding-100.html"
+        },
+        {
+          "title": "Freie-Wähler-Chef Hubert Aiwanger starb offenbar ohne Fremdverschulden",
+          "summary": "Einen Tag nach dem plötzlichen Tod des bayerischen Vize-Ministerpräsidenten in einem Berliner Hotel deuten erste Ermittlungsergebnisse auf kein Fremdverschulden hin. Die Freien Wähler müssen sich nun neu aufstellen, da Aiwanger die prägende Figur der Partei war.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-tod-ermittlungen-100.html"
+        },
+        {
+          "title": "Bundestag korrigiert Panne bei Tabaksteuererhöhung",
+          "summary": "Durch ein Versehen war die eigentlich erst zum Jahreswechsel geplante Tabaksteuererhöhung bereits vorzeitig in Kraft getreten. Der Bundestag musste das per Gesetzesänderung rückgängig machen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/tabaksteuer-138.html"
+        },
+        {
+          "title": "Bundestag beschließt Videoüberwachung in großen Schlachthöfen",
+          "summary": "Große Schlachthöfe müssen künftig ihre Betriebe per Video überwachen, um Tierschutzverstöße besser nachweisen zu können. Für kleine Betriebe gelten Ausnahmen, die für Diskussionen sorgen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-tierschutzgesetz-100.html"
+        },
+        {
+          "title": "Gesundheitsminister Linnemann kündigt Nachbesserungen bei Pflegereform an",
+          "summary": "Die umstrittene Reform der Pflegeversicherung wurde im Bundestag debattiert. Patientenschützer sprechen von einer Mogelpackung, Linnemann verteidigt die Pläne, verspricht aber Korrekturen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-pflegeversicherung-linnemann-100.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "Rund 600.000 Menschen protestieren erneut in Frankreich",
+          "summary": "Gewerkschaften und Studierendenverbände mobilisierten landesweit für höhere Löhne und mehr Bildungsgeld. Es war der größte Protesttag seit Beginn der Bewegung im September, meist friedlich, mit vereinzelten Ausschreitungen.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/streik-proteste-frankreich-100.html"
+        },
+        {
+          "title": "EU will Großkonzerne stärker heranziehen, um Budgetstreit zu lösen",
+          "summary": "Ratspräsident António Costa setzt auf Zugeständnisse bei großen Unternehmen, um eine Einigung über den nächsten langfristigen EU-Haushalt zu ermöglichen.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/eu-targets-large-firms-to-unlock-budget-deal/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "title": "René Benko zu weiterer Haftstrafe verurteilt",
+          "summary": "Nach der Verurteilung wegen Gläubigerschädigung im September muss sich der österreichische Immobilieninvestor nun auch wegen Betrugs verantworten und erhält zwei weitere Jahre Haft. Das Urteil ist noch nicht rechtskräftig.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/benko-prozess-neue-strafe-100.html"
+        },
+        {
+          "title": "Erneut Bombendrohungen gegen Passagierflüge in Europa",
+          "summary": "Mehrere Maschinen mussten wegen Drohungen außerplanmäßig landen, unter anderem auf einem französischen Luftwaffenstützpunkt. Es ist bereits der zweite derartige Vorfall in dieser Woche, Hintergründe sind weiter unklar.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-flugzeuge-100.html"
+        },
+        {
+          "title": "Hunderte Zivilisten aus Oleshky nach Ukraine-Waffenstillstand evakuiert",
+          "summary": "Nach einem von den USA vermittelten Waffenstillstand zwischen Russland und der Ukraine wurden Zivilisten aus der Stadt Oleshky in Sicherheit gebracht. Beobachter hoffen auf weitere humanitäre Fortschritte.",
+          "source": "DW",
+          "url": "https://www.dw.com/en/does-the-oleshky-ceasefire-signal-progress-to-come-in-ukraine/a-79869164?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Kalifornien wandelt alle 548 Todesstrafen in lebenslange Haft um",
+          "summary": "Der scheidende Gouverneur Gavin Newsom kündigte an, sämtliche Todesurteile in Kalifornien in lebenslange Haftstrafen ohne Bewährung umzuwandeln. Es wäre die größte Massenumwandlung von Todesstrafen in der US-Geschichte.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/kalifornien-todesstrafe-umwandlung-100.html"
+        },
+        {
+          "title": "Demokratische Sozialistin gewinnt Bürgermeisterwahl in Los Angeles",
+          "summary": "Nithya Raman hat die amtierende Bürgermeisterin Karen Bass überraschend abgelöst. Damit werden nun sowohl New York als auch Los Angeles, die beiden größten US-Städte, von demokratischen Sozialisten regiert.",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/888315a5-9fff-43df-83d9-eb066799a9d7?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Paraguays Kongress lehnt Rücktritt des Präsidenten ab",
+          "summary": "Präsident Peña hatte inmitten der Bankenkrise um die kollabierte Digitalbank Ueno seinen Rücktritt erklärt. Der Kongress nahm diesen jedoch nicht an und leitete stattdessen ein Amtsenthebungsverfahren ein.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/paraguay-ruecktritt-abgelehnt-100.html"
+        },
+        {
+          "title": "Trump kündigt baldige Entscheidung über Fortsetzung des Iran-Kriegs an",
+          "summary": "Nach einem Treffen mit seinem nationalen Sicherheitsteam erklärte Trump, bald zu entscheiden, ob die USA den Krieg gegen Iran wieder eskalieren. Zur Debatte stehen neue Angriffe, Verhandlungen oder der Status quo.",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/05/trump-iran-war-national-security-team-decision"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Wall Street verliert an einem Tag 3,2 Billionen Dollar Börsenwert",
+          "summary": "Der technologieschwere Nasdaq brach um rund 5,5 Prozent ein, der S&P 500 um 4,4 Prozent. Anleger befürchten nach dem Sieg der Demokraten bei den Midterms strengere Regulierung für Rechenzentren und die KI-Branche.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/7c6ceb4f-d7b1-49ec-9047-0e2e4cd2615c?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Nikkei und Kospi brechen im Sog der US-Techwerte ein",
+          "summary": "Japans Nikkei fiel zeitweise fast sieben Prozent und erstmals seit Mai unter die Marke von 60.000 Punkten, Südkoreas Kospi verlor mehr als acht Prozent und rutschte unter 5.000 Punkte.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/asiens-boersen-setzen-abschwung-von-chipaktien-in-den-usa-fort/100267767.html"
+        },
+        {
+          "title": "Dax erreicht Rekordhoch, schließt dann aber im Minus",
+          "summary": "Nach einem Plus von mehr als fünf Prozent in zwei Wochen konnte der Dax am Donnerstag nur zeitweise an einem neuen Hoch festhalten. Chipwerte verloren im Tagesverlauf teils zweistellig.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-nach-us-boerseneinbruch-im-minus/100267493.html"
+        },
+        {
+          "title": "Auftragseingang der deutschen Industrie steigt im September um 4,4 Prozent",
+          "summary": "Das Statistische Bundesamt meldet einen überraschend starken Anstieg der Bestellungen im Verarbeitenden Gewerbe gegenüber dem Vormonat. Ohne Großaufträge lag das Plus sogar bei 5,1 Prozent.",
+          "source": "Destatis",
+          "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_385_421.html"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "Zalando öffnet App für fremde Online-Shops",
+          "summary": "Mit „Zalando Extended“ bindet der Berliner Modehändler externe Shops wie Westwing ein. Ein KI-Einkaufsassistent soll künftig auch Bestellungen bei Partnerseiten auslösen, ohne dass Kunden die App verlassen müssen.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/zalando-sees-new-revenue-potential-in-external-shops/"
+        },
+        {
+          "title": "Helen of Troy weist Übernahmeangebot für Hydro Flask als „opportunistisch“ zurück",
+          "summary": "Empower Brands wollte den von Zöllen gedrückten Aktienkurs von Helen of Troy (Hydro Flask, Osprey) für eine Übernahme nutzen. Das Unternehmen lehnt das Angebot ab.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/hydro-flask-owner-rejects-opportunistic-takeover-proposal-empower-brands/873837/"
+        },
+        {
+          "title": "Neobank Monzo prüft Finanzierungsrunde bei 7,5 Milliarden Pfund Bewertung",
+          "summary": "Nachdem Gespräche über eine Übernahme durch Private-Equity-Firmen und die brasilianische Nubank (Angebot: 10 Milliarden Pfund) ins Stocken gerieten, lotet Monzo nun stattdessen eine Finanzierungsrunde aus.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/6553ec40-00a8-4832-8ca5-c528b9da224a?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Kölner Startup CoTrainer sammelt eine Million Euro für KI im Amateursport",
+          "summary": "Mit prominenten Fußballprofis als Investoren will das Team seine Plattform, die Amateurvereinen Verwaltungsaufwand abnimmt, im Vereinsfußball etablieren.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/11/05/cotrainer-und-ki-bringt-ordnung-ins-vereinsleben/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "EFSA kippt CFU-Grenzwerte für Probiotika, Andrographis-Rückruf läuft",
+          "summary": "Der regulatorische Wochenüberblick zeigt Bewegung bei Probiotika-Grenzwerten in der EU sowie einen Rückruf von Andrographis-Präparaten wegen Sicherheitsbedenken.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/06/regulatory-review-probiotic-cfu-limits-removal-andrographis-recall-and-more/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Studie stützt Herz-Kreislauf-Nutzen von NOVOS Core",
+          "summary": "Eine randomisierte, placebokontrollierte Studie der University of Surrey zeigt, dass die Zwölf-Wirkstoff-Formel nach sechs Monaten Gefäßfunktion, Arterienelastizität und systolischen Blutdruck bei über 40-Jährigen verbessert, ohne Effekt auf die Blutfettwerte.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/05/rct-supports-novos-cores-benefits-for-cardiovascular-health-in-healthy-adults/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Premium-Creatin gilt als Chance im Longevity-Boom",
+          "summary": "Branchenexperten sehen Creatin als eines der größten Wachstumsfelder im Longevity-Markt, da zahlungskräftige Konsumenten zunehmend hochwertige Innovationen nachfragen.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/05/premium-creatine-in-prime-position-amidst-longevity-boom/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Neuseeländische Marke Calocurb startet in Großbritannien mit GLP-1-Alternative",
+          "summary": "Das 2017 gegründete Unternehmen bringt sein pflanzenbasiertes Sättigungspräparat auf den britischen Markt und zielt auf die wachsende Nachfrage nach rezeptfreien Alternativen zu GLP-1-Medikamenten.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/05/calocurb-targets-uk-market-with-glp-1-alternative/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Beauty-Marke Elemis wechselt erneut den Besitzer",
+          "summary": "Mitgründer Sean Harrington ordnet im Interview ein, was der erneute Verkauf der britischen Anti-Aging-Marke über die aktuellen Prioritäten von Beauty-Käufern verrät.",
+          "source": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/elemis-co-founder-sean-harrington-explains-what-beauty-buyers-want-now/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "OpenAI verzichtet nach Midterms auf Geheimhaltungsklauseln für Rechenzentren",
+          "summary": "Nach dem deutlichen Votum der Wähler gegen den Rechenzentrumsausbau kündigt OpenAI an, mit Kommunen künftig keine NDAs mehr abzuschließen, die Gespräche mit Amtsträgern verschleiern.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1028454/openai-data-center-nda"
+        },
+        {
+          "title": "Perplexity startet eigene KI-Arbeitsagenten „Teammates“",
+          "summary": "Die dauerhaft aktiven Assistenten übernehmen verschiedene Rollen im Arbeitsalltag und greifen auf bestehende Projekte und Tools zu. Perplexity tritt damit direkt gegen OpenAI und Anthropic an.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1028302/perplexity-teammates-ai-agents-work"
+        },
+        {
+          "title": "Nvidia-Chef Jensen Huang vom US-Kongress zu China-Spionagevorwürfen einbestellt",
+          "summary": "Republikanische Ausschussvorsitzende verlangen eine vertrauliche Anhörung zu Huangs angeblichen Verbindungen zu einer der Spionage für China verdächtigten Geschäftsfrau.",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/20119746-a285-482e-a0ae-336ce13b26bc?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Sicherheitslücke: Claude Code schickte offenbar Nutzer-E-Mails an fremde Websites",
+          "summary": "Ein stark diskutiertes GitHub-Issue (über 700 Punkte auf Hacker News) beschreibt, wie das Entwicklertool von Anthropic die E-Mail-Adresse von Nutzern ungefragt im User-Agent an Webseiten übermittelte.",
+          "source": "Hacker News 300+",
+          "url": "https://github.com/anthropics/claude-code/issues/107757"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "Ernährung & Supplements",
+    "title": "Die Kalorie: Wie eine Maßeinheit aus der Dampfmaschine in die Ernährung kam",
+    "body": "Die Kalorie ist ursprünglich eine Einheit der Physik, nicht der Ernährung. Der französische Ingenieur Nicolas Clément nutzte den Begriff Anfang des 19. Jahrhunderts, um die Wärmemenge zu beschreiben, die nötig ist, um ein Kilogramm Wasser um ein Grad Celsius zu erwärmen – ein Konzept aus der Thermodynamik, entwickelt im Umfeld von Dampfmaschinen. Erst 1887 übertrug der amerikanische Chemiker Wilbur Olin Atwater die Einheit auf die menschliche Ernährung. Er verbrannte Lebensmittel in einem Kalorimeter und maß die freigesetzte Wärme, um deren Energiegehalt zu bestimmen – dieselbe Methode, mit der auch Kohle oder Holz analysiert wurde. Atwaters Werte bilden bis heute die Grundlage der Nährwertkennzeichnung, auch wenn moderne Messmethoden präziser sind. Die sogenannte „große Kalorie“ oder Kilokalorie, die auf Verpackungen steht, entspricht dabei genau 1000 der physikalischen Ursprungseinheit, der „kleinen Kalorie“ aus der Physik. Dass ein Konzept aus der Dampfmaschinen-Physik heute über Diätpläne entscheidet, zeigt, wie sehr sich wissenschaftliche Methoden über Fachgrenzen hinweg bewähren.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Kalorie",
+      "https://en.wikipedia.org/wiki/Wilbur_Olin_Atwater"
+    ]
+  }
+}
