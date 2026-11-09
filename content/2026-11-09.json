@@ -1,0 +1,273 @@
+{
+  "date": "2026-11-09",
+  "headline": "Merz schlägt Ilse Aigner als erste Bundespräsidentin vor, während Nvidia-Chef Huang nach Spionage-Affäre unter Druck gerät und die Börsen nach dem KI-Ausverkauf vorsichtig zurückkommen.",
+  "telegram_bullets": [
+    "Merz nominiert Ilse Aigner als erste Bundespräsidentin, AfD und Linke kritisieren die Entscheidung.",
+    "Nvidia-Chef Huang gesteht Affäre mit mutmaßlicher China-Spionin ein, Board leitet Untersuchung ein, Trump verteidigt ihn.",
+    "Dax fällt fast 600 Punkte von Rekordhoch zurück, US-Börsen erholen sich dagegen nach dem Tech-Ausverkauf.",
+    "Berlin: Rot-Grün-Rot startet Koalitionsgespräche, 37. Jahrestag des Mauerfalls wird an der Bernauer Straße begangen."
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Rot-Grün-Rot startet Koalitionsgespräche über Schulpolitik",
+          "summary": "In den kommenden Tagen beginnen die Verhandlungen der künftigen Berliner Koalition aus SPD, Grünen und Linke. Bei der Bildungspolitik zeichnet sich bereits eine wichtige Trennlinie zwischen den Partnern ab.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/schule/wer-mischt-mit-bei-bildung-und-wer-nicht-16247789.html"
+        },
+        {
+          "title": "37. Jahrestag des Mauerfalls: Gedenken an der Bernauer Straße",
+          "summary": "Schüler, Historiker und Politiker erinnerten an der Gedenkstätte Bernauer Straße an den Fall der Berliner Mauer. Die Opferbeauftragte Zupke mahnte, das Erbe der Friedlichen Revolution nicht politisch zu verdrehen.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-mauerfall-vor-37-jahren-opferbeauftragte-warnt-vor-verdrehung-der-ddr-geschichte-16259267.html"
+        },
+        {
+          "title": "Vermisste 13-Jährige aus Marzahn tot in Brandenburg gefunden",
+          "summary": "Nach tagelanger Suche wurde die vermisste Schülerin aus Berlin-Marzahn tot in einem leerstehenden Haus in Brandenburg entdeckt. Ein Tatverdächtiger befindet sich laut Staatsanwaltschaft in einer Klinik.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-marzahn-vermisstes-maedchen-tot-brandenburg-bad-freienwalde.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Merz schlägt Ilse Aigner als erste Bundespräsidentin vor",
+          "summary": "Kanzler Merz sprach sich nach langem Zögern für die bayerische Landtagspräsidentin Ilse Aigner als CDU-Kandidatin für das Amt des Bundespräsidenten aus – sie wäre die erste Frau in diesem Amt. AfD und Linke kritisierten die Nominierung der CSU-Politikerin.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html"
+        },
+        {
+          "title": "Nur jeder Dritte sieht Demokratie in Deutschland gut funktionierend",
+          "summary": "Eine ARD-Umfrage zeigt breiten Rückhalt für die Demokratie als Idee, doch nur ein Drittel der Deutschen ist mit ihrer praktischen Funktionsweise zufrieden.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/sorge-um-demokratie-umfrage-100.html"
+        },
+        {
+          "title": "Unionsfraktionschef Frei lehnt geplante Plastiksteuer ab",
+          "summary": "Frei nennt die Steuer wirtschaftlich und ökologisch falsch, SPD-Fraktionschef Miersch verweist dagegen auf laufende Verhandlungen in der Koalition.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/plastiksteuer-absage-100.html"
+        },
+        {
+          "title": "Pistorius rechnet derzeit nicht mit Rückkehr zur Wehrpflicht",
+          "summary": "Der Verteidigungsminister verweist auf eine positive Entwicklung bei den Bewerberzahlen der Bundeswehr, die eine Wiedereinführung derzeit unnötig mache.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeswehr-diskussion-wehrpflicht-100.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "Russische Luftangriffe lassen 600.000 Ukrainer ohne Strom",
+          "summary": "Erneute russische Angriffe auf die ukrainische Energieversorgung trafen vor allem die Region Dnipropetrowsk. Das besetzte Atomkraftwerk Saporischschja muss mit Notstromaggregaten laufen.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-stromausfall-120.html"
+        },
+        {
+          "title": "Ukraine-Gespräche in Abu Dhabi: Frankreich sieht Europa vertreten",
+          "summary": "Ab Dienstag wird in Abu Dhabi über einen möglichen Frieden in der Ukraine verhandelt. Außenminister Barrot erklärte, Frankreich werde an den Gesprächen teilnehmen.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-100.html"
+        },
+        {
+          "title": "Ermittler gehen nach Schüssen in Krakau von Terrorismus aus",
+          "summary": "Bei dem Angriff auf dem Marktplatz starben sechs Menschen, darunter Familienmitglieder des mutmaßlichen Täters. Die Staatsanwaltschaft vermutet eine radikale Gesinnung des Schützen.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/krakau-schuesse-trauer-102.html"
+        },
+        {
+          "title": "Zehntausende demonstrieren in Amsterdam gegen Israels Gaza-Politik",
+          "summary": "Die Großdemonstration verlief laut Polizei friedlich. Ministerpräsident Jetten nahm diesmal nicht teil.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/demonstration-amsterdam-israel-100.html"
+        },
+        {
+          "title": "Mélenchon stellt Wahlprogramm mit Forderung nach NATO-Austritt vor",
+          "summary": "Der linke französische Präsidentschaftskandidat könnte bei der Wahl im kommenden April stark abschneiden und wendet sich mit seinem Programm auch gegen die NATO.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-wahlprogramm-100.html"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Nvidia-Chef Huang gesteht Affäre mit mutmaßlicher China-Spionin",
+          "summary": "Nvidia leitete eine Untersuchung gegen CEO Jensen Huang ein, nachdem er in einer Mitarbeiter-Mail eine Beziehung zur Managerin Alice Huang einräumte, die laut New York Times vom chinesischen Geheimdienst zur Informationsbeschaffung über US-Chipexportkontrollen angesetzt worden sein soll. Trump verteidigte Huang trotz der Vorwürfe öffentlich.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029562/nvidia-investigating-jensen-huang-relationship-chinese-spy"
+        },
+        {
+          "title": "Trump nennt eigene Abschiebepolitik rückblickend „zu hart“",
+          "summary": "Nach der Wahlniederlage der Republikaner bei den Kongresswahlen deutete Trump eine Lockerung der Migrationspolitik an und brachte eine Amnestie für Teile der Einwanderer ins Spiel.",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/c82ac9a2-617e-400a-a5b7-e8d6674a80d4?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Papst Leo mahnt Argentiniens Präsident Milei zu sozialer Rücksicht",
+          "summary": "Zu Beginn seines Argentinien-Besuchs kritisierte Papst Leo XIV. die „Kettensägen-Politik“ von Präsident Milei und rief zu mehr Rücksicht auf Schwache auf.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/papst-in-argentinien-100.html"
+        },
+        {
+          "title": "ANC erleidet historische Niederlage bei Kommunalwahl in Südafrika",
+          "summary": "Der Afrikanische Nationalkongress fuhr sein schlechtestes Ergebnis seit dem Ende der Apartheid ein. Wähler zeigten sich enttäuscht von Kriminalität und Korruption.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/wahlen-suedafrika-102.html"
+        },
+        {
+          "title": "Mindestens sieben Tote nach Zugunglück bei Gizeh in Ägypten",
+          "summary": "Zwei Züge kollidierten südlich von Kairo, mehrere Wagen entgleisten und stürzten einen Bahndamm hinunter. Mehr als 100 Menschen wurden verletzt, über 50 Rettungswagen waren im Einsatz.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Dax fällt nach Rekordhoch zurück, US-Börsen erholen sich",
+          "summary": "Nach einem neuen Rekordhoch am Donnerstag rutschte der Dax am Freitag um fast 600 Punkte ab. An der Wall Street griffen Anleger dagegen nach dem Tech-Ausverkauf wieder zu, Nasdaq und Dow legten zu.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-sackt-trotz-stabiler-chip-werte-fast-600-punkte-ab/100267806.html"
+        },
+        {
+          "title": "Spanien nominiert Hernández de Cos als Lagarde-Nachfolger bei der EZB",
+          "summary": "Nach den Niederlanden schickt nun auch Spanien einen Kandidaten für die EZB-Spitze ins Rennen. Die Euro-Finanzminister wollen die Nominierungen am Montag sichten.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-spanien-nominiertpablo-hernandez-de-cos-fuer-lagarde-nachfolge/100267919.html"
+        },
+        {
+          "title": "Deutsche Industrieproduktion steigt im September um 0,7 Prozent",
+          "summary": "Nach vorläufigen Zahlen von Destatis legte die preisbereinigte Produktion im Produzierenden Gewerbe saison- und kalenderbereinigt gegenüber August zu.",
+          "source": "Destatis",
+          "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_389_421.html"
+        },
+        {
+          "title": "Berkshire Hathaway kauft für 9,6 Milliarden Dollar eigene Aktien",
+          "summary": "Trotz sinkendem Quartalsgewinn legte die Berkshire-Aktie zu. Buffetts Nachfolger Greg Abel profitiert zusätzlich von der KI-Angst an der Wall Street.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/quartalszahlen-berkshire-meldet-gewinnrueckgang-doch-die-aktie-profitiert/100268115.html"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "EU genehmigt Übernahme von Ceconomy durch JD.com",
+          "summary": "Die EU-Kommission hat der Übernahme des MediaMarkt- und Saturn-Eigentümers durch den chinesischen E-Commerce-Konzern JD.com zugestimmt – allerdings mit Auflagen.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/eu-commission-approves-takeover-ceconomy-by-jd-com/"
+        },
+        {
+          "title": "DealMonitor Oktober: 470 Millionen Euro in 14 Millionen-Deals",
+          "summary": "Im vergangenen Monat zählte deutsche-startups.de 13 zwei- bis dreistellige Millioneninvestments deutscher Start-ups, unter anderem bei iwoca, 1KOMMA5° und Rabot Energy.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/11/06/14-dicke-millionen-deals-die-alle-gesehen-haben-sollten/"
+        },
+        {
+          "title": "Sequoia Capital schließt sein Büro in London",
+          "summary": "Der Rückzug des US-Vorzeige-Investors aus London lässt Branchenbeobachter fragen, was das für die europäische Start-up-Szene bedeutet.",
+          "source": "Sifted",
+          "url": "https://sifted.eu/articles/sequoia-is-leaving-london-should-europe-be-worried/"
+        },
+        {
+          "title": "Poppi-Gründerin startet neue Hydration-Marke Jetty",
+          "summary": "Allison Ellsworth, Mitgründerin der Limonadenmarke Poppi, launcht mit Jetty eine natriumärmere Hydration-Marke für den Alltagsgebrauch.",
+          "source": "Modern Retail",
+          "url": "https://www.modernretail.co/operations/poppi-founder-allison-ellsworth-on-launching-jetty-a-new-hydration-brand/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+        },
+        {
+          "title": "Berliner KI-Start-up Langdock wächst auf 60 Millionen Euro ARR",
+          "summary": "Der StartupTicker meldet zudem, dass 88 Prozent der Gründer:innen bei Firmenexits leer ausgehen, während das Raumfahrt-Start-up Vaeridion 124 Millionen Euro Finanzierung erhält.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/11/06/exit-illusion-gostudent-sequoia-capital-langdock-vaeridion-pliant/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "Supplement-Branche hofft nach Midterms auf überparteilichen Fortschritt",
+          "summary": "Nachdem Demokraten beide Kongresskammern übernahmen, bereiten sich US-Branchenverbände auf Gesetzesänderungen vor – vor allem bei der Pflichtlistung von Produkten und der Zutatenregulierung.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/06/supplement-groups-seek-bipartisan-progress-after-midterms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "SupplySide Global: Beverages, Peptide und Longevity im Trend",
+          "summary": "Laut Marktforscher SPINS verschieben sich Supplements zunehmend in Getränke- und Snack-Formate, besonders bei Konsumenten unter 35. Auch Peptide bleiben ein Wachstumsthema.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/06/supplyside-global-trend-spotting-with-spins-beverages-peptides-longevity-and-more/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Frauengesundheit wird zur festen Kategorie auf SupplySide Global",
+          "summary": "Auf der Fachmesse rückte das Thema in Schulungen und an Ausstellerständen in den Mittelpunkt, da Unternehmen zunehmend eine wachsende, bisher unterversorgte Zielgruppe adressieren.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/06/womens-health-is-a-movement-not-a-trend/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Beauty-Marke Oner Active eröffnet ersten Flagship-Store in New York",
+          "summary": "Der mit Tequila-Duft inszenierte Laden ist der erste physische Store der britischen Marke weltweit und unterstreicht, wie wichtig der New Yorker Markt für ihr Wachstum ist.",
+          "source": "Glossy",
+          "url": "https://www.glossy.co/fashion/inside-oner-actives-tequila-scented-new-flagship-in-nyc/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "OpenAI mit 1,25 Billionen Dollar bewertet, Anthropic strebt IPO an",
+          "summary": "Eine neue Finanzierungsrunde über 11 Milliarden Dollar hebt OpenAIs Bewertung auf 1,25 Billionen Dollar. Rivale Anthropic plant inzwischen einen Börsengang mit Zielbewertung von 1,5 Billionen Dollar noch vor Thanksgiving.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation"
+        },
+        {
+          "title": "EU-Kommission verschärft DSA-Verfahren gegen TikTok",
+          "summary": "Im Streit mit Betreiber ByteDance verlangt die Kommission massive Änderungen an den algorithmischen Empfehlungssystemen der Plattform.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/DSA-Verfahren-EU-Kommission-droht-TikTok-mit-Strafe-11515238.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "title": "Anthropic nutzt KI zur Automatisierung der eigenen Entwicklung",
+          "summary": "Ein neuer METR-Bericht zeigt, dass sich Anthropics Modelle dadurch etwa doppelt so schnell verbessern wie vor einem Jahr – ohne Anzeichen einer Verlangsamung. Forscher zeigen sich alarmiert über das Tempo.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029126/anthropic-metr-report-accelerating-ai-development"
+        },
+        {
+          "title": "Apple beschleunigt Entwicklung einer agentischen Siri",
+          "summary": "CEO John Ternus drängt KI-Chef Craig Federighi, den Siri-Fahrplan zu beschleunigen und einen leistungsfähigen Assistenten zu liefern, der mit OpenAI und Meta konkurrieren kann.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "Sport & Körper",
+    "title": "Die Tabata-Methode: Wie ein Eisschnelllauf-Training das HIIT-Prinzip begründete",
+    "body": "Das heute populäre hochintensive Intervalltraining (HIIT) geht auf eine sportwissenschaftliche Zufallsentdeckung zurück. 1996 untersuchte der japanische Sportmediziner Izumi Tabata die Trainingsmethode des Eisschnelllauf-Trainers Irisawa Koichi, der seine Athleten mit extrem kurzen, maximal intensiven Intervallen fit hielt. Tabata testete das Prinzip im Labor: 20 Sekunden Vollbelastung, gefolgt von 10 Sekunden Pause, achtmal wiederholt – insgesamt nur vier Minuten. Seine Studie zeigte, dass dieses kurze Programm sowohl die aerobe als auch die anaerobe Leistungsfähigkeit verbesserte, einen Effekt, den klassisches, längeres Ausdauertraining in dieser Kombination kaum erreicht. Die Arbeit wurde zur meistzitierten Studie zum Thema HIIT und machte das Protokoll weit über den Leistungssport hinaus populär, von Fitnessstudios bis zu Trainings-Apps. Dass eine vierminütige Übung aus dem Training japanischer Speedskater zur Grundlage eines globalen Fitnesstrends wurde, zeigt, wie viel sich aus der systematischen Beobachtung bestehender Praxis lernen lässt, statt neue Methoden allein am Reißbrett zu entwickeln.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Tabata-Methode",
+      "https://en.wikipedia.org/wiki/High-intensity_interval_training"
+    ]
+  }
+}
