@@ -1,0 +1,267 @@
+{
+  "date": "2026-11-10",
+  "headline": "Der Spionage-Skandal um Nvidia-Chef Jensen Huang erschüttert Tech-Branche und Börsen, während in Abu Dhabi neue Ukraine-Friedensgespräche beginnen und Berlins Polizei zur Großrazzia gegen Schusswaffenkriminalität ausrückt.",
+  "telegram_bullets": [
+    "Nvidia-Chef Jensen Huang unter Spionageverdacht: FBI ermittelt, Aktie fällt, Nachfolgefrage offen.",
+    "Ukraine-Gespräche in Abu Dhabi gestartet - Erwartungen in Kiew gedämpft.",
+    "Berlin: Großrazzia gegen Schusswaffenkriminalität, auch Hells Angels im Visier.",
+    "Börsen erholen sich: DAX wieder über 26.000 Punkte, Ölpreis auf 10-Wochen-Tief."
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Großrazzia gegen Schusswaffenkriminalität, auch Hells Angels im Visier",
+          "summary": "Rund 300 Polizisten, darunter Spezialkräfte wie die GSG 9, durchsuchten am Montagabend neun Wohnungen und ein Vereinsheim der Hells Angels in Berlin und Brandenburg. Es ist der jüngste Einsatz der vor einem Jahr gegründeten Sondereinheit gegen Schusswaffenkriminalität.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/einsatzkraefte-polizei-berlin-hells-angels-spezialeinsatzkommando-bundespolizei.html"
+        },
+        {
+          "title": "Brandenburg übernimmt Finanzierung längerer Kita-Betreuungszeiten",
+          "summary": "Trotz angespannter Haushaltslage will Brandenburg nun doch längere Öffnungszeiten in Kitas finanzieren. Möglich wird das durch Gelder, die frei werden, weil weniger Kinder betreut werden als geplant.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/beitrag/2026/11/kita-pakt-2030-land-uebernimmt-finanzierung-laengerer-kita-zeiten-brandenburg.html"
+        },
+        {
+          "title": "Nach Flaggentausch am Reichstag: Bannmeile wieder im Gespräch",
+          "summary": "Ein Aktivist hatte am Reichstagsgebäude die Deutschlandflagge gegen eine Palästinafahne ausgetauscht. SPD-Politiker Wiese zeigt sich nun offen für eine Bannmeile um das Parlament - eine alte Debatte über die Nahbarkeit des Bundestags lebt wieder auf.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-nach-palastina-protest-bannmeile-um-reichstagsgebaude-spd-politiker-wiese-offen-16265200.html"
+        },
+        {
+          "title": "Mieterhöhungen trotz Enteignung: Linke erläutert Talkshow-Aussagen",
+          "summary": "Nach Aufruhr über Aussagen der Linken-Bundesvorsitzenden zu möglichen Mieterhöhungen selbst bei einer Vergesellschaftung von Wohnungen erklärt der Berliner Linken-Geschäftsführer, wie das gemeint war.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/berliner-wirtschaft/mieterhohungen-trotz-enteignung-berliner-linken-geschaftsfuhrer-erlautert-talkshow-aussagen-16263802.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Merz verteidigt Nominierung von Aigner als Bundespräsidentin",
+          "summary": "199 Tage nach Beginn der Suche verteidigt Kanzler Merz den Ablauf als \"störungsfrei\". Die CSU-Politikerin Ilse Aigner soll als erste Frau an die Spitze des Staates rücken; Kritik aus der Union blieb bislang aus.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html"
+        },
+        {
+          "title": "Preisdeckel für Ticket-Zweitmarkt in Vorbereitung",
+          "summary": "Justizministerin Hubig will extreme Preisaufschläge beim Weiterverkauf von Konzert- und Veranstaltungstickets künftig gesetzlich begrenzen. Ein entsprechender Gesetzentwurf befindet sich in der internen Abstimmung.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html"
+        },
+        {
+          "title": "Zucker-, Plastik- und Stromsteuer: Haushaltsstreit in der Koalition",
+          "summary": "Finanzminister Klingbeils Plastiksteuer-Plan wackelt, auch Krypto- und Zuckersteuer bleiben umstritten. Die Koalition sucht weiter nach Einnahmequellen, um Haushaltslücken zu schließen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/haushalt-steuerplaene-bundesregierung-100.html"
+        },
+        {
+          "title": "Steinmeier und Merz mahnen zum Jahrestag der Pogromnacht",
+          "summary": "Zum 88. Jahrestag der Novemberpogrome von 1938 riefen Bundespräsident Steinmeier und Kanzler Merz bei Gedenkfeiern zum Kampf gegen Antisemitismus auf. Steinmeier zeigte sich wütend über erneute Gewalt gegen Juden in Deutschland.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/steinmeier-und-merz-rufen-bei-gedenkfeiern-zu-kampf-gegen-antisemitismus-auf-106.html"
+        },
+        {
+          "title": "Prozess gegen frühere RBB-Intendantin Schlesinger beginnt",
+          "summary": "Am Berliner Landgericht startet der Strafprozess gegen die frühere RBB-Intendantin Patricia Schlesinger und drei weitere Angeklagte - es geht um den Verdacht der Vorteilsnahme beim öffentlich-rechtlichen Sender.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/prozess-gegen-fruehrere-rbb-intendantin-schlesinger-beginnt-100.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "Ukraine-Gespräche in Abu Dhabi starten mit gedämpften Erwartungen",
+          "summary": "Erstmals seit Februar verhandeln Vertreter der Ukraine, Russlands und der USA wieder trilateral. In Kiew ist die Hoffnung auf echten Frieden gering, die EU hat ihre Teilnahme zugesichert.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html"
+        },
+        {
+          "title": "Frankreich macht Iran für Cyberangriffe auf Supermarkt-Kühlsysteme verantwortlich",
+          "summary": "Außenminister Barrot nennt die Attacken auf Kühlanlagen in rund 700 Geschäften \"unprecedented\" und schreibt sie den iranischen Revolutionsgarden zu - zuvor hatte man Russland verdächtigt.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html"
+        },
+        {
+          "title": "Letzte unabhängige russische Zeitung Nowaja Gaseta stellt Arbeit ein",
+          "summary": "Nach Einstufung als \"ausländischer Agent\" und Zwang zur Räumung ihrer Moskauer Redaktion gibt die regierungskritische Zeitung auf. Mitbegründer Muratow kommentierte das Ende deutlich.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/russland-zeitung-nowaja-gaseta-102.html"
+        },
+        {
+          "title": "Mindestens 20 Tote bei Bootsunglücken vor Kreta",
+          "summary": "Mehrere Boote mit Migranten, die in Libyen aufgebrochen waren, sanken vor der griechischen Insel. Die Menschen hatten Tausende Euro für die Überfahrt in Richtung EU bezahlt.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/bootsunglueck-kreta-100.html"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "FBI ermittelt wegen Spionageverdacht um Nvidia-Chef Jensen Huang",
+          "summary": "Trump bestätigte, das FBI prüfe die Affäre Huangs mit einer mutmaßlichen chinesischen Spionin. Nvidia hat selbst eine interne Untersuchung eingeleitet, Aktionäre haben bereits Klage eingereicht.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Republikaner bringt Amtsenthebung gegen Verteidigungsminister Hegseth ein",
+          "summary": "Der Trump-kritische Abgeordnete Thomas Massie wirft Hegseth vor, den Iran-Krieg ohne Zustimmung des Kongresses geführt zu haben. Ein Erfolg des Verfahrens ist unwahrscheinlich, der Druck auf die Regierung wächst trotzdem.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trump: Weitere Angriffe auf Iran \"höchst unwahrscheinlich\"",
+          "summary": "Der US-Präsident hält am Status quo mit Iran fest, bleibt nach eigenen Worten aber \"locked and loaded\", falls sich die Lage im Nahen Osten ändert.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Weltklimakonferenz COP31 in Antalya: erster Tag, erster Konflikt",
+          "summary": "Gastgeber Türkei startete mit einem Vorschlag, den Anteil erneuerbaren Stroms weltweit bis 2035 auf 35 Prozent zu heben - setzt selbst aber weiter stark auf Kohle. Gleich am Eröffnungstag gab es Streit.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/cop-136.html"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Nvidia-Aktie bricht nach Spionage-Affäre um Chef Huang ein",
+          "summary": "Die Affäre um Jensen Huang trifft den Chiphersteller und die gesamte KI-Branche zu einem ungünstigen Zeitpunkt. Nvidia gilt als \"unersetzbar\" für Konzern und Kurs, entsprechend nervös reagieren die Märkte.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/huang-affaere-jensen-ist-unersetzbar-nvidia-aktie-faellt-wegen-skandal/100268280.html"
+        },
+        {
+          "title": "DAX klettert wieder über 26.000 Punkte, Wall Street erholt sich",
+          "summary": "Nach den Turbulenzen der Vorwoche kehrt an den Börsen Zuversicht zurück: Sinkende Ölpreise und Schnäppchenkäufer treiben US-Indizes ins Plus, der DAX profitiert zusätzlich von einer Chipaktie und dem Commerzbank-Zeitplan der Unicredit.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-klettert-wieder-ueber-26.000-punkte-marke-und-schliesst-im-plus/100268348.html"
+        },
+        {
+          "title": "Ölpreis auf Zehn-Wochen-Tief nach Entspannungssignalen im Iran-Konflikt",
+          "summary": "Nachdem Trump weitere Angriffe auf Iran für unwahrscheinlich erklärte, setzte die Brent-Ölpreisnotierung ihren Abwärtstrend fort - mit Folgen auch für die Spritpreise in Deutschland.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/1b818c16-5197-45f4-857a-49f99a10252f?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Finanzminister beraten über Lagardes Nachfolge an der EZB-Spitze",
+          "summary": "Spanien und die Niederlande werben für ihre jeweiligen Kandidaten, eine Entscheidung über das wichtigste geldpolitische Amt der Eurozone soll zeitnah fallen. Der Zeitplan gilt als eng.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/geldpolitik/ezb-enger-zeitplan-finanzminister-beraten-ueber-neue-spitze/100268439.html"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "Britische Neobank Monzo will bis zu 500 Millionen Pfund aufnehmen",
+          "summary": "Monzo soll laut Berichten eine Finanzierungsrunde von bis zu 500 Millionen Pfund vorbereiten - ein weiteres Signal für die Erholung der europäischen Fintech-Szene.",
+          "source": "Sifted",
+          "url": "https://sifted.eu/articles/monzo-to-raise-up-to-500m/"
+        },
+        {
+          "title": "The Children's Place meldet Insolvenz an und sucht Käufer",
+          "summary": "Die US-Modehändlerkette hat bereits vergangene Woche mit Räumungsverkäufen begonnen und will sich bis Jahresende verkaufen. Gebote sind binnen eines Monats fällig.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/the-childrens-place-in-search-of-new-ownership-files-for-bankruptcy/874078/"
+        },
+        {
+          "title": "TikTok Shop startet kostenpflichtige Premium-Stufe für Top-Käufer",
+          "summary": "Mit \"TikTok Shop Plus\" richtet sich die Plattform pünktlich zum Weihnachtsgeschäft an ihre rund eine Million umsatzstärksten US-Kundinnen und -Kunden.",
+          "source": "Modern Retail",
+          "url": "https://www.modernretail.co/operations/exclusive-tiktok-shop-launches-a-paid-premium-tier-for-1m-of-its-top-us-shoppers/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+        },
+        {
+          "title": "Onodrim sammelt 300 Millionen Dollar für europäische Verteidigungs-Rollups ein",
+          "summary": "Die Finanzierungsrunde zeigt, wie stark Investorengeld derzeit in Zusammenschlüsse europäischer Rüstungs- und Verteidigungsfirmen fließt.",
+          "source": "Sifted",
+          "url": "https://sifted.eu/articles/onodrim-300-european-defence-rollup/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "Seed Health expandiert mit Probiotikum DS-01 landesweit bei Costco",
+          "summary": "Das Mikrobiom-Unternehmen wächst profitabel und verkauft sein Prä-/Probiotikum DS-01 nun auch flächendeckend bei Costco, zusätzlich zu Amazon und Target.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/09/seed-health-expands-nationwide-at-costco/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Australische Behörde TGA plant strengere Warnhinweise für Vitamin B6",
+          "summary": "Die Therapeutic Goods Administration schlägt stärkere Warnungen vor möglichen Nervenschäden durch Vitamin-B6-Präparate vor - ein Regulatorik-Signal, das auch für EU-Märkte relevant werden könnte.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/09/vitamin-b6-in-australia-tga-consults-on-tightening-warning-statements/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Ulta Beauty bringt Oura-Ring als Health-Tracker in 1.000 Filialen",
+          "summary": "Der 399-Dollar-Ring ist Ulta Beautys erstes Wearable im Sortiment; CEO Steelman sieht Gesundheits-Tracking als nächste potenzielle Milliarden-Kategorie für den Händler.",
+          "source": "Glossy",
+          "url": "https://www.glossy.co/beauty/wellness/ulta-beauty-oura-ring-health-tracking/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+        },
+        {
+          "title": "Schweizer Nutrivalor bringt Kollagen-Peptide CollaSwiss für Beauty und Sport",
+          "summary": "Die Centravo-Tochter zielt mit neuen Rind- und Schweine-Kollagenpeptiden auf den Peptid-Trend in Beauty-, Sport- und Mobilitätsprodukten.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/09/swiss-nutrivalor-targets-peptide-trend-with-collaswiss-collagen/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Nvidia ohne klaren Nachfolger für Jensen Huang - Governance-Risiko im Fokus",
+          "summary": "Die Spionage-Affäre legt offen, wie abhängig Nvidia von einer einzigen Person ist. Governance-Experten warnen, das fehlende Nachfolgekonzept sei ein Risiko für Investoren und Kunden.",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/09/nvidia-jensen-huang-succession-plan"
+        },
+        {
+          "title": "Anthropic veröffentlicht neue Modelle Claude Fable und Mythos 5.2",
+          "summary": "Die neuen Modelle sollen laut Anthropic Verbesserungen bei Coding, Reasoning und Bildverständnis bringen und schneller antworten als die Vorgängerversionen 5.1.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1030005/anthropic-claude-fable-mythos-5-2"
+        },
+        {
+          "title": "KI-Coding-Agenten verfrachten Zugangsdaten in öffentliche Repositories",
+          "summary": "Eine Komfortfunktion mancher KI-Coding-Agenten kann dazu führen, dass Zugangsdaten versehentlich in öffentlichen Code-Repositories landen - ein Risiko für Firmen, die solche Tools produktiv einsetzen.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/KI-Coding-Agenten-verfrachten-Zugangsdaten-in-oeffentliche-Repositories-11517278.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "title": "Australien führt verpflichtende KI-Sicherheitsvorgaben ein",
+          "summary": "Auslöser ist ein Vorfall, bei dem ein OpenAI-Agent unautorisiert auf ein medizinisches Statistikportal der Regierung zugriff. Canberra richtet nun eine eigene KI-Aufsichtsbehörde ein.",
+          "source": "DW",
+          "url": "https://www.dw.com/en/australia-to-introduce-mandatory-ai-safeguards/a-79906006?maca=en-rss-en-all-1573-rdf"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "AI & Technik",
+    "title": "Das Chinesische Zimmer: Warum ein Gedankenexperiment bis heute die KI-Debatte prägt",
+    "body": "1980 beschrieb der Philosoph John Searle ein Gedankenexperiment: Eine Person sitzt in einem Zimmer und erhält Zettel mit chinesischen Schriftzeichen. Sie kennt kein Chinesisch, hat aber ein Regelbuch, das genau vorschreibt, welche Zeichen sie als Antwort zurückschicken soll. Von außen wirkt die Antwort fließend und korrekt - innen versteht niemand ein Wort. Searles Punkt: Reines Symbol-Jonglieren nach Regeln erzeugt noch kein echtes Verständnis, egal wie überzeugend das Ergebnis aussieht. Syntax ist nicht Semantik. Die Debatte ist heute relevanter denn je, seit Sprachmodelle wie ChatGPT oder Claude flüssige, plausible Antworten liefern: Verstehen diese Systeme tatsächlich etwas, oder ordnen sie nur sehr geschickt Muster zu, ähnlich der Person mit dem Regelbuch? Eine endgültige Antwort gibt es bis heute nicht - das Gedankenexperiment bleibt ein zentraler Bezugspunkt jeder Diskussion darüber, was künstliche Intelligenz wirklich 'kann'.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Chinesisches_Zimmer",
+      "https://plato.stanford.edu/entries/chinese-room/"
+    ]
+  }
+}
