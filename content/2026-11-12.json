@@ -1,0 +1,297 @@
+{
+  "date": "2026-11-12",
+  "headline": "Nvidias Aufsichtsrat erwägt laut mehreren Berichten die Ablösung von CEO Jensen Huang wegen Affären-Vorwürfen – die Aktie brach nachbörslich deutlich ein.",
+  "telegram_bullets": [
+    "Nvidia: Board prüft Ablösung von CEO Jensen Huang, Aktie rutscht nachbörslich ab.",
+    "Koalition einigt sich auf Haushalt 2027: Stromsteuer bleibt, Zuckersteuer verschoben.",
+    "Spanien im Generalstreik für bezahlbares Wohnen, Zusammenstöße in Barcelona.",
+    "DAX nahe Rekordhoch, Wirtschaftsweise heben Wachstumsprognose für Deutschland deutlich an."
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Zweitägiger Pflegestreik an der Charité",
+          "summary": "Beschäftigte der Berliner Charité legen im Tarifstreit zwei Tage lang die Arbeit nieder. Der Streik trifft eines der größten Universitätskliniken Europas mitten in der Grippesaison.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-tarifstreit-zweitagiger-streik-an-der-charite-16275691.html"
+        },
+        {
+          "title": "Tatverdächtiger im Fall Lisa T. im Krankenhaus gestorben",
+          "summary": "Der 22-jährige Hauptverdächtige im Mordfall der vermissten und später tot aufgefundenen Lisa T. ist im Krankenhaus gestorben. Die Ermittlungen zu dem Fall, der auch wegen jahrelang unbearbeiteter Kinderpornografie-Hinweise Fragen aufwirft, laufen weiter.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/22-jaehriger-tatverdaechtiger-gestorben-vermisstes-maedchen-lisa-tot.html"
+        },
+        {
+          "title": "20 Millionen Euro Förderung für Industriegebiet in Guben",
+          "summary": "Das brandenburgische Guben erhält knapp 20 Millionen Euro Strukturwandel-Förderung, um sein Industriegebiet zu erweitern. Die Region südlich von Berlin baut damit ihre Wirtschaftsbasis über den Kohleausstieg hinaus aus.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/brandenburg-guben-millionen-foerderung-ausbau-industriegebiet.html"
+        },
+        {
+          "title": "Berlin hat bundesweit höchste Notaufnahme-Quote",
+          "summary": "Neue Zahlen zeigen: In Berlin werden mehr Menschen in Notaufnahmen behandelt als in jedem anderen Bundesland. Das verschärft die Debatte über überlastete Kliniken und fehlende hausärztliche Versorgung in der Stadt.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/statistik-notaufnahme-berlin-bundesweit-fuehrend.html"
+        },
+        {
+          "title": "Abgeordnetenhaus erinnert an den 9. November",
+          "summary": "Das Berliner Parlament hat in einer Plenarsitzung an die Jahrestage des 9. November erinnert, von der Novemberrevolution 1918 bis zum Mauerfall 1989. Die Debatte fiel in eine Zeit wachsender Sorge um demokratische Stabilität.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-plenarsitzung-berlin-erinnert-im-parlament-an-den-9-november-16275677.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Koalition einigt sich auf Haushalt 2027",
+          "summary": "Schwarz-Rot hat sich auf Kompromisse für den Bundeshaushalt 2027 verständigt: Die Stromsteuer für Privathaushalte wird vorerst nicht gesenkt, die geplante Zuckersteuer verschoben. Beides war zuvor zwischen Union und SPD umstritten.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html"
+        },
+        {
+          "title": "Koalition plant weniger Kündigungsschutz, mehr Befristungen",
+          "summary": "Die Bundesregierung will den Kündigungsschutz lockern und befristete Arbeitsverträge erleichtern, um den Arbeitsmarkt flexibler zu machen. Gewerkschaften kritisieren den Vorstoß als Angriff auf Arbeitnehmerrechte.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/arbeitsrecht-kuendigungsschutz-befristungen-reform-100.html"
+        },
+        {
+          "title": "VW stoppt Modernisierung der Produktion in Wolfsburg",
+          "summary": "Volkswagen legt sein als „Gamechanger\" angekündigtes Projekt zur Modernisierung der Autoproduktion in Wolfsburg wegen angespannter Finanzlage auf Eis. Es ist ein weiteres Signal für den Sparkurs des Konzerns.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/vw-stoppt-geplante-modernisierung-der-autoproduktion-in-wolfsburg-106.html"
+        },
+        {
+          "title": "Finanzministerium prüft neue Steuerklassen für Paare",
+          "summary": "Finanzminister Klingbeil treibt einen Vorschlag voran, wie sich die Steuerklassen für verheiratete Paare ändern könnten, um Fehlanreize beim Ehegattensplitting abzubauen. Details zum Gesetzentwurf sollen folgen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/steuerklassen-klingbeil-100.html"
+        },
+        {
+          "title": "Offshore-Windbranche schlägt bei Krisentreffen Alarm",
+          "summary": "Vertreter der Windkraftindustrie auf See haben bei einem Krisentreffen in Cuxhaven vor den Folgen stockender Investitionen gewarnt. Es geht um Auftragsflauten und Zweifel am Ausbautempo der Energiewende.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/krisentreffen-in-cuxhaven-windkraftindustrie-auf-see-schlaegt-alarm-102.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "Spanien im Generalstreik für bezahlbares Wohnen",
+          "summary": "Landesweite Streiks und Massenproteste in Spanien richten sich gegen explodierende Mietpreise, in Barcelona kam es zu Zusammenstößen mit der Polizei. Die Mieterbewegung hatte zur Mobilisierung aufgerufen.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-wohnungskrise-100.html"
+        },
+        {
+          "title": "Polens Rechte marschiert zum Unabhängigkeitstag durch Warschau",
+          "summary": "Beim traditionellen „Unabhängigkeitsmarsch\" in Warschau zogen erneut rechte und rechtsextreme Gruppen durch die Stadt. Der Aufmarsch gilt seit Jahren als Kräftemesser zwischen Nationalisten und liberalerer Stadtverwaltung.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/umstrittener-marsch-zu-unabhaengigkeitstag-in-polen-100.html"
+        },
+        {
+          "title": "Bombendrohungen treffen Hunderte Schulen in Italien und UK",
+          "summary": "Eine Welle von Bombendrohungen hat Schulen in Italien, Irland, Schottland und Nordirland zu Evakuierungen gezwungen. Die Behörden gehen bislang von einem koordinierten Hoax aus, Ermittlungen laufen.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-italien-100.html"
+        },
+        {
+          "title": "USA wollen europäische Sicherheitsordnung mit Russland neu verhandeln",
+          "summary": "Die US-Regierung bringt Elemente russischer Forderungen zur europäischen Sicherheitsarchitektur in Gespräche über ein Kriegsende in der Ukraine ein. Europäische Partner zeigen sich besorgt, kaum eingebunden zu sein.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/europa-sicherheitsarchitektur-russland-usa-100.html"
+        },
+        {
+          "title": "Umfrage sieht Lagarde gut platziert für Präsidentschaftswahl 2027",
+          "summary": "Einer Umfrage zufolge würde EZB-Chefin Christine Lagarde bei einer möglichen Kandidatur für die französische Präsidentschaftswahl 2027 ähnlich gut abschneiden wie andere zentristische Bewerber. Offiziell hat sie keine Ambitionen erklärt.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/lagarde-would-equal-any-other-centrist-in-elysee-run-poll-shows/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Demokrat gewinnt erstmals seit 1982 Senatssitz in Mississippi",
+          "summary": "Scott Colom hat als erster Demokrat seit über 40 Jahren einen US-Senatssitz in Mississippi gewonnen und die Republikanerin Cindy Hyde-Smith besiegt. Der Sieg gilt als Signal für die Demokraten vor den Midterms.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-mississippi-schwarzer-senator-100.html"
+        },
+        {
+          "title": "Tote und Verletzte nach Gebäudeeinsturz in Brooklyn",
+          "summary": "In einem Stadtteil von Brooklyn ist ein Gebäude eingestürzt, mehrere Menschen kamen ums Leben oder wurden verletzt. Rettungskräfte suchten weiter nach Vermissten unter den Trümmern.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/new-york-gebaeude-einsturz-104.html"
+        },
+        {
+          "title": "Israeli strike on Gaza hospital kills at least six",
+          "summary": "An Israeli strike hit Nasser Hospital in Gaza, killing at least six people according to the territory's civil defence agency. The hospital has repeatedly been at the centre of fighting during the war.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Russia-Ukraine talks on security end without breakthrough",
+          "summary": "Talks between Russian and Ukrainian officials shifted to post-war security guarantees but ended without a breakthrough. Both sides remain far apart on what a lasting settlement would look like.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ck792we7zrz4o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Trinidad und Tobago entkriminalisiert Homosexualität",
+          "summary": "Ein historisches Gerichtsurteil hebt in Trinidad und Tobago die Strafbarkeit gleichgeschlechtlicher Beziehungen auf. Menschenrechtsorganisationen feiern den Schritt als Durchbruch in der Karibik.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/historisches-urteil-trinidad-und-tobago-entkriminalisiert-homosexualitaet-106.html"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Wirtschaftsweise heben Wachstumsprognose für Deutschland deutlich an",
+          "summary": "Die Wirtschaftsweisen haben ihre Prognose für das deutsche Wirtschaftswachstum in ihrem Jahresgutachten merklich nach oben korrigiert. Grund sind unter anderem robustere Investitionen und ein stabilerer Arbeitsmarkt als zuletzt erwartet.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftsweise-jahresgutachten-2026-100.html"
+        },
+        {
+          "title": "Tankrabatt drückt Inflation im Oktober auf 2,8 Prozent",
+          "summary": "Die Inflationsrate in Deutschland lag im Oktober laut Destatis bei 2,8 Prozent, gedämpft durch niedrigere Spritpreise infolge eines Tankrabatts. Ohne den Effekt wäre die Teuerung höher ausgefallen.",
+          "source": "Destatis",
+          "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_392_611.html"
+        },
+        {
+          "title": "KI-Euphorie treibt Wall Street, DAX nahe Rekordhoch",
+          "summary": "Tech-Aktien haben an der Wall Street deutlich zugelegt, die KI-Rally ist zurück. Auch der DAX profitierte von den KI-Gewinnern und schloss knapp unter seinem Rekordniveau.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-knapp-unter-rekordniveau-ki-profiteure-gewinnen/100269009.html"
+        },
+        {
+          "title": "US economy defies worries over turbulent Trump policies",
+          "summary": "The US economy continues to surprise with its resilience despite tariff uncertainty and political turmoil under President Trump. Growth and consumer spending have held up better than many forecasters expected.",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/51fb0811-982a-4c7b-8d87-f85cd9008f3b?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "Hims & Hers erweitert GLP-1-Benefits mit Grüns und Tonal",
+          "summary": "Das DTC-Gesundheitsunternehmen Hims & Hers baut sein Benefits-Programm für GLP-1-Nutzer aus und kooperiert dafür mit Marken wie dem Supplement-Anbieter Grüns und dem Fitness-Anbieter Tonal. Ziel ist ein ganzheitlicheres Angebot rund um Abnehmspritzen.",
+          "source": "Modern Retail",
+          "url": "https://www.modernretail.co/operations/hims-hers-benefits-program-gruns-tonal-viome-medjet/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+        },
+        {
+          "title": "SevenVentures investiert von About You bis FINN",
+          "summary": "Ein Portfolio-Überblick zeigt, wie breit der Investmentarm von ProSiebenSat.1 im deutschen Consumer-Bereich aufgestellt ist, von der Modeplattform About You bis zum Auto-Abo FINN. Media-for-Equity bleibt dabei ein zentrales Instrument.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/11/11/von-about-you-bis-finn-so-investiert-sevenventures/"
+        },
+        {
+          "title": "Studie zeigt, was 2026 erfolgreiche Creator-Kampagnen ausmacht",
+          "summary": "Eine neue Analyse von Modern Retail zeigt, welche Social-Media- und Creator-Strategien Marken 2026 am stärksten voranbringen. Für DTC-Marken liefert der Index konkrete Vergleichswerte für eigene Kampagnen.",
+          "source": "Modern Retail",
+          "url": "https://www.modernretail.co/marketing/modern-retail-research-2026-creator-marketing-index-a-brand-guide-to-effective-social-media-campaigns/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+        },
+        {
+          "title": "Capri Holdings beruft neuen CEO für Michael Kors und Jimmy Choo",
+          "summary": "Der Modekonzern Capri Holdings hat mit Justin Boxford einen neuen Chef für seine Marken Michael Kors und Jimmy Choo ernannt. Der Wechsel folgt auf anhaltenden Umsatzdruck im Luxussegment.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/capri-holdings-michael-kors-jimmy-choo-new-ceo-justin-boxford/874377/"
+        },
+        {
+          "title": "Amazon kündigt rekordviele Exklusiv-Deals zu Black Friday an",
+          "summary": "Amazon plant für Black Friday und Cyber Monday so viele exklusive Angebote wie nie zuvor. Für DTC-Marken im Amazon-Kanal wächst damit der Preisdruck im wichtigsten Verkaufsfenster des Jahres.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/amazon-black-friday-cyber-monday-holiday-deals/874359/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "Curaleaf darf Cannabis-Konkurrenten Aurora übernehmen",
+          "summary": "Die Übernahme des kanadischen Cannabisproduzenten Aurora durch Curaleaf wurde freigegeben. Die Transaktion bündelt zwei der größten Anbieter medizinischen Cannabis und dürfte den Konsolidierungsdruck in der Branche weiter erhöhen.",
+          "source": "apotheke adhoc",
+          "url": "https://www.apotheke-adhoc.de/rubriken/detail/medizinisches-cannabis/curaleaf-darf-aurora-uebernehmen/"
+        },
+        {
+          "title": "Vireo Systems verlagert Kreatin-Produktion in die USA",
+          "summary": "Der Hersteller Vireo Systems will sein CreaBoost-Kreatin künftig direkt in den USA produzieren statt zu importieren. Damit reagiert das Unternehmen auf Lieferketten-Risiken und wachsende Nachfrage nach US-gefertigten Supplements.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/11/vireo-systems-to-manufacture-premium-creatine-in-us/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Sportnahrung-Launches setzen auf Alltagsnutzer und praktische Formate",
+          "summary": "Neue Produkteinführungen in der Sporternährung richten sich zunehmend an tägliche Nutzer statt nur an Hochleistungssportler, mit Fokus auf einfache Formate wie Sticks und Shots. Der Trend verschiebt den Markt weiter Richtung Alltagstauglichkeit.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/11/sports-nutrition-launches-target-daily-users-convenient-formats/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Beauty-Creatorin Mikayla Nogueira über ihr Marken-Playbook",
+          "summary": "Im Gespräch mit POV Beauty erklärt Creatorin Mikayla Nogueira gemeinsam mit Co-Founderin Ani Hadjinian, wie sie aus Social-Media-Reichweite eine eigene Beauty-Marke aufgebaut hat. Der Fall gilt als Blaupause für Creator-zu-Brand-Modelle.",
+          "source": "Glossy",
+          "url": "https://www.glossy.co/podcasts/pov-beautys-mikayla-nogueira-unpacks-her-creator-brand-playbook-with-ceo-and-co-founder-ani-hadjinian/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Nvidia board weighs ousting CEO Jensen Huang",
+          "summary": "Nvidia's board is reportedly considering removing CEO Jensen Huang following allegations of an affair with a subordinate and a separate relationship with an executive. The news sent Nvidia shares tumbling in after-hours trading and rattled the broader AI trade.",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/d3838274-a055-4d5d-a1ff-48f2979a08f0?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Anthropic's IPO roadshow becomes a test for the AI industry",
+          "summary": "Anthropic has published its IPO roadshow video as it prepares to go public, a listing the Financial Times calls too important to fail for the sector. Investors are watching closely whether AI valuations can hold up under public-market scrutiny.",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/"
+        },
+        {
+          "title": "United Airlines bans AI agents from booking flights",
+          "summary": "United Airlines says it will block AI agents from autonomously booking flights on behalf of travelers, citing fraud and liability concerns. It's one of the first major pushbacks by a big consumer brand against agentic AI shopping.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031623/united-unauthorized-ai-agents"
+        },
+        {
+          "title": "Google launches AlphaGenome 2 to study disease at the cellular level",
+          "summary": "Google DeepMind released AlphaGenome 2, a model aimed at helping researchers trace the genetic roots of disease more precisely. The tool builds on earlier genomics work and targets faster hypothesis-testing in biomedical research.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1031524/google-deepmind-alphagenome-2-genetic-ai-model"
+        },
+        {
+          "title": "EU will Lootboxen für Minderjährige verbieten",
+          "summary": "Im Entwurf für den Digital Fairness Act will die EU-Kommission Lootboxen in Spielen für Minderjährige verbieten, weil sie „Merkmale von Glücksspiel\" aufweisen. Betroffen wären auch viele Mobile- und Free-to-play-Spiele.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/Digital-Fairness-Act-Was-der-EU-Entwurf-fuer-Lootboxen-in-Spielen-bedeutet-11520914.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "Finanzen & Märkte",
+    "title": "Die VOC: Wie 1602 die erste Aktie und die erste Börse entstanden",
+    "body": "Am 20. März 1602 entstand in Amsterdam die Vereenigde Oostindische Compagnie (VOC), die niederländische Ostindien-Kompanie – und mit ihr, fast nebenbei, die moderne Börse. Um die riskanten, jahrelangen Handelsreisen nach Asien zu finanzieren, bündelten mehrere niederländische Handelskammern ihr Kapital in einem gemeinsamen Unternehmen. Neu war: Jeder konnte sich beteiligen, vom Kaufmann bis zum Handwerker, und erhielt dafür handelbare Anteile – die erste Aktie der Geschichte. Weil die Anteile anders als bei früheren Handelsgesellschaften nicht nach jeder einzelnen Reise ausgezahlt wurden, sondern dauerhaft bestanden, brauchte es einen Ort, an dem man sie weiterverkaufen konnte. So entstand noch im selben Jahr die Amsterdamer Börse, der erste permanente Aktienhandelsplatz der Welt. Die VOC wuchs zur mächtigsten Handelsgesellschaft ihrer Zeit, mit eigener Armee und Kriegsflotte, und zahlte über Jahrzehnte verlässlich Dividenden. Das Grundprinzip von damals – Kapital vieler Investoren bündeln, Risiko teilen, Anteile frei handelbar machen – ist bis heute die Basis jedes Börsengangs.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Niederl%C3%A4ndische_Ostindien-Kompanie",
+      "https://en.wikipedia.org/wiki/Amsterdam_Stock_Exchange"
+    ]
+  }
+}
