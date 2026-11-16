@@ -1,0 +1,273 @@
+{
+  "date": "2026-11-16",
+  "headline": "Nach Jensen Huangs Rücktritt drängt der US-Kongress auf schärfere Chip-Exportregeln, während Anthropics bevorstehender Börsengang die Märkte nervös macht und Bitcoin unter 65.000 Dollar drückt.",
+  "telegram_bullets": [
+    "US-Kongress will nach Nvidia-Spionageskandal Chip-Exportregeln verschärfen, Anthropic-IPO verunsichert die Märkte.",
+    "Bitcoin fällt wegen des nahenden Anthropic-Börsengangs unter 65.000 Dollar, deutsche Großhandelspreise steigen um 8,8 Prozent.",
+    "Hubertus Heil kandidiert als Erster für den SPD-Vorsitz, Streit um Bezahltermine bei Fachärzten hält an.",
+    "Estland schließt ab Dezember die Grenze zu Russland, Iran greift erneut einen US-Stützpunkt in Bahrain an."
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Neue Unterstützer für Berlins Bewerbung um die Weltausstellung",
+          "summary": "Unternehmen, Vereine und Privatpersonen bekennen sich in einer „Zukunftserklärung“ zur Berliner EXPO-Bewerbung. Auch Hotellerie und Landessportbund erhöhen den Druck, dazu kommt ein neuer prominenter Unterstützer.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/checkpoint/bewerbung-fur-weltausstellung-neue-allianz-fur-expo-in-berlin-16287995.html"
+        },
+        {
+          "title": "Potsdams neue Verpackungssteuer sorgt für Ärger im Handel",
+          "summary": "Auf dem großen Weihnachtsmarkt in Potsdam gilt erstmals eine Extra-Steuer auf Wegwerfverpackungen. Händler klagen über die zusätzliche Belastung, die IHK warnt vor einem Standortnachteil.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-blick-auf-den-advent-potsdams-verpackungssteuer-sorgt-fur-arger-am-verkaufstresen-16287951.html"
+        },
+        {
+          "title": "Berlin meldet höchste Diphtherie-Fallzahl seit Beginn der Erfassung",
+          "summary": "Bis Mitte November wurden acht bestätigte Diphtherie-Infektionen gemeldet, so viele wie nie seit 2001. Laut Lageso-Wochenbericht mussten zwei Erkrankte intensiv behandelt werden.",
+          "source": "apotheke adhoc",
+          "url": "https://www.apotheke-adhoc.de/nachrichten/detail/panorama/berlin-rekord-bei-diphtherie-faellen/"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Hubertus Heil kandidiert als Erster für den SPD-Vorsitz",
+          "summary": "Der frühere Arbeitsminister hat seine Kandidatur für die komplette Neuwahl der SPD-Führung im Januar angekündigt und bekommt dafür laut ARD-Hauptstadtstudio bereits Zuspruch aus der Partei.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html"
+        },
+        {
+          "title": "Kassenärzte-Chef erntet scharfe Kritik für Vorstoß zu Bezahlterminen",
+          "summary": "Kassenärzte-Chef Gassen hält schnellere Facharzttermine gegen Aufpreis für wahrscheinlich und sorgt damit für breite Empörung. Ex-Gesundheitsminister Lauterbach warf ihm vor, die Not der Patienten wirtschaftlich auszunutzen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/arzttermine-selbst-zahlen-debatte-100.html"
+        },
+        {
+          "title": "CSU bringt höhere Rentenabschläge für Frührentner ins Spiel",
+          "summary": "Weil die Einsparungen der Regierung die Rentenversicherung stärker treffen als geplant, schlägt die CSU höhere Abschläge bei vorgezogener Rente vor, um die Lücke auszugleichen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html"
+        },
+        {
+          "title": "Rechnungshof-Chef rät zu Milliarden-Einsparungen bei Subventionen",
+          "summary": "In der Debatte um die Gegenfinanzierung geplanter Entlastungen schlägt Bundesrechnungshof-Präsident Heveling vor, unnötige Subventionen abzubauen statt neue Schulden aufzunehmen.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/rechnungshof-praesident-raet-zu-milliarden-einsparungen-bei-subventionen-102.html"
+        },
+        {
+          "title": "128 Staaten beraten in Genf über Regeln für KI-Waffensysteme",
+          "summary": "Ab Montag verhandeln 128 Länder in Genf über ein internationales Regelwerk für autonome Waffen mit künstlicher Intelligenz. Die rasante Entwicklung solcher Systeme alarmiert Regierungen und Friedensaktivisten.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/128-laender-beraten-ab-montag-ueber-beschraenkungen-fuer-ki-waffensysteme-und-killerroboter-104.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "Estland schließt ab Dezember alle Grenzübergänge nach Russland",
+          "summary": "Nach einem mutmaßlich russischen Anschlag auf eine Drohnenfabrik in Viimsi schließt Estland zum 1. Dezember seine drei Grenzübergänge zum Nachbarland.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/estland-russland-grenze-geschlossen-100.html"
+        },
+        {
+          "title": "Hunderttausende protestieren in Prag gegen Rundfunkreform",
+          "summary": "Mehrere Hunderttausend Menschen demonstrierten gegen Pläne zur Neufinanzierung der öffentlich-rechtlichen Medien. Kritiker befürchten, die Regierung könnte die Sender dadurch stärker kontrollieren.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/demo-tschechien-rundfunk-100.html"
+        },
+        {
+          "title": "Zehntausende demonstrieren erneut in Frankreich für mehr Kaufkraft",
+          "summary": "In mehreren Städten gingen erneut Zehntausende für bessere Bildungschancen und höhere Kaufkraft auf die Straße, die Behörden meldeten mehr als 200 Festnahmen.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/frankreich-proteste-248.html"
+        },
+        {
+          "title": "USA sollen Ukraine laut Selenskyj NATO-Beitritt gegen Gebietsverzicht angeboten haben",
+          "summary": "Ein Rückzug aus dem Donbass im Tausch für die NATO-Mitgliedschaft - das haben die USA der Ukraine nahegelegt, so Präsident Selenskyj. Unter Bedingungen würde er darüber ein Referendum abhalten lassen.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html"
+        },
+        {
+          "title": "Millionen Euro Bargeld bei Ex-Minister in Ungarn entdeckt",
+          "summary": "Bei Korruptionsermittlungen gegen den früheren Entwicklungsminister Seszták aus der Orbán-Regierung fanden Ermittler mehr als 17 Millionen Euro, vergraben in Wäldern, Scheunen und Lagerhallen.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/ungarn-bargeldfund-sesztak-100.html"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Papst Leo XIV. kritisiert Umweltzerstörung am Amazonas",
+          "summary": "Kurz vor Abschluss seiner Südamerika-Reise besuchte der Papst indigene Lebenswelten in den Anden und am Amazonas und verurteilte dort deutlich Umweltverschmutzung und soziale Ungleichheit.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/papst-suedamerikareise-100.html"
+        },
+        {
+          "title": "Entscheidende Woche bei der Weltklimakonferenz COP31 beginnt",
+          "summary": "In Antalya kommen diese Woche die Minister zusammen, um die Weltklimakonferenz zum Abschluss zu bringen. Der Erfolg dürfte stark von neuen Geldzusagen der Industriestaaten abhängen.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/cop-klimagipfel-schneider-100.html"
+        },
+        {
+          "title": "Iran greift nach eigenen Angaben erneut US-Stützpunkt in Bahrain an",
+          "summary": "Die iranische Revolutionsgarde habe eine Radaranlage am US-Stützpunkt attackiert, meldeten Staatsmedien. Bahrain erklärte, mehrere Angriffe abgewehrt zu haben - die zweite Eskalation binnen einer Woche.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-revolutionsgarde-angriff-bahrain-100.html"
+        },
+        {
+          "title": "Netanjahu wirbt nach israelischer Wahl um Einheitsregierung mit Eisenkot",
+          "summary": "Die Parlamentswahl in Israel brachte keine klare Mehrheit. Noch-Premier Netanjahu und Oppositionspolitiker Eisenkot suchen nun beide nach Koalitionspartnern - mit unterschiedlichen Vorstellungen.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-einheitsregierung-100.html"
+        },
+        {
+          "title": "Jemen: Regierungstruppen ziehen sich von strategischer Meerenge zurück",
+          "summary": "Im Kampf gegen die Huthi-Miliz ziehen sich die Truppen der international anerkannten jemenitischen Regierung von der wichtigen Meerenge Bab al-Mandab zurück, um die Übergangshauptstadt Aden zu schützen.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/regierungstruppen-ziehen-sich-nach-kaempfen-mit-huthi-miliz-von-meerenge-bab-al-mandab-zurueck-102.html"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Deutsche Großhandelspreise steigen im Oktober um 8,8 Prozent",
+          "summary": "Die Großhandelspreise lagen im Oktober 8,8 Prozent über dem Vorjahreswert, der stärkste Anstieg seit Februar 2023. Ausschlaggebend bleiben vor allem einzelne Rohstoffgruppen.",
+          "source": "Destatis",
+          "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_396_61281.html"
+        },
+        {
+          "title": "Bitcoin fällt im Zuge des Anthropic-Börsengangs unter 65.000 Dollar",
+          "summary": "Bitcoin verliert binnen einer Woche rund 15 Prozent, bei Ether sind die Einbußen noch größer. Ein Investor bringt den Ausverkauf mit dem bevorstehenden Anthropic-Börsengang in Verbindung.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/kryptowaehrungen-neue-schwaechephase-bitcoin-faellt-unter-65.000-dollar/100269990.html"
+        },
+        {
+          "title": "Wall Street schließt uneinheitlich, Erzeugerpreise stützen Zinserwartungen",
+          "summary": "Nach dem Nvidia-Abgang beruhigt sich die Lage an der Wall Street etwas, dafür rückt die Geldpolitik stärker in den Blick. Steigende Großhandelspreise verfestigen die Erwartung an weitere Zinsschritte der Fed.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-wall-street-schliesst-uneinheitlich-erzeugerpreise-steigen-weiter/100269764.html"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "Zahlungsdienstleister Affirm übernimmt Berliner Fintech Ratepay",
+          "summary": "Der US-Anbieter Affirm übernimmt das Berliner Checkout- und Rechnungskauf-Fintech Ratepay. Die Übernahme ist Teil eines Wochenrückblicks mit mehreren größeren DACH-Finanzierungsrunden.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/11/14/agile-robots-sennder-se3-labs-ratepay-redalpine-xentral/"
+        },
+        {
+          "title": "Münchner Robotik-Startup Agile Robots erhält 500 Millionen Euro",
+          "summary": "Mit frischem Kapital von 500 Millionen Euro zählt die Finanzierungsrunde zu den größten der Woche in der DACH-Startup-Szene.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/11/13/cvc-anchor-energy-partners-visionaries-tomorrow-parloa-openai-agent-f/"
+        },
+        {
+          "title": "Celsius doubles down on sports sponsorships to grow its energy drink brand",
+          "summary": "Celsius expanded its 2026 marketing across ESPN College GameDay, F1 and marathons, positioning itself as a functional energy drink rather than a traditional sugary soda alternative.",
+          "source": "Modern Retail",
+          "url": "https://www.modernretail.co/marketing/how-celsius-doubled-down-on-sports-marketing-campaigns-in-2026/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+        },
+        {
+          "title": "Saucony bets on Europe as its next big growth engine",
+          "summary": "The American running brand is opening more flagship stores and building run clubs and races across Europe as it tries to own the region's running market.",
+          "source": "Modern Retail",
+          "url": "https://www.modernretail.co/operations/saucony-sees-europe-as-a-key-growth-engine-as-it-opens-more-international-stores/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+        },
+        {
+          "title": "Family Dollar to pay $63M over unfair-pricing claims",
+          "summary": "The discount retailer settled with state and federal regulators and said it is now focused on strengthening pricing accuracy across its stores.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/family-dollar-63-million-settlement-unfair-pricing-claims-ftc/874605/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "Longevity supplement claims remain a regulatory gray zone",
+          "summary": "The healthy longevity category keeps growing, but making legally sound health claims is still difficult because regulation lags behind product innovation, experts said at last week's Nutra Healthspan Summit in London.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/16/longevity-related-claim-whats-allowed-and-not-allowed/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Vitamin Angels expands micronutrient program in Cambodia",
+          "summary": "The nonprofit will scale up multiple micronutrient supplements for pregnant women in Cambodia, where maternal anemia remains unusually widespread.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/16/vitamin-angels-to-expand-mms-access-in-cambodia-amid-high-maternal-anemia-prevalence/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Beauty shoppers increasingly turn to Trader Joe's for cosmetics",
+          "summary": "The US grocery chain's loyal food fanbase is spilling over into its beauty aisle, drawing shoppers who already trust its colorful branding and affordable prices.",
+          "source": "Glossy",
+          "url": "https://www.glossy.co/beauty/why-beauty-shoppers-are-flocking-to-trader-joes/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+        },
+        {
+          "title": "La Roche-Posay leans into first new US sunscreen filter in 25 years",
+          "summary": "After the FDA approved the ingredient BEMT, long available in Europe, L'Oréal's La Roche-Posay is using it to open a new conversation with American sunscreen consumers.",
+          "source": "Glossy",
+          "url": "https://www.glossy.co/beauty/inside-loreal-owned-la-roche-posays-bemt-launch-its-enabling-us-to-have-a-new-conversation-with-new-consumers/?utm_campaign=glossydis&utm_medium=rss&utm_source=general-rss"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Congress moves to tighten AI chip export rules after Nvidia spy scandal",
+          "summary": "Following the resignation of Nvidia CEO Jensen Huang over a suspected Chinese spy scandal, lawmakers from both parties are pushing new export restrictions and want Nvidia executives to testify before Congress.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china"
+        },
+        {
+          "title": "Anthropic's IPO becomes the next big test for the AI industry",
+          "summary": "Even the most powerful frontier labs must now answer to public markets, with Anthropic's listing seen as a bellwether for how investors value the broader AI boom.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/bc8ac781-9837-46de-b7ed-958886ba43af?syn-25a6b1a6=1"
+        },
+        {
+          "title": "SpaceX fängt erstmals ein Starship nach Orbitalflug wieder auf",
+          "summary": "Nach 22 Stunden in der Erdumlaufbahn kehrte das Raumschiff zum Startplatz zurück und wurde dort von zwei Greifarmen aufgefangen - ein wichtiger Schritt zur Wiederverwendbarkeit.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/SpaceX-faengt-erstmals-Starship-nach-Flug-in-der-Erdumlaufbahn-wieder-auf-11525437.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "title": "Verbraucherschützer entdecken Liste mit über 2.500 Fake-Online-Shops",
+          "summary": "Im Quelltext eines betrügerischen Shops fand die Watchlist Internet über 2.500 weitere Fake-Shop-Domains, rund 1.800 davon seien bereits aktiv und auch für Deutschland relevant.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/liste-fake-shops-1773682/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "E-Commerce & DTC",
+    "title": "Tupperware-Partys: Wie Direktvertrieb zum Gesellschaftsereignis wurde",
+    "body": "1946 erfand der Chemiker Earl Tupper die luftdichte Plastikdose - im Einzelhandel verkaufte sie sich aber kaum, weil Kundinnen den Verschluss ohne Erklärung nicht richtig schließen konnten. Den Durchbruch brachte ab 1948 die Vertriebsmitarbeiterin Brownie Wise: Sie lud Frauen zu Kaffeekränzchen ein, bei denen eine Gastgeberin ihre Freundinnen einlud, eine Verkäuferin die Dosen vorführte und alle gemeinsam testeten, wie gut der Verschluss wirklich hielt. Aus der Vorführung wurde ein soziales Ereignis mit Spielen, Gewinnen und einer Provision für die Gastgeberin - Tupperware zog die Dosen 1951 komplett aus dem Einzelhandel zurück und verkaufte fortan nur noch über diese Heimvorführungen. Das Modell bot vielen Hausfrauen in den USA der 1950er eine der wenigen Möglichkeiten, eigenes Geld zu verdienen, und wurde zum Vorbild für unzählige spätere Direktvertriebsfirmen wie Avon oder Amway. Bis heute zeigt das Prinzip, wie wirkungsvoll persönliche Empfehlung und Gemeinschaft beim Verkauf sein können - ein Gedanke, der sich in heutigen Markenbotschafter- und Empfehlungsprogrammen fortsetzt.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Tupperware",
+      "https://en.wikipedia.org/wiki/Brownie_Wise"
+    ]
+  }
+}
