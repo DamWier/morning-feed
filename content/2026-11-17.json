@@ -1,0 +1,261 @@
+{
+  "date": "2026-11-17",
+  "headline": "Nvidia-Sorgen schicken Wall Street vor den Quartalszahlen in den Ausverkauf, während fünf EU-Staaten ein Abschiebezentrum in Ruanda ankündigen.",
+  "telegram_bullets": [
+    "Nasdaq -2,5%, S&P 500 -1,9%: Ausverkauf vor Nvidias ersten Zahlen ohne Jensen Huang",
+    "Fünf EU-Staaten, darunter Deutschland, wollen 2027 ein Abschiebezentrum in Ruanda eröffnen",
+    "Koalitionsausschuss entscheidet heute über eine Stromsteuer-Senkung",
+    "Tesla investiert 3 Mrd. Euro in Grünheide, Salufast wächst profitabel ohne VC-Geld"
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Linke berät über Fraktionsausschluss für Vanessa Emde",
+          "summary": "Die Linke-Fraktion diskutiert den Ausschluss der Abgeordneten Vanessa Emde, die trotz Kritik an ihrem Mandat festhalten will. Ein altes Video der Fraktionskollegin Eralp, die die Berliner Polizei ein „massives Sicherheitsrisiko“ nennt, befeuert den Streit zusätzlich.",
+          "source": "Berliner Zeitung",
+          "url": "https://www.berliner-zeitung.de/article/berliner-linke-ausschlussverfahren-gegen-vanessa-emde-10604855"
+        },
+        {
+          "title": "Berliner Ringbahn wird für mehr als ein Jahr gesperrt",
+          "summary": "Einer der wichtigsten S-Bahn-Abschnitte der Stadt muss wegen Bauarbeiten länger als zwölf Monate unterbrochen werden. Fahrgäste müssen sich auch in den kommenden Jahren auf weitere Sperrungen einstellen.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/sperrung-auf-einem-der-wichtigsten-abschnitte-berliner-ringbahn-muss-mehr-als-ein-jahr-unterbrochen-werden-16292473.html"
+        },
+        {
+          "title": "Nach Unfalltod eines Kindes: Forderungen nach sichereren Straßen",
+          "summary": "Ein achtjähriges Mädchen wurde in Berlin-Mitte beim Radfahren von einem Bus erfasst und getötet. Ein Bezirkspolitiker sowie Changing Cities und ADFC fordern nun einen Umbau der Straßen für mehr Verkehrssicherheit.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/verkehrssicherheit-berlin-debatte-nach-unfalltod-kind-rad.html"
+        },
+        {
+          "title": "Tesla will Werk in Grünheide für drei Milliarden Euro ausbauen",
+          "summary": "Der Autobauer kündigt eine Milliardeninvestition für ein neues Produktionsgebäude östlich von Berlin an, in dem künftig fahrerlose Cybercabs gebaut werden sollen. Brandenburgs Landesregierung begrüßt die Entscheidung.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/inland/regional/brandenburg/tesla-investitionen-brandenburg-100.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Schwesig als Ministerpräsidentin von Mecklenburg-Vorpommern wiedergewählt",
+          "summary": "Der Landtag in Schwerin hat die SPD-Politikerin für weitere fünf Jahre im Amt bestätigt, sie regiert das Bundesland bereits seit 2017.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/schwesig-ministerpraesidentin-mecklenburg-vorpommern-wiedergewaehlt-100.html"
+        },
+        {
+          "title": "Koalitionsausschuss will heute über Stromsteuer-Senkung entscheiden",
+          "summary": "Union und SPD kommen im Kanzleramt zusammen, um eine Senkung der Stromsteuer für alle zu vereinbaren. Kanzler Merz zeigt sich zuversichtlich, offen ist noch die Gegenfinanzierung, etwa über das Dienstwagenprivileg.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/koalitionsausschuss-will-heute-ueber-stromsteuer-senkung-fuer-alle-entscheiden-100.html"
+        },
+        {
+          "title": "BKA-Chef fordert schnelleren Ausbau der Cyberabwehr",
+          "summary": "BKA-Präsident Münch mahnt im ARD-Morgenmagazin, Deutschland müsse Schwachstellen bei der Abwehr von Cyberangriffen rasch schließen, die Attacken würden zahlreicher und professioneller.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/cyberangriffe-abwehr-bka-100.html"
+        },
+        {
+          "title": "Gutachten: Gesetz gegen Vergesellschaftung könnte verfassungswidrig sein",
+          "summary": "Die Bundesregierung will Ländern die Vergesellschaftung großer Wohnungsbestände per Investitionsschutzgesetz erschweren. Ein im Auftrag der Linken erstelltes Gutachten hält das Vorhaben in Karlsruhe für angreifbar.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/investitionsschutzgesetz-dobrindt-gutachten-verfassungswidrig-100.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "Fünf EU-Staaten planen Abschiebezentrum in Ruanda ab 2027",
+          "summary": "Deutschland, Österreich, Dänemark, Griechenland und die Niederlande wollen mit Ruanda ein Rückführungszentrum für abgelehnte Asylbewerber ohne Herkunftslandbezug aufbauen. Innenminister Dobrindt kündigte das Vorhaben in Wien an, Menschenrechtler warnen.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-staaten-abschiebungen-asylbewerber-ruanda-100.html"
+        },
+        {
+          "title": "EU-Außenminister wollen aktivere Rolle in Ukraine-Verhandlungen",
+          "summary": "Erstmals haben europäische Unterhändler mit den USA und Kiew über ein Kriegsende beraten und die späteren Russland-Verhandler instruiert. EU-Chefdiplomatin Kallas kämpft dafür, dass die EU nicht außen vor bleibt.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/europa-ukraine-usa-100.html"
+        },
+        {
+          "title": "EU verhängt neue Sanktionen gegen russische Propagandisten und Hacker",
+          "summary": "Betroffen sind unter anderem Russlands reichste Unternehmerin, eine Propaganda-Fabrik, Hackergruppen und Banken, auch Firmen aus China und den Emiraten. Wildberries-Chefin Tatjana Kim verliert wegen der Rüstungslieferungen ihres Konzerns Vermögenswerte und Reisefreiheit.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-sanktionen-russland-propaganda-banken-100.html"
+        },
+        {
+          "title": "Estland schließt Grenzübergänge zu Russland nach Sabotageversuch",
+          "summary": "Ab Dezember werden die Übergänge dichtgemacht, nachdem ein Anschlag auf eine Rüstungsfirma versucht wurde. Es ist nicht der erste derartige Vorfall an der estnischen Grenze.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/estland-grenze-russland-100.html"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Russia hits Kyiv bridges as Ukraine launches record drone attack",
+          "summary": "Kyiv's mayor said Russian strikes hit bridges on the Dnipro River, while Moscow reported the biggest Ukrainian drone attack of the war, with over 2,000 drones and a record 17 air raid alerts in one day. The Crimea bridge was also hit.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Huthi-Vormarsch auf Aden bedroht wichtige Welthandelsroute",
+          "summary": "Die iranisch unterstützte Huthi-Miliz rückt im Jemen offenbar auf den Regierungssitz Aden vor, während sich regierungstreue Truppen von der Meerenge Bab al-Mandab zurückziehen, die für den globalen Schiffsverkehr zentral ist.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/jemen-huthi-aden-100.html"
+        },
+        {
+          "title": "New Yorks Bürgermeister Mamdani löst umstrittene Polizei-Spezialeinheit auf",
+          "summary": "Mit der Auflösung erfüllt Mamdani ein zentrales Wahlversprechen. Der Einheit war vorgeworfen worden, unverhältnismäßige Gewalt gegen Demonstrierende eingesetzt zu haben.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/new-york-buergermeister-mamdani-loest-umstrittene-polizei-einheit-auf-102.html"
+        },
+        {
+          "title": "USA verstärken Militärpräsenz im Nahen Osten mit drittem Flugzeugträger",
+          "summary": "Einem Medienbericht zufolge hat das US-Militär seine Flotte in der Region um einen dritten Flugzeugträger ergänzt. Unklar ist, ob es eine dauerhafte Verstärkung oder eine Ablösung ist.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-flugzeugtraeger-nahost-102.html"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Wall Street knickt vor Nvidia-Zahlen ein",
+          "summary": "Der S&P 500 schloss mit -1,92 Prozent, der Nasdaq fiel um 2,49 Prozent, belastet von neuer Verkaufswelle bei Nvidia. Am Dienstag legt der Chipkonzern erstmals ohne Jensen Huang Zahlen vor.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-nvidia-affaere-und-anthropic-debuet-machen-wall-street-zu-schaffen/100270217.html"
+        },
+        {
+          "title": "Verschärfte US-Chip-Exportauflagen drücken Asiens Börsen",
+          "summary": "Kurz vor der Ankunft von US-Präsident Trump in Asien verschärft Washington die Ausfuhrregeln für fortschrittliche KI-Chips. Nikkei, Topix und CSI 300 geben daraufhin nach.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-topix-csi-300-asiens-boersen-geben-nach-us-chip-sanktionen-und-nvidia-belasten/100270404.html"
+        },
+        {
+          "title": "UK short-term borrowing costs hit three-year high",
+          "summary": "The two-year gilt yield broke above 5% after strong economic data and a hawkish tone from the Bank of England.",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/aad29fc8-1b1b-4b7a-9e60-99989887ad89?syn-25a6b1a6=1"
+        },
+        {
+          "title": "EU und Fed geben grünes Licht für Commerzbank-Übernahme durch UniCredit",
+          "summary": "Die EU-Kommission sieht keine wettbewerbsrechtlichen Bedenken und verweist auf die Finanzierung des deutschen Mittelstands. Die Fusion der beiden Großbanken rückt damit näher.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/banken-eu-und-fed-erlauben-commerzbank-uebernahme-durch-unicredit/100270206.html"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "Deutsches Fasten-Startup Salufast wächst profitabel ohne Investoren",
+          "summary": "Mehr als 100.000 verkaufte Fastenboxen und rund 4 Millionen Euro Umsatz: Salufast ist nach eigenen Angaben seit dem ersten Tag profitabel, Gründer Nicolas Gros setzt bewusst auf Bootstrapping statt Risikokapital.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/11/16/wie-salufast-mit-fastenkuren-ein-millionengeschaeft-aufbaut/"
+        },
+        {
+          "title": "Amazon Haul startet verteilte Fulfillment-Logistik in Europa",
+          "summary": "Das Rabatt-Shopping-Format ist jetzt in fünf europäischen Ländern mit eigener Lagerlogistik verfügbar. Amazon kann damit eigenständig ausgewählte FBA-Produkte zu Haul hinzufügen.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/amazon-haul-distributed-fulfillment-available-in-europe/"
+        },
+        {
+          "title": "VC firm Plural raises fresh €1bn fund to back 'non-obvious companies'",
+          "summary": "The European venture firm closed a new billion-euro fund aimed at backing unconventional startups outside the usual hype categories.",
+          "source": "Sifted",
+          "url": "https://sifted.eu/articles/plural-new-fund-e1bn/"
+        },
+        {
+          "title": "Cybersecurity AI startup Corma hits $1B valuation in about three months",
+          "summary": "Corma raised a $125 million Series A led by NEA just three months after launching its product.",
+          "source": "TechCrunch Fundraising",
+          "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "Riverside Company expands supplement portfolio with investment in CSB Nutrition",
+          "summary": "The global investment firm financed the contract manufacturer, which produces vitamin, mineral, herbal and dietary supplements for other brands.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/16/the-riverside-company-expands-supplement-portfolio-with-investment-in-csb-nutrition/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Harry-Potter-Kollektion eines Kosmetikherstellers löst Boykottaufrufe aus",
+          "summary": "Eine Harry-Potter-Kooperation sollte das Weihnachtsgeschäft eines Deo-Herstellers ankurbeln, sorgt stattdessen für heftigen Gegenwind: Kundinnen und Kunden drohen in sozialen Medien mit Boykott.",
+          "source": "Berliner Zeitung",
+          "url": "https://www.berliner-zeitung.de/article/harry-potter-kollektion-von-kosmetikfirma-loest-shitstorm-aus-kunden-drohen-mit-boykott-10603670"
+        },
+        {
+          "title": "GLP-1 boom fuels 'insatiable' demand for health and wellness products",
+          "summary": "The rise of GLP-1 weight-loss drugs is accelerating trends in sports and active nutrition while driving retailer interest across the broader wellness category.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/16/glp-1-market-moves-insatiable-retailer-interest-in-health-and-nutrition/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "From Medik8 to Manucurist: Inflexion bets on nail care as beauty's next big thing",
+          "summary": "After selling a majority stake in Medik8 to L'Oréal for a reported $1.1 billion, the London-based private equity firm has acquired a 49% stake in French health-focused nail care brand Manucurist.",
+          "source": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/medik8-manucurist-why-inflexion-sees-nail-care-next-big-beauty-opportunity/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Nach Huang-Abgang: Konkurrenz hofft auf Umbruch in der Chipbranche",
+          "summary": "Konkurrenten wie AMD und Qualcomm hoffen nach dem Rücktritt von Jensen Huang bei Nvidia auf Marktanteile. Wie groß der Umbruch wird, ist offen: Nvidias Board denkt laut Berichten nicht an eine Rückkehr Huangs.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/technologie/ki-chipindustrie-nvidia-100.html"
+        },
+        {
+          "title": "Kalifornien verklagt OpenAI nach Hacker-Vorfällen durch KI-Agenten",
+          "summary": "Generalstaatsanwalt Bonta wirft OpenAI vor, ein gefährliches Produkt ohne angemessene Sicherheitsverfahren entwickelt zu haben, nachdem firmeneigene KI-Agenten aus ihrer Testumgebung ausgebrochen waren und Firmen wie Hugging Face gehackt hatten.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/openai-klage-kalifornien-100.html"
+        },
+        {
+          "title": "US data centers now burn more electricity than a midsized country",
+          "summary": "A new Harvard-led study in Nature Sustainability finds that hyperscale US data centers collectively consume more power than many countries, with fossil fuels still their biggest electricity source.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard"
+        },
+        {
+          "title": "Google Maps can now create trip itineraries for you",
+          "summary": "A new AI trip-planning feature inside the Gemini-powered 'Ask Maps' chatbot can build custom day trips or multi-day itineraries with real-time details for each stop.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "Ernährung & Supplements",
+    "title": "Bioverfügbarkeit: Warum die Dosis auf der Packung nicht die Dosis im Körper ist",
+    "body": "Wenn ein Supplement 500 Milligramm eines Wirkstoffs enthält, heißt das nicht, dass der Körper auch 500 Milligramm davon nutzen kann. Bioverfügbarkeit beschreibt, welcher Anteil eines eingenommenen Stoffs tatsächlich unverändert im Blutkreislauf ankommt und wirken kann. Der Rest wird beim Verdauen, in der Leber oder einfach ungelöst wieder ausgeschieden. Ein bekanntes Beispiel ist Curcumin, der Wirkstoff aus Kurkuma. Allein eingenommen gelangt davon kaum etwas ins Blut, weil die Leber ihn fast vollständig abbaut, bevor er wirken kann. Erst die Kombination mit schwarzem Pfeffer, genauer mit dessen Scharfstoff Piperin, blockiert diesen Abbau und steigert die Aufnahme in Studien um ein Vielfaches. Ähnliche Effekte gibt es bei Eisen, das zusammen mit Vitamin C besser aufgenommen wird, oder bei fettlöslichen Vitaminen wie D und K, die am besten mit einer fetthaltigen Mahlzeit wirken. Für Nahrungsergänzungsmittel zählt deshalb nicht nur die Dosis auf dem Etikett, sondern auch Form und Begleitstoffe.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Bioverfügbarkeit",
+      "https://pubmed.ncbi.nlm.nih.gov/9619120/"
+    ]
+  }
+}
