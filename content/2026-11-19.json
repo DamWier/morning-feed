@@ -1,0 +1,303 @@
+{
+  "date": "2026-11-19",
+  "headline": "Rund 30 Staats- und Regierungschefs beraten beim Ukraine-Gipfel in Berlin über weitere Hilfe, während Trump, Putin und Xi in Shenzhen erstmals zu dritt tagen und nur eine vage Erklärung vorlegen.",
+  "telegram_bullets": [
+    "Ukraine-Gipfel in Berlin mit rund 30 Staats- und Regierungschefs, parallel historisches, aber vages Dreiertreffen Trump-Putin-Xi in Shenzhen",
+    "Anthropic geht mit 81 Mrd. Dollar an die Nasdaq, größter Börsengang aller Zeiten, danach rutschen US-Börsen leicht ins Minus",
+    "Berlin: Hackerangriff auf Verwaltung weiter Thema, BVV-Wahlen ausgezählt, Vonovia-Chef schlägt Wohnungs-Initiative vor",
+    "BASF stoppt Evonik-Übernahme, IG Metall beginnt Warnstreiks, DPD und GLS bündeln den deutschen Paketmarkt"
+  ],
+  "sections": [
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "BVV-Wahlen 2026: Ergebnisse für alle zwölf Bezirke liegen vor",
+          "summary": "Die Bezirksverordnetenversammlungen in Berlin sind neu gewählt, die Ergebnisse für alle zwölf Bezirke stehen fest. Sie entscheiden mit über die künftige Bezirkspolitik in Verwaltung, Bauen und Verkehr.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/berlin-wahl-2026/bvv/ergebnisse/berlin-bezirksverordnetenversammlung-2026-ergebnisse-kandidierende.html"
+        },
+        {
+          "title": "Hackerangriff auf Berliner Verwaltung: Tagesspiegel sucht Betroffene",
+          "summary": "Im September waren die Daten von über einer halben Million Menschen aus einem Angriff auf die Berliner Verwaltung im Netz veröffentlicht worden. Der Fall zeigt, wie verwundbar die Verwaltung digital weiterhin ist.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/hackerangriff-auf-die-berliner-verwaltung-haben-sie-ihre-daten-im-leak-gefunden-wir-wollen-von-ihnen-horen-16304259.html"
+        },
+        {
+          "title": "RB93 fährt ab Dezember alle zwei Stunden von Cottbus nach Polen",
+          "summary": "Die Regionalbahnlinie zwischen Cottbus und dem polnischen Legnica wird ausgebaut und fährt künftig häufiger. Auch von Berlin aus wird die Zugverbindung nach Polen damit komfortabler.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-zwischen-cottbus-und-polen-rb93-fahrt-ab-dezember-alle-zwei-stunden-nach-legnica-16304153.html"
+        },
+        {
+          "title": "Vonovia-Chef schlägt gemeinsame Initiative für Wohnen in Berlin vor",
+          "summary": "Angesichts verhärteter Fronten in der Debatte um Wohnungsnot und Vergesellschaftung regt der Vonovia-Vorstandschef einen Austausch in anderen Konstellationen an. Er will damit aus der politischen Blockade herauskommen.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-vonovia-chef-schlagt-gemeinsame-initiative-fur-wohnen-in-berlin-vor-16303968.html"
+        },
+        {
+          "title": "Stromnetz in Berlin am Limit: viele Großprojekte ohne volle Leistung",
+          "summary": "Mehr als jedes zweite Großprojekt erhält derzeit nicht die beantragte volle Netzleistung, Berlin konnte im Schnitt nur ein Fünftel der Anfragen erfüllen. Gleichzeitig drängen Tausende Batteriespeicher ins ostdeutsche Netz.",
+          "source": "Berliner Zeitung",
+          "url": "https://www.berliner-zeitung.de/article/stromnetz-in-berlin-am-limit-mehr-als-jedes-zweite-grossprojekt-erhaelt-nicht-die-volle-leistung-10614253"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Knapp 30 Staats- und Regierungschefs beraten in Berlin über Ukraine-Hilfe",
+          "summary": "Im Kanzleramt tagt die „Koalition der Willigen“, auch der ukrainische Präsident Selenskyj ist angereist. Vom Treffen soll ein klares Signal ausgehen, dass die Ukraine weiter auf Unterstützung zählen kann.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/ukraine-hilfe-zahlreiche-staats-und-regierungschefs-tagen-im-kanzleramt-auch-selenskyj-angereist-100.html"
+        },
+        {
+          "title": "BSI warnt vor Cyberangriffen in bisher ungekannter Zahl durch KI",
+          "summary": "Künstliche Intelligenz macht es nach Einschätzung des BSI deutlich leichter, Sicherheitslücken auszunutzen. Viele deutsche Unternehmen seien dagegen nur schlecht geschützt, die Lage sei „angespannt bis kritisch“.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/bsi-sicherheitslage-bericht-100.html"
+        },
+        {
+          "title": "IG Metall startet Warnstreiks, VW fordert Nullrunden bei Tarifverhandlung",
+          "summary": "In der Metall- und Elektroindustrie haben erste Warnstreiks begonnen. Volkswagen will in den anstehenden Verhandlungen Nullrunden für 2027 und 2028 sowie Einschnitte bei der 35-Stunden-Woche durchsetzen.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/erste-warnstreiks-in-metall-und-elektroindustrie-beginnen-100.html"
+        },
+        {
+          "title": "BASF bricht Übernahmepläne für Chemiekonkurrent Evonik ab",
+          "summary": "Der Chemiekonzern gibt seine Übernahmeabsicht auf, nachdem Evonik zuvor zwei unverbindliche Kaufangebote zurückgewiesen hatte. Es ist das Ende einer der größeren deutschen Industrie-Übernahmespekulationen dieses Jahres.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html"
+        },
+        {
+          "title": "Pistorius wirbt in Polen für engere sicherheitspolitische Zusammenarbeit",
+          "summary": "Mit seinem zweitägigen Besuch will der Verteidigungsminister die historisch belastete, aber sicherheitspolitisch enge Beziehung zum Nachbarland stärken. Erste Station seiner Reise ist die Gedenkstätte Auschwitz.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/pistorius-reise-polen-100.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "Europäische Verbündete demonstrieren in Berlin Geschlossenheit zur Ukraine",
+          "summary": "Außenminister Wadephul sieht in dem Treffen der „Koalition der Willigen“ ein klares Signal an Moskau, Friedensgespräche ernst zu nehmen. Zugleich warnte er, die Ukraine müsse auch auf ein Scheitern der Verhandlungen vorbereitet sein.",
+          "source": "DW",
+          "url": "https://www.dw.com/en/wadephul-coalition-of-the-willing-talks-in-berlin-send-strong-signal-to-moscow/a-79990664?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "title": "EU-Kommission bestätigt KI-gestützten Cyberangriff auf eigene Systeme",
+          "summary": "Die Behörde in Brüssel wurde Ziel eines Hackerangriffs, bei dem Künstliche Intelligenz eingesetzt wurde. Ob Daten der mehr als 33.000 Beschäftigten gestohlen wurden, ließ die Kommission offen.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html"
+        },
+        {
+          "title": "Krim-Brücke nach ukrainischem Angriff erneut gesperrt, Putin droht",
+          "summary": "Nach einem weiteren Angriff auf die für Russland strategisch wichtige Brücke ist nun auch der Zugverkehr vorübergehend eingestellt worden. Putin kündigte eine „weit schmerzhaftere“ Antwort an.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html"
+        },
+        {
+          "title": "Dänisches Parlament ratifiziert Grönland-Abkommen mit den USA",
+          "summary": "Nach monatelangen Drohungen Trumps, sich notfalls mit Gewalt Grönland zu sichern, hat das dänische Parlament dem ausgehandelten Abkommen zugestimmt. Es kann damit in Kraft treten.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/parlament-in-daenemark-ratifiziert-groenland-abkommen-100.html"
+        },
+        {
+          "title": "EGMR: Corona-Impfpflichten für bestimmte Berufsgruppen waren rechtens",
+          "summary": "Der Europäische Gerichtshof für Menschenrechte hat entschieden, dass Impfpflichten etwa für Beschäftigte in Krankenhäusern und Rettungsdiensten während der Pandemie menschenrechtskonform waren.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/egmr-corona-impfpflicht-100.html"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Trump, Putin und Xi treffen sich in Shenzhen erstmals zu dritt",
+          "summary": "Nach dem Treffen veröffentlichten die drei eine „Friedenserklärung“ mit vier vagen Punkten, die Ukraine kommt darin nicht vor. Beobachter sehen vor allem ein diplomatisches Schaufenster für Chinas Staatschef Xi.",
+          "source": "FAZ Politik",
+          "url": "https://www.faz.net/aktuell/politik/ausland/trump-beginnt-dreiergipfel-mit-seinen-freunden-xi-und-putin-accg-201695971.html"
+        },
+        {
+          "title": "Internationaler Gerichtshof: Myanmar beging Völkermord an Rohingya",
+          "summary": "Das höchste UN-Gericht in Den Haag urteilt, Myanmars Militärmachthaber hätten einen wesentlichen Teil der muslimischen Minderheit vernichten wollen. Das Land soll Reparationen zahlen und Geflüchteten die Rückkehr ermöglichen.",
+          "source": "DW",
+          "url": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "title": "USA und Venezuela unterzeichnen Militärabkommen",
+          "summary": "Verteidigungsminister Hegseth erklärte, Venezuela sei von der „aggressivsten Bedrohung der Region“ zu einem „kooperativen Sicherheitspartner“ geworden. Zusammen mit einem Ölabkommen solle die Straße von Hormus für die USA „irrelevant“ werden.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/hegseth-usa-venezuela-100.html"
+        },
+        {
+          "title": "UK loses bid to keep Apple backdoor order secret",
+          "summary": "Privacy campaigners hailed the ruling as a win for transparency after British authorities failed to keep their demand for access to encrypted Apple data under wraps.",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/46a5cf3c-a827-477f-b72f-e7415565e729?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Save the Children: Fast jedes vierte Kind lebt in einem Konfliktgebiet",
+          "summary": "Noch nie lebten so viele Kinder und Jugendliche weltweit in Konfliktgebieten. Für 2025 waren es laut einem neuen Bericht der Organisation rund 589 Millionen Betroffene.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/kinder-konfliktgebiete-106.html"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Anthropic startet größten Börsengang der Geschichte, Kurse drehen ins Minus",
+          "summary": "Der Claude-Entwickler wird mit 1,5 Billionen Dollar bewertet und sammelt mehr als 81 Milliarden Dollar ein. Nach starkem Handelsstart rutschen Dow, S&P 500 und Nasdaq dennoch insgesamt ins Minus, während der Dax unter 26.000 Punkte fällt.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dow-jones-sp-500-nasdaq-us-boersen-rutschen-nach-anthropic-ipo-ins-minus/100271288.html"
+        },
+        {
+          "title": "Goldpreis 14 Prozent unter Jahresbeginn, Boden könnte nahen",
+          "summary": "Gold ist so günstig wie zuletzt im September 2025. Eine Analyse kommt zu dem Schluss, der Tiefpunkt könnte bald erreicht sein, offen bleibt aber, wie nachhaltig eine Erholung wäre.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/devisen-rohstoffe/gold-ist-die-schwaeche-des-goldpreises-eine-chance-fuer-anleger/100270306.html"
+        },
+        {
+          "title": "4,7 Millionen Menschen in Deutschland konnten 2025 nicht ausreichend heizen",
+          "summary": "Rund 5,7 Prozent der Bevölkerung gaben laut Destatis an, ihre Wohnung aus finanziellen Gründen nicht angemessen warmhalten zu können. Steigende Energiepreise verschärfen das Problem weiter.",
+          "source": "Destatis",
+          "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_N081_61_63.html"
+        },
+        {
+          "title": "US-Konsumstimmung so schlecht wie seit der Finanzkrise nicht mehr",
+          "summary": "Die wahrgenommene Wirtschaftslage in den USA hat sich laut Gallup zunehmend von den tatsächlichen BIP-Daten entkoppelt, getrieben von Inflationsschock und schwachem Lohnwachstum. Walmart profitiert zugleich davon, dass Kunden gezielter nach günstigen Preisen suchen.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/economic-optimism-plunges-lowest-level-great-recession-gallup-inflation/875058/"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "DPD und GLS bündeln deutschen Paketmarkt in Joint Venture",
+          "summary": "Die beiden Zustelldienste wollen ihre Paketlogistik in Deutschland zusammenlegen und künftig unter der Marke GLS auftreten. Nach mehr als fünfzig Jahren würde die Marke DPD damit vom deutschen Markt verschwinden, vorbehaltlich der Kartellfreigabe.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/dpd-and-gls-joint-venture-to-reshape-german-parcel-market/"
+        },
+        {
+          "title": "Stripes Beauty sammelt 5 Millionen Dollar für Sexual-Wellness-Marke ein",
+          "summary": "Die von Schauspielerin Naomi Watts mitgegründete Menopause- und Wellnessmarke will mit der Finanzierung zum Vorbild Grüns für den Bereich sexuelle Gesundheit werden. Die Runde wurde Mitte November bei der US-Börsenaufsicht angezeigt.",
+          "source": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/stripes-beauty-raises-5m-gruns-sexual-wellness/"
+        },
+        {
+          "title": "Reality-Star Iris Kendall investiert in Selbstbräunungsmarke Dolce Glow",
+          "summary": "Mit ihrer ersten Markenbeteiligung reiht sich die „Love Island USA“-Bekanntheit in den prominenten Investorenkreis von Sephoras meistverkaufter Selbstbräunungsmarke ein. Celebrity-Investments bleiben ein wichtiger Wachstumstreiber im DTC-Beautysegment.",
+          "source": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/love-island-usa-star-iris-kendall-first-brand-investment-dolce-glow/"
+        },
+        {
+          "title": "Targets KI-Shoppingassistent „Ask Target“ treibt erste Umsätze",
+          "summary": "Der Beta-Test des KI-Assistenten zeigt laut CEO Michael Fiddelke frühe Erfolge beim Umsatz. Der Einzelhändler positioniert sich damit im Rennen um KI-gestütztes Shopping zum Weihnachtsgeschäft.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/"
+        },
+        {
+          "title": "Walmarts E-Commerce wächst im dritten Quartal um 23 Prozent",
+          "summary": "Schnellere Lieferzeiten werden für den US-Händler zum entscheidenden Wettbewerbsvorteil gegenüber Amazon. Das Onlinegeschäft entwickelt sich damit deutlich dynamischer als das stationäre Geschäft.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/walmart-ecommerce-boom-fulfillment-speed-q3-earnings/875166/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "Vitamin Shoppe meldet zweistelliges Wachstum bei Creatine und Sportnahrung",
+          "summary": "Nach Angaben des Einzelhändlers legen Creatine, Ready-to-drink-Produkte und unterwegs konsumierbare Nahrungsergänzung weiterhin zweistellig zu. Sportnahrung bleibt damit eine der stärksten Wachstumskategorien im Supplement-Handel.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/19/the-vitamin-shoppe-sees-double-digit-growth-in-sports-nutrition-creatine-and-on-the-go-products/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Supplement-Marken entwickeln Begleitprodukte für GLP-1-Nutzer",
+          "summary": "Weil Abnehmspritzen den Markt für Gewichtsmanagement prägen, bringen Hersteller gezielt Nahrungsergänzung gegen Sättigungsprobleme, Blutzuckerspitzen und Nebenwirkungen der Medikamente auf den Markt.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/19/weight-loss-companion-supplements-target-satiety-spikes-and-side-effects/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Herbalife kooperiert mit Ulster University zu GLP-1-Ernährungsstudie",
+          "summary": "Die zweijährige klinische Studie untersucht, wie Protein- und Mikronährstoff-Shakes Muskelabbau und Nährstoffmangel bei Nutzern von Abnehmspritzen abfedern können. Der Schritt zeigt, wie Supplement-Konzerne versuchen, an den GLP-1-Boom anzuknüpfen.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/19/herbalife-and-ulster-university-to-collaborate-on-glp-1-nutrition-support-research/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "EU-Regulierung rückt in den Fokus, da funktionale Pilze global wachsen",
+          "summary": "Die Kategorie der funktionalen Pilze expandiert rasant in den Mainstream-Markt, bringt Marken beim grenzüberschreitenden Vertrieb in der EU aber zunehmend regulatorische Herausforderungen.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/19/eu-regulations-in-focus-as-functional-mushrooms-go-global/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Studie: Jede zweite Frau nimmt Supplemente gegen Wechseljahresbeschwerden",
+          "summary": "Rund die Hälfte der befragten Frauen griff demnach zu Nahrungsergänzung gegen Perimenopause- und Menopause-Symptome, darunter auch Hautprobleme wie Falten und Trockenheit.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/19/1-in-2-women-take-food-supplements-to-reduce-menopause-effects-study/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Deutsche Telekom steigt mit 100 Millionen Euro bei Mistral ein",
+          "summary": "Das französische KI-Start-up positioniert sich damit stärker als europäischer Gegenentwurf zu OpenAI, Google oder Anthropic. Unternehmen und Behörden sollen über die Beteiligung Zugang zu „vertrauenswürdiger KI aus Europa“ erhalten.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/telekom-mistral-ki-europa-1774412/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "title": "Über ein Jahrzehnt unentdeckte Sicherheitslücke in Nginx gefunden",
+          "summary": "Sicherheitsforscher berichten von einer gravierenden Schwachstelle in der weitverbreiteten Webserver-Software, die über mehr als zehn Jahre unbemerkt blieb. Betroffene Serverbetreiber sollten zeitnah patchen.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/sicherheistluecke-nginx-entdeckt-jahrzehnt-unerkannt-1774356/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "title": "Ethik-Expertin fordert Haftstrafen für Schäden durch KI-Agenten",
+          "summary": "Während Hackern langjährige Haft droht, wird bei Schäden durch autonome KI-Agenten bislang kaum gehaftet, kritisiert IT-Ethikerin Judith Simon. Sie schlägt vor, Verantwortliche stärker persönlich in die Pflicht zu nehmen.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/ki-agenten-haftung-haftstrafe-openai-1774291/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "title": "US-Großstadtschulen prüfen Abschied von Google wegen Gemini-Zwang",
+          "summary": "New York, Los Angeles und Chicago erwägen Alternativen, nachdem Google ankündigte, die Google-Suche für Schulen zu deaktivieren, die dessen KI-Funktionen abschalten wollen. Ab kommendem Jahr lässt sich Search dort nicht mehr ohne Gemini nutzen.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google"
+        },
+        {
+          "title": "Hunderttausende VW-Autos ließen sich 16 Monate per Bluetooth abhören",
+          "summary": "Eine Sicherheitslücke erlaubte es, Mikrofon und Ortungsdienst zahlreicher VW-Fahrzeuge aus der Ferne anzuzapfen. Erst jetzt, 16 Monate nach Entdeckung, bringt VW das entsprechende Update.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/VW-Autos-liessen-sich-16-Monate-per-Bluetooth-belauschen-und-orten-11530844.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "Sport & Körper",
+    "title": "Die Vier-Minuten-Meile: Wie eine psychologische Grenze fiel",
+    "body": "Jahrzehntelang galt eine Meile unter vier Minuten als menschlich unmöglich, Physiologen warnten sogar vor gesundheitlichen Risiken bei dem Versuch. Am 6. Mai 1954 lief der britische Medizinstudent Roger Bannister auf einer Aschenbahn in Oxford 3:59,4 Minuten und durchbrach die Grenze als erster Mensch. Bemerkenswert ist, was danach geschah: Nur 46 Tage später unterbot auch der Australier John Landy die Marke, und innerhalb der folgenden Jahre gelang das Dutzenden weiteren Läufern. Die Leistungsfähigkeit der menschlichen Körper hatte sich nicht plötzlich verändert, aber der Glaube an die eigene Grenze. Sportpsychologen sprechen seitdem vom „Bannister-Effekt“: Sobald ein Rekord als erreichbar bewiesen ist, fällt die mentale Barriere für alle anderen mit. Das Prinzip zeigt sich bis heute, etwa wenn ein einzelner Athlet eine neue Trainingsmethode etabliert und kurz darauf ganze Disziplinen ihr Leistungsniveau anheben. Es ist eine Erinnerung daran, dass Grenzen im Sport oft zuerst im Kopf existieren, bevor sie durch Physiologie bestätigt werden.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Roger_Bannister",
+      "https://en.wikipedia.org/wiki/Four-minute_mile"
+    ]
+  }
+}
