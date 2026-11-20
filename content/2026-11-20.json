@@ -1,0 +1,284 @@
+{
+  "date": "2026-11-20",
+  "headline": "Anthropics Rekord-Börsengang (81 Mrd. Dollar) sorgt für Euphorie und Katzenjammer zugleich: Die Aktie schließt am ersten Handelstag 17 Prozent im Plus, doch ein breiter Tech-Ausverkauf schickt US-, asiatische und deutsche Börsen ins Minus.",
+  "telegram_bullets": [
+    "Anthropic-IPO: größter Börsengang aller Zeiten, Aktie schließt +17%, aber Tech-Ausverkauf drückt Dow, Nasdaq und DAX ins Minus.",
+    "Ukraine-Gipfel in Berlin: „Koalition der Willigen“ sichert Kiew weitere Unterstützung zu, Merz will baldige Russland-Gespräche auf neutralem Boden.",
+    "Bundesweite Jugendproteste heute in Dutzenden Städten, BSI warnt vor KI-gestützten Cyberangriffen in bislang ungekannten Mengen.",
+    "DPD und GLS fusionieren ihr deutsches Paketgeschäft – DPD verschwindet nach über 50 Jahren vom Markt."
+  ],
+  "sections": [
+    {
+      "id": "youtube",
+      "title": "YouTube",
+      "items": [
+        {
+          "title": "Anthropic stellt mit „Code Mode“ neue Agenten-Architektur für Claude vor",
+          "summary": "Laut Videotitel hat Anthropic eine der größten Änderungen am Agenten-Harness von Claude ausgerollt: den sogenannten „Code Mode“. Die Beschreibung selbst liefert kaum inhaltliche Details zur Funktionsweise, sondern verweist vor allem auf einen kostenlosen PDF-Guide und die eigenen Tools und Partnerlinks des Kanals. Erkennbar ist nur, dass es um eine neue Arbeitsweise geht, bei der Claude offenbar stärker über Code statt über einzelne Werkzeugaufrufe gesteuert wird. Für Details müsste das verlinkte Guide-PDF oder das Video selbst herangezogen werden. (aus der Videobeschreibung)",
+          "source": "RoboNuggets",
+          "url": "https://www.youtube.com/watch?v=Qf0EzOEall8"
+        }
+      ]
+    },
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Weltrekord-Windrad in Schipkau geht mit Lasershow ans Netz",
+          "summary": "In der Lausitz, auf früherem Braunkohle-Gebiet, ist das mit 365 Metern höchste Windrad der Welt offiziell in Betrieb gegangen. Das Projekt soll als Pilot für weitere Höhenwindräder in der Region dienen.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/brandenburg-luebbenau-umspannwerk-ragow-bauantrag-grossspeicher/brandenburg-schipkau-windrad-in-betrieb.html"
+        },
+        {
+          "title": "Deutsch-ukrainisches Wirtschaftsforum tagt in Berlin",
+          "summary": "In Berlin findet heute ein deutsch-ukrainisches Wirtschaftsforum statt, bei dem neue Kooperationsvereinbarungen zwischen Unternehmen beider Länder geplant sind.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/deutsch-ukrainisches-wirtschaftsforum-in-berlin-100.html"
+        },
+        {
+          "title": "Emir von Katar zu Staatsbesuch in Berlin erwartet",
+          "summary": "Tamim bin Hamad Al Thani wird heute mit militärischen Ehren in Berlin empfangen. Der Staatsbesuch unterstreicht die wirtschaftlichen und politischen Beziehungen zwischen Deutschland und Katar.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/emir-von-katar-zu-staatsbesuch-erwartet-empfang-mit-militaerischen-ehren-100.html"
+        },
+        {
+          "title": "RE1 zwischen Fürstenwalde und Berlin drei Wochen unterbrochen",
+          "summary": "Auf der Strecke zwischen Fürstenwalde und Erkner fällt der Regionalexpress RE1 bis Anfang Dezember aus. Pendler aus Brandenburg müssen sich auf Einschränkungen einstellen.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/re-1-zug-ausfaelle-fuerstenwalde-erkner-brandenburg-november-dezember.html"
+        },
+        {
+          "title": "Weihnachtsbeleuchtung kehrt Unter den Linden zurück",
+          "summary": "Nach zwei Jahren ohne Lichter an der Berliner Prachtstraße hat Bezirk Mitte eine mündliche Sponsoren-Zusage erhalten. Bürgermeisterin Remlinger hofft nun auf eine langfristige Finanzierung.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/bezirk-hat-sponsoren-gefunden-am-boulevard-unter-den-linden-soll-es-wieder-eine-weihnachtsbeleuchtung-geben-16304732.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Bundesweite Jugendproteste in Dutzenden Städten angekündigt",
+          "summary": "Nach den Protesten Ende Oktober ruft „Gen Z regelt“ erneut bundesweit zu Demonstrationen für bessere Zukunftschancen junger Menschen auf, unterstützt von Bundesschülerkonferenz und Fridays For Future. Bildungsministerin Prien zeigte sich verständnisvoll.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-110.html"
+        },
+        {
+          "title": "Merz fordert nach Berliner Ukraine-Gipfel baldige Russland-Gespräche",
+          "summary": "Die „Koalition der Willigen“ sicherte der Ukraine in Berlin weitere Unterstützung „so lange wie nötig“ zu. Kanzler Merz rief Putin zur Waffenniederlegung auf und betonte, ein Frieden sei nur mit europäischer Beteiligung möglich.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html"
+        },
+        {
+          "title": "BSI warnt vor KI-gestützten Cyberangriffen in neuen Dimensionen",
+          "summary": "Sicherheitslücken lassen sich mit KI deutlich schneller ausnutzen, warnt das Bundesamt für Sicherheit in der Informationstechnik. Viele Unternehmen seien gegen Angriffe in bislang ungekannten Mengen und Geschwindigkeiten schlecht geschützt.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/bsi-sicherheitslage-bericht-100.html"
+        },
+        {
+          "title": "Niedersachsens Justizministerin Wahlmann tritt zurück",
+          "summary": "Nach massiven Vorwürfen hat die SPD-Politikerin Kathrin Wahlmann ihren Rücktritt als niedersächsische Justizministerin erklärt.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/nach-massiven-vorwuerfen-justizministerin-wahlmann-spd-tritt-zurueck-100.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "EU-UK-Gipfel bringt Reset-Abkommen und Jugendmobilität",
+          "summary": "Nach über zwei Jahren Verhandlungen treffen sich die Regierungschefs in Brüssel, um neue Abkommen zu Jugendmobilität, Lebensmittelhandel und Emissionen zu unterzeichnen. Es ist der bisher größte Annäherungsschritt zwischen London und Brüssel seit dem Brexit.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "KI-Tool Artex offenbar Ursache für Cyberangriff auf EU-Kommission",
+          "summary": "Ein Cyberangriff legte die Personalsysteme der EU-Kommission in Brüssel tagelang lahm. Als Ursache gilt der Missbrauch des KI-Tools Artex, vor dem die europäische Cybersicherheitsbehörde CERT-EU zuvor gewarnt hatte.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/Cyberangriff-auf-EU-Kommission-Verdacht-auf-KI-Tool-Artex-tagelange-Ausfaelle-11531596.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "title": "Pistorius will Militärpakt mit Polen ausbauen",
+          "summary": "Patriot-Systeme, Eurofighter-Jets und gemeinsame Verteidigungsstellungen: Deutschland und Polen arbeiten bereits militärisch zusammen und wollen diese Zusammenarbeit nun vertiefen.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/polen-deutschland-militaer-100.html"
+        },
+        {
+          "title": "Costa will Big-Tech-Steuer für EU-Budget nach Trumps Wahlniederlage",
+          "summary": "EU-Ratspräsident Costa sieht nach den schwachen Midterm-Ergebnissen der US-Republikaner neue Chancen für eine Digitalsteuer auf große Tech-Konzerne, um das EU-Budget zu stärken.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/antonio-costa-tax-big-tech-eu-budget-trump-midterms/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Dreiergipfel von Xi, Trump und Putin bleibt ohne konkrete Ergebnisse",
+          "summary": "Beim Gipfel in Shenzhen gab es vor allem schöne Bilder und gegenseitige Schmeicheleien, aber kaum konkrete Politik. China gelang es dennoch, ein Thema zu setzen, das vor allem seinen eigenen Interessen und denen Russlands dient.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html"
+        },
+        {
+          "title": "Internationaler Gerichtshof: Myanmar verantwortlich für Völkermord an Rohingya",
+          "summary": "Das höchste UN-Gericht urteilte, Myanmar habe einen „wesentlichen Teil“ der Rohingya-Minderheit vernichten wollen. Es ist das erste Mal, dass der IGH einen Staat offiziell für Völkermord verantwortlich erklärt.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/urteil-voelkermord-rohingya-myanmar-100.html"
+        },
+        {
+          "title": "Haitianische Polizei tötet 34 mutmaßliche Bandenmitglieder",
+          "summary": "Der Staats- und Sicherheitskollaps in Haiti hält an: Bei einem Polizeieinsatz wurden nach offiziellen Angaben 34 mutmaßliche Mitglieder bewaffneter Banden getötet.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/dramatischer-staats-und-sicherheitskollaps-haelt-an-haitianische-polizei-toetet-34-mutmassliche-band-100.html"
+        },
+        {
+          "title": "Trump erzielt Teilerfolg bei Milliardenklage gegen New York Times",
+          "summary": "Ein US-Gericht hat Trumps 15-Milliarden-Dollar-Verleumdungsklage gegen die „New York Times“ und den Verlag Penguin Random House grundsätzlich zugelassen.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/teilerfolg-fuer-trump-milliardenklage-gegen-new-york-times-grundsaetzlich-zugelassen-100.html"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Anthropic-Börsengang: größter IPO aller Zeiten, Aktie schließt 17 Prozent im Plus",
+          "summary": "Anthropic hat beim Börsengang 81 Milliarden Dollar eingesammelt. Nach anfänglichen Kursgewinnen von über 30 Prozent ebbte die Euphorie im Handelsverlauf merklich ab, am Ende stand aber dennoch ein Plus von 17 Prozent zum Handelsschluss.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/aktien/boersengang-anthropic-schliesst-17-prozent-im-plus-kursrueckgang-im-handelsverlauf/100270027.html"
+        },
+        {
+          "title": "US-Börsen schließen trotz Anthropic-Euphorie deutlich im Minus",
+          "summary": "S&P 500 und Nasdaq fielen um mehr als 2 Prozent, der DAX schloss auf dem tiefsten Stand seit über drei Wochen. Ein breiter Tech-Ausverkauf überdeckte den Rekord-Börsengang von Anthropic.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html"
+        },
+        {
+          "title": "IG Metall startet 24-Stunden-Warnstreiks in der Tarifrunde",
+          "summary": "Seit Mitternacht stehen bundesweit Betriebe der Metall- und Elektroindustrie einen Tag lang still. Hintergrund ist der Tarifkonflikt, bei dem unter anderem Volkswagen für zwei Jahre Nullrunden durchsetzen will.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-126.html"
+        },
+        {
+          "title": "BASF bläst geplante Evonik-Übernahme ab",
+          "summary": "Der Chemiekonzern BASF gibt seine Übernahmepläne für Konkurrent Evonik auf, nachdem Evonik zuvor zwei unverbindliche Kaufangebote zurückgewiesen hatte.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "DPD und GLS fusionieren Paketgeschäft – DPD verschwindet aus Deutschland",
+          "summary": "GLS und DPD wollen ihre Paketzustellung in Deutschland in einem Joint Venture zusammenlegen. Vorbehaltlich der Kartellfreigabe läuft das Geschäft künftig unter der Marke GLS weiter, DPD verschwindet nach mehr als 50 Jahren vom deutschen Markt.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/dpd-and-gls-joint-venture-to-reshape-german-parcel-market/"
+        },
+        {
+          "title": "Deutsche Telekom investiert 100 Millionen Euro in KI-Start-up Mistral",
+          "summary": "Die Telekom beteiligt sich am französischen KI-Unternehmen Mistral, das sich als europäische Antwort auf OpenAI und Anthropic positioniert. Unternehmen und Behörden sollen künftig Zugang zu „vertrauenswürdiger KI aus Europa“ erhalten.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/telekom-mistral-ki-europa-1774412/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "title": "Instagram erlaubt Creators Amazon-Affiliate-Links direkt in Reels",
+          "summary": "Creator können künftig bis zu 30 Produkte pro Reel beziehungsweise 20 pro Post verlinken und Provisionen verdienen, ohne dass Instagram etwas davon einbehält. Für DTC-Marken öffnet das einen weiteren Vertriebskanal über Creator-Content.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/instagram-creators-add-amazon-affiliate-links-reels-posts/874889/"
+        },
+        {
+          "title": "Sportswear-Marke On baut US-Einzelhandelspräsenz deutlich aus",
+          "summary": "Der Schweizer Sportswear-Hersteller On eröffnet 2026 allein in den USA neun weitere eigene Stores und setzt verstärkt auf den stationären Handel, um amerikanische Kundschaft zu gewinnen.",
+          "source": "Modern Retail",
+          "url": "https://www.modernretail.co/operations/on-is-making-a-bigger-play-for-american-shoppers-one-store-at-a-time/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "The Vitamin Shoppe verzeichnet zweistelliges Wachstum bei Sportnahrung",
+          "summary": "Der US-Händler meldet anhaltend starkes Wachstum bei Kreatin, Sportnahrung sowie Ready-to-drink-Produkten und Artikeln für unterwegs, so die SVP für Merchandising Jack Gayton.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/19/the-vitamin-shoppe-sees-double-digit-growth-in-sports-nutrition-creatine-and-on-the-go-products/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Herbalife und Ulster University erforschen Begleitnährung zu GLP-1-Medikamenten",
+          "summary": "In einer zweijährigen klinischen Studie untersuchen beide Partner, wie Protein- und Mikronährstoff-Shakes Menschen unter GLP-1-Abnehmmedikamenten vor Muskelverlust und Nährstoffmangel schützen können.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/19/herbalife-and-ulster-university-to-collaborate-on-glp-1-nutrition-support-research/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Funktionale Pilze wachsen global – EU-Regulierung rückt in den Fokus",
+          "summary": "Die Kategorie funktionaler Pilze gewinnt in der Mainstream-Ernährung weltweit an Bedeutung. Für Marken, die über Grenzen hinweg expandieren wollen, entstehen dadurch neue regulatorische Herausforderungen, insbesondere in der EU.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/19/eu-regulations-in-focus-as-functional-mushrooms-go-global/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Studie: Jede zweite Frau nimmt Supplements gegen Wechseljahresbeschwerden",
+          "summary": "Laut einer von Galderma finanzierten Umfrage greift rund die Hälfte der Frauen in der Peri- und Menopause zu Nahrungsergänzungsmitteln, auch gegen Hautprobleme wie Falten und Trockenheit.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/19/1-in-2-women-take-food-supplements-to-reduce-menopause-effects-study/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Gen Z feiert Retro-Kosmetik im Look der Großelterngeneration",
+          "summary": "Bodylotion im Sechziger-Jahre-Design und Seifen auf Häkeldeckchen: Auf Instagram inszeniert eine junge Zielgruppe Kosmetik im Stil vergangener Jahrzehnte. Hinter dem Trend steckt mehr als reine Nostalgie, sondern ein bewusstes Gegenprogramm zu steriler Markenästhetik.",
+          "source": "Berliner Zeitung",
+          "url": "https://www.berliner-zeitung.de/article/gen-z-retro-kosmetik-vintage-verpackungen-10615230"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Claude löst zwei offene Probleme der Schwarzen-Loch-Physik",
+          "summary": "Anthropic berichtet, dass sein Modell Claude zwei bislang ungelöste physikalische Probleme rund um Schwarze Löcher bearbeitet hat. Der Beitrag avancierte mit über 1000 Punkten zur meistdiskutierten Geschichte auf Hacker News.",
+          "source": "Hacker News 300+",
+          "url": "https://www.anthropic.com/research/claude-black-hole-physics"
+        },
+        {
+          "title": "Apple stellt Entwickler für einen eigenen KI-Agenten ein",
+          "summary": "Laut einer Stellenausschreibung baut Apple an einem eigenen agentischen KI-Assistenten, der im Web browsen, über Apps hinweg arbeiten, Code schreiben und Dienste aufrufen können soll.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing"
+        },
+        {
+          "title": "Google bringt KI-Chats direkt auf die Suchmaschinen-Startseite",
+          "summary": "Google aktualisiert seine Startseite um eine ausklappbare Seitenleiste für KI-Chats, über die Nutzer frühere Unterhaltungen direkt fortsetzen können, ohne erst in eine separate App zu wechseln.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/tech/1038059/google-search-homepage-ai-chats"
+        },
+        {
+          "title": "Gravierende Sicherheitslücke in Nginx über ein Jahrzehnt unentdeckt",
+          "summary": "Sicherheitsforscher haben in der weitverbreiteten Webserver-Software Nginx eine schwere Schwachstelle gefunden, die nach ihren Angaben seit mehr als zehn Jahren unbemerkt bestand.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/sicherheistluecke-nginx-entdeckt-jahrzehnt-unerkannt-1774356/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "AI & Technik",
+    "title": "Moravecs Paradox: Warum Schach leicht und Greifen schwer ist für KI",
+    "body": "In den 1980er-Jahren fiel Forschern wie Hans Moravec und Marvin Minsky ein scheinbar widersinniges Muster auf: Computer lösten Aufgaben, die Menschen als schwer und intellektuell gelten, oft erstaunlich leicht, scheiterten aber an Dingen, die ein einjähriges Kind mühelos beherrscht, etwa Sehen, Greifen oder Gehen. Dieses Muster heißt heute Moravecs Paradox. Der Grund liegt in der Evolution: Wahrnehmung und Bewegung wurden über hunderte Millionen Jahre optimiert und laufen bei uns unbewusst und extrem effizient ab, während abstraktes Denken wie Schach oder Mathematik evolutionär neu und bewusst mühsam ist, also leichter in Regeln zu fassen. So schlug der Schachcomputer Deep Blue 1997 den Weltmeister Garry Kasparov, doch Roboterhände taten sich noch Jahrzehnte später schwer, ein Ei zu greifen, ohne es zu zerdrücken. Erst durch maschinelles Lernen mit riesigen Datenmengen holt die Robotik hier langsam auf, während die reine Rechenleistung für Schach oder Sprache längst menschliche Fähigkeiten übertrifft.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Moravecsches_Paradoxon"
+    ]
+  }
+}
