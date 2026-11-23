@@ -1,0 +1,309 @@
+{
+ "date": "2026-11-23",
+ "headline": "Der KI-Ausverkauf an den Börsen weitet sich aus: Der Nasdaq fällt an einem Tag um mehr als fünf Prozent, Nvidia hat binnen sechs Wochen fast die Hälfte seines Börsenwerts verloren.",
+ "telegram_bullets": [
+  "KI-Ausverkauf an den Börsen: Nasdaq -5,3%, DAX -2,6%, Nvidia halbiert in 6 Wochen, Anthropic-Aktie -10% am zweiten Handelstag.",
+  "COP31 scheitert nach über 30 Stunden Verlängerung ohne Abschlusserklärung – längste Klimakonferenz der Geschichte.",
+  "Berlin: Warnstreiks bei Mercedes, Klinikbrand in Lichtenberg, Linksfraktion entscheidet über Ausschluss von Vanessa Emde.",
+  "Tagesthema: Die Geisterbahnhöfe der Berliner U-Bahn."
+ ],
+ "sections": [
+  {
+   "id": "youtube",
+   "title": "YouTube",
+   "items": [
+    {
+     "title": "AI-Buildout wird durch Midterm-Wahlen zum Wirtschaftsrisiko",
+     "summary": "CasuallyFinance erklärt, dass KI-Investitionen laut US-Finanzministerium fast 30 Prozent des US-BIP-Wachstums der ersten drei Quartale 2026 ausmachten – größtenteils schuldenfinanziert. Nach den Midterms, bei denen Kandidaten mit einem Baustopp für Rechenzentren punkteten, feierte die Börse zunächst, verlor am nächsten Tag aber 3 Billionen Dollar. Goldman Sachs schätzt, dass mögliche Baustopps bis zu 45 Prozent der geplanten US-Rechenzentrumskapazität betreffen könnten. Eine große Bank hat bereits rund 500 Millionen Dollar an Rechenzentrums-Krediten zum Verkauf angeboten. (aus der Videobeschreibung)",
+     "source": "CasuallyFinance",
+     "url": "https://www.youtube.com/watch?v=BbrOh3Er1Hc"
+    },
+    {
+     "title": "Scheinbar gesunde Gewerbeimmobilien verstecken die nächste Immobilienkrise",
+     "summary": "Am Beispiel des Sears Tower in Chicago zeigt CasuallyFinance, wie tief US-Gewerbeimmobilien unter Wasser stehen können: 2018 noch mit 1,8 Milliarden Dollar bewertet, liegt die Bewertung inzwischen bei nur noch 1 Milliarde Dollar – bei Schulden von rund 1,3 Milliarden Dollar. Die Gläubiger müssen entweder jetzt 300 Millionen Dollar Verlust realisieren oder später einen unbekannten. Das Gebäude ist zu 84 Prozent vermietet und gewinnt weiter Mieter hinzu, ist aber trotzdem defizitär – wie weite Teile der Branche. (aus der Videobeschreibung)",
+     "source": "CasuallyFinance",
+     "url": "https://www.youtube.com/watch?v=7C_uLBLNkpg"
+    },
+    {
+     "title": "Sieben neue Claude-Funktionen von Anthropic ohne Detailangaben",
+     "summary": "RoboNuggets kündigt im Titel sieben neue, große Claude-Funktionen von Anthropic an, die in 15 Minuten erklärt werden sollen. Die Videobeschreibung selbst listet die Funktionen aber nicht auf, sondern enthält nur Links zu Sponsoren und einem kostenlosen PDF-Guide. Welche sieben Funktionen konkret gemeint sind, lässt sich daraus nicht entnehmen. (aus der Videobeschreibung)",
+     "source": "RoboNuggets",
+     "url": "https://www.youtube.com/watch?v=OMfU5iq8Eik"
+    }
+   ]
+  },
+  {
+   "id": "berlin",
+   "title": "Berlin",
+   "items": [
+    {
+     "title": "IG Metall ruft zu Warnstreiks bei Mercedes in Berlin auf",
+     "summary": "Die IG Metall hat die Beschäftigten der Mercedes-Werke in Marienfelde und Ludwigsfelde zu Warnstreiks aufgerufen. Die Aktion ist Teil der bundesweit eskalierenden Tarifrunde in der Metall- und Elektroindustrie.",
+     "source": "rbb24",
+     "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-brandenburg-warnstreiks-metall-elektroindustrie-mercedes.html"
+    },
+    {
+     "title": "Brand in Klinik Berlin-Lichtenberg: 15 Verletzte, Gebäude geräumt",
+     "summary": "Bei einem Feuer in einem Krankenhaus in Berlin-Lichtenberg wurden am Sonntagabend 15 Menschen verletzt, zwei davon schwer. Die Feuerwehr löschte den Brand, musste das Gebäude aber vollständig evakuieren.",
+     "source": "Tagesspiegel Berlin",
+     "url": "https://www.tagesspiegel.de/berlin/dpa-15-menschen-verletzt-krankenhaus-in-berlin-lichtenberg-musst-wegen-rauchs-komplett-geraumt-werden-16314515.html"
+    },
+    {
+     "title": "Berliner Linksfraktion entscheidet über Ausschluss von Vanessa Emde",
+     "summary": "Am Dienstag stimmt die Linksfraktion im Abgeordnetenhaus darüber ab, ob sie die Neuköllner Abgeordnete Vanessa Emde ausschließt. Der Streit um sie reicht weit über Berlin hinaus in die gesamte Linkspartei.",
+     "source": "FAZ Politik",
+     "url": "https://www.faz.net/aktuell/politik/inland/vanessa-emde-eine-galionsfigur-fuer-teile-der-linkspartei-accg-201706022.html"
+    },
+    {
+     "title": "Verbände fordern Böllerverbot für Berlin an Silvester",
+     "summary": "Jedes Jahr werden in der Silvesternacht Dutzende Menschen durch Böller schwer verletzt und in Berliner Kliniken behandelt. Mehrere Verbände fordern deshalb erneut ein Böllerverbot zum Jahreswechsel.",
+     "source": "rbb24",
+     "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-silvester-boellerverbot-boellern-verbaende-krankenhaus-feuerwehr-polizei.html"
+    }
+   ]
+  },
+  {
+   "id": "germany",
+   "title": "Deutschland",
+   "items": [
+    {
+     "title": "Justizministerin will Femizide eindeutig als Mord einstufen",
+     "summary": "Justizministerin Hubig hat einen Gesetzentwurf vorgelegt, der Tötungen von Frauen aus geschlechtsspezifischen Motiven konsequent als Mord erfassen soll. Die Union reagiert bislang zurückhaltend auf den Vorstoß.",
+     "source": "tagesschau Inland",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html"
+    },
+    {
+     "title": "NATO berät über russische Luftraumverletzungen über Polen",
+     "summary": "Die 32 NATO-Staaten kommen in Brüssel zusammen, um über jüngste Verletzungen des polnischen Luftraums durch Russland zu beraten. Die Vorfälle verschärfen die Spannungen zwischen dem Bündnis und Moskau.",
+     "source": "Deutschlandfunk",
+     "url": "https://www.deutschlandfunk.de/beratungen-ueber-verletzungen-des-polnischen-luftraums-durch-russland-102.html"
+    },
+    {
+     "title": "IG Metall weitet Warnstreiks in der Metall- und Elektroindustrie aus",
+     "summary": "Nach bundesweiten Arbeitsniederlegungen am Freitag ruft die IG Metall Küste zu weiteren 24-Stunden-Streiks auf. Die Tarifrunde in der Metall- und Elektroindustrie bleibt festgefahren.",
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html"
+    },
+    {
+     "title": "SPD lehnt Abbau der kalten Progression ohne Gegenfinanzierung ab",
+     "summary": "Im Haushaltsstreit weist der SPD-Haushaltspolitiker Rudolph die Forderung zurück, die kalte Progression bei der Einkommensteuer ohne dauerhafte Gegenfinanzierung auszugleichen.",
+     "source": "Deutschlandfunk",
+     "url": "https://www.deutschlandfunk.de/spd-kein-abbau-der-kalten-progression-ohne-dauerhafte-gegenfinanzierung-102.html"
+    },
+    {
+     "title": "Erneut Zehntausende Jugendliche bei \"Gen Z regelt\"-Protesten",
+     "summary": "Bundesweit sind erneut Zehntausende junge Menschen für bessere Bildung, mehr Klimaschutz und gegen eine mögliche Wehrpflicht auf die Straße gegangen. Anders als an Halloween blieb eine größere Eskalation diesmal aus.",
+     "source": "tagesschau Inland",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/jugendproteste-krawalle-gen-z-100.html"
+    }
+   ]
+  },
+  {
+   "id": "europe",
+   "title": "Europa",
+   "items": [
+    {
+     "title": "Russischer Angriff auf Wohnhaus bei Kiew tötet mindestens zehn Menschen",
+     "summary": "In der Nacht zu Sonntag griff das russische Militär ein Mehrfamilienhaus in der Region Kiew an. Mindestens zehn Menschen starben, Rettungskräfte suchen weiter nach Vermissten.",
+     "source": "tagesschau Europa",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html"
+    },
+    {
+     "title": "Drohne trifft russischen Frachter in der Ostsee vor Finnland",
+     "summary": "Der russische Frachter \"Sparta II\" wurde vor Finnland von einer Drohne getroffen und geriet in Brand. Finnlands Regierungschefin warnte, der Krieg schwappe damit in die unmittelbare Nachbarschaft des Landes.",
+     "source": "tagesschau Europa",
+     "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-102.html"
+    },
+    {
+     "title": "Dänemark weist russischen Diplomaten wegen Anschlagsplans aus",
+     "summary": "Russland soll auf dänischem Boden einen Anschlag auf einen ukrainisch-amerikanischen Rapper geplant haben. Dänemark reagierte mit der Ausweisung eines russischen Diplomaten, zwei Verdächtige sitzen in Untersuchungshaft.",
+     "source": "tagesschau Europa",
+     "url": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html"
+    },
+    {
+     "title": "Costa legt Kompromiss im Streit um EU-Haushalt vor",
+     "summary": "EU-Ratspräsident António Costa hat einen neuen Vorschlag für den siebenjährigen EU-Haushalt vorgelegt. Mehrere Regierungen kritisieren, der Plan neige zu stark zugunsten Frankreichs.",
+     "source": "Politico Europe",
+     "url": "https://www.politico.eu/article/antonio-costa-emmanuel-macron-early-christmas-present-eu-budget/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+    },
+    {
+     "title": "Tausende demonstrieren in Istanbul für Pressefreiheit",
+     "summary": "Nach der Zwangsverwaltung des regierungskritischen Senders Sözcü TV und der Schließung mehrerer oppositionsnaher Medien gingen in Istanbul Tausende Menschen auf die Straße.",
+     "source": "tagesschau Europa",
+     "url": "https://www.tagesschau.de/ausland/europa/tuerkei-proteste-pressefreiheit-100.html"
+    }
+   ]
+  },
+  {
+   "id": "world",
+   "title": "Welt",
+   "items": [
+    {
+     "title": "Weltklimakonferenz COP31 scheitert ohne Abschlusserklärung",
+     "summary": "Nach mehr als 30 Stunden Verlängerung endete die längste Klimakonferenz der Geschichte ohne Einigung auf ein klares Bekenntnis zur Abkehr von fossilen Energien. Die Bundesregierung wirft Ölstaaten wie Saudi-Arabien und Russland eine Blockade vor.",
+     "source": "Deutschlandfunk",
+     "url": "https://www.deutschlandfunk.de/nach-scheitern-bundesregierung-wirft-oelstaaten-blockade-der-klimakonferenz-vor-102.html"
+    },
+    {
+     "title": "Demokraten erzielen größte Mehrheit im US-Repräsentantenhaus seit 1992",
+     "summary": "Nach einer weiteren gewonnenen Nachwahl in North Carolina stellen die Demokraten ab Januar mindestens 258 Abgeordnete im US-Repräsentantenhaus. Einen so großen Vorsprung hatten sie zuletzt unter Bill Clinton.",
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/amerika/demokraten-mehrheit-repraesentantenhaus-100.html"
+    },
+    {
+     "title": "Drohnenangriff auf russisches Kriegsschiff im libyschen Bengasi",
+     "summary": "In einem Hafen der ostlibyschen Stadt Bengasi explodierte ein russisches Kriegsschiff, das zuvor zum Auftanken gestoppt hatte. Die Behörden gehen von einem Drohnenangriff aus und machen Berichten zufolge die Ukraine verantwortlich.",
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html"
+    },
+    {
+     "title": "Drones hit UN building and residential area in Khartoum",
+     "summary": "Drones struck a UN building in a residential part of Khartoum, Sudan, during the ongoing conflict. The UN said it was unacceptable that humanitarian workers were exposed to such danger.",
+     "source": "DW",
+     "url": "https://www.dw.com/en/sudan-drones-hit-un-building-residential-area-in-khartoum/a-80015122?maca=en-rss-en-all-1573-rdf"
+    },
+    {
+     "title": "UN-Konferenz zu \"Killerrobotern\" endet nur mit Minimalkompromiss",
+     "summary": "Bei der UN-Konferenz in Genf einigten sich die Staaten lediglich darauf, weiter über Regeln für autonome Waffensysteme zu diskutieren. Vor allem Russland und die USA bremsten verbindliche Vorgaben.",
+     "source": "tagesschau Europa",
+     "url": "https://www.tagesschau.de/ausland/europa/regeln-fuer-killerroboter-100.html"
+    }
+   ]
+  },
+  {
+   "id": "markets",
+   "title": "Märkte & Makro",
+   "items": [
+    {
+     "title": "KI-Ausverkauf erfasst die Weltbörsen",
+     "summary": "Der Nasdaq verlor binnen eines Tages 5,28 Prozent, der S&P 500 3,7 Prozent und der DAX 2,6 Prozent. In Asien sackte der koreanische Kospi um mehr als fünf Prozent ab, während China, Südkorea und Taiwan die Regeln für Wertpapierkredite lockern, um die Kurse zu stützen.",
+     "source": "Handelsblatt Finanzen",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/asien-boersen-ki-ausverkauf-setzt-sich-in-asien-fort-kopsi-sackt-um-mehr-als-fuenf-prozent-ab/100271898.html"
+    },
+    {
+     "title": "Nvidia verliert binnen sechs Wochen fast die Hälfte seines Börsenwerts",
+     "summary": "Die Affäre um Ex-CEO Jensen Huang hat die Nvidia-Aktie seit Anfang Oktober um 2,7 Billionen Dollar an Börsenwert einbrechen lassen. Damit hat das einst wertvollste Unternehmen der Welt fast die Hälfte seiner Marktkapitalisierung verloren.",
+     "source": "t3n",
+     "url": "https://t3n.de/news/nvidia-verliert-haelfte-seines-boersenwerts-1774720/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    },
+    {
+     "title": "Anthropic-Aktie fällt am zweiten Handelstag zehn Prozent",
+     "summary": "Nach dem Mega-Börsengang rutscht die Anthropic-Aktie Richtung Ausgabekurs. Die Wall Street steuert insgesamt auf ihre längste Verluststrecke seit drei Jahren zu, die Sorge vor einem Ende des KI-Booms wächst.",
+     "source": "Handelsblatt Finanzen",
+     "url": "https://www.handelsblatt.com/finanzen/maerkte/maerkte-euphorie-weicht-furcht-sorge-vor-einem-ende-des-ki-booms-waechst/100271863.html"
+    },
+    {
+     "title": "Deutsche Erzeugerpreise steigen so stark wie seit 2023 nicht mehr",
+     "summary": "Die Erzeugerpreise gewerblicher Produkte lagen im Oktober 8,1 Prozent über dem Vorjahreswert – der stärkste Anstieg seit Februar 2023. Gegenüber September zogen die Preise um 1,4 Prozent an, meldet das Statistische Bundesamt.",
+     "source": "Destatis",
+     "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_407_61241.html"
+    }
+   ]
+  },
+  {
+   "id": "ecom",
+   "title": "E-Com, Deals & M&A",
+   "items": [
+    {
+     "title": "Bees & Bears sichert sich Milliarden-Finanzierungsrahmen",
+     "summary": "Im Wochenrückblick von deutsche-startups.de sticht die Finanzierung der DTC-Marke Bees & Bears heraus: Sie erhält einen Finanzierungsrahmen im Milliardenbereich für ihre Expansion.",
+     "source": "deutsche-startups.de",
+     "url": "https://www.deutsche-startups.de/2026/11/21/wochenrueckblick-47-2026/"
+    },
+    {
+     "title": "DcubeD erhält 27,2 Millionen Euro Wachstumsfinanzierung",
+     "summary": "Ebenfalls im Wochenrückblick: Das Startup DcubeD sammelt eine Finanzierungsrunde über 27,2 Millionen Euro ein.",
+     "source": "deutsche-startups.de",
+     "url": "https://www.deutsche-startups.de/2026/11/21/wochenrueckblick-47-2026/"
+    },
+    {
+     "title": "Autodoc wächst auf 1,5 Milliarden Euro Umsatz",
+     "summary": "Der Online-Autoteilehändler Autodoc meldet laut Startup-Ticker einen Umsatz von 1,5 Milliarden Euro. Zudem soll der europäische Start-up-Sektor diesem Bericht zufolge in diesem Jahr rund 81 Milliarden Euro an Finanzierung eingesammelt haben.",
+     "source": "deutsche-startups.de",
+     "url": "https://www.deutsche-startups.de/2026/11/20/state-of-european-tech-leon-goretzka-business-angels-cloudberry-ventures-autodoc/"
+    },
+    {
+     "title": "FabFitFun startet Beauty-Box in 3.000 Walmart-Filialen",
+     "summary": "Die Subscription-Box FabFitFun bringt ihre Beauty-Box künftig in 3.000 Filialen des US-Händlers Walmart. Parallel verbietet New York City das sogenannte Surveillance Pricing, also personalisierte Preise auf Basis von Nutzerdaten.",
+     "source": "Retail Dive",
+     "url": "https://www.retaildive.com/news/nyc-surveillance-pricing-ban-fabfitfun-walmart/875277/"
+    }
+   ]
+  },
+  {
+   "id": "industry",
+   "title": "Supplements & Beauty",
+   "items": [
+    {
+     "title": "Solar Foods' Luftprotein Solein erhält positive EFSA-Bewertung",
+     "summary": "Die EU-Lebensmittelbehörde EFSA hat dem aus Wasserstoff und CO2 per Gasfermentation hergestellten Protein Solein des finnischen Unternehmens Solar Foods eine positive Sicherheitsbewertung ausgestellt. Damit rückt die EU-Zulassung als Novel Food und die Vermarktung in Europa näher.",
+     "source": "NutraIngredients",
+     "url": "https://www.nutraingredients.com/Article/2026/11/20/protein-made-from-thin-air-receives-positive-efsa-safety-opinion/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+    },
+    {
+     "title": "Pfizer China und Haleon kooperieren bei Gewichtsmanagement",
+     "summary": "Pfizer China und der Konsumgesundheitskonzern Haleon haben eine strategische Partnerschaft für ganzheitlichere Lösungen im Bereich metabolische Gesundheit und Gewichtsmanagement angekündigt – ein Markt, der stark vom GLP-1-Trend geprägt ist.",
+     "source": "NutraIngredients",
+     "url": "https://www.nutraingredients.com/Article/2026/11/23/glp-1-and-beyond-pfizer-china-haleon-partner-in-weight-management-solutions/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+    },
+    {
+     "title": "China soll bis 2030 größter Probiotika-Markt werden",
+     "summary": "Laut dem Chef des Branchenverbands IPA wächst der chinesische Probiotika-Markt zweistellig und wird die USA als bislang führenden Markt bis 2030 überholen.",
+     "source": "NutraIngredients",
+     "url": "https://www.nutraingredients.com/Article/2026/11/20/china-likely-to-become-the-biggest-probiotic-market-by-2030-says-ipa-chief/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+    },
+    {
+     "title": "Poppi-Gründer und andere Serial-Entrepreneurs starten neue Beauty-Marken",
+     "summary": "Nach ihrem Erfolg mit dem Soda-Start-up Poppi gründen Allison und Stephen Ellsworth mit Jetty eine neue Marke. Laut Beauty Independent sind sie damit nicht allein: Mehrere erfahrene Consumer-Gründer starten aktuell ihre \"zweite Akte\" in der Beauty-Branche.",
+     "source": "Beauty Independent",
+     "url": "https://www.beautyindependent.com/second-acts-under-the-radar-brands-experienced-entrepreneurs/"
+    }
+   ]
+  },
+  {
+   "id": "ai",
+   "title": "AI & Tech",
+   "items": [
+    {
+     "title": "Anthropic-Mathematiker behauptet, Riemann-Hypothese mit Claude bewiesen zu haben",
+     "summary": "Anthropic-Mathematiker Levent Alpöge erklärt, gemeinsam mit Claude einen Beweis der Riemann-Hypothese gefunden zu haben – eines der berühmtesten ungelösten Probleme der Mathematik. Parallel arbeitet der Mathematiker Alessandro Masullo an einem rein menschlichen Beweis, den Brian Conrad seit Monaten prüft; beide Ansätze werden derzeit noch verifiziert.",
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem"
+    },
+    {
+     "title": "OpenAI will Tempo der KI-Fähigkeiten selbst begrenzen",
+     "summary": "Aus Sorge vor Kontrollverlust will OpenAI das Entwicklungstempo neuer Fähigkeiten großer Sprachmodelle begrenzen. Neue Fähigkeiten entstehen oft überraschend, ohne dass Entwickler sie gezielt einprogrammieren – wie weit die eigenen Systeme wirklich sind, behandeln KI-Unternehmen meist als Geheimnis.",
+     "source": "t3n",
+     "url": "https://t3n.de/news/openai-ki-training-tempolimit-1774743/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    },
+    {
+     "title": "Google startet KI-Funktion \"Ask Maps\" in Deutschland",
+     "summary": "Über Google Maps lassen sich mit der neuen KI-Funktion \"Ask Maps\" jetzt auch in Deutschland Termine direkt buchen. Die Funktion soll künftig den kompletten Tagesablauf mitplanen.",
+     "source": "t3n",
+     "url": "https://t3n.de/news/google-ask-maps-start-deutschland-1773919/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    },
+    {
+     "title": "Signal blockiert Screenshots gegen KI-Assistenten wie Siri und Gemini",
+     "summary": "Um zu verhindern, dass KI-Assistenten private Chats mitlesen, blockiert Signal die Screenshot-Funktion auf iPhones und Android-Geräten. Einen hundertprozentigen Schutz vor KI-Zugriffen bietet das aber nicht.",
+     "source": "t3n",
+     "url": "https://t3n.de/news/signal-blockiert-screenshots-1774733/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+    },
+    {
+     "title": "Woche der großen Tech-Ausfälle: Mehr Störungen erwartet",
+     "summary": "Ein landesweiter Flugstopp der FAA, ein mehrtägiger Outlook-Ausfall und eine Bankstörung bei JPMorgan Chase trafen die USA innerhalb einer Woche. Laut dem US-Geheimdienstdirektor sind weitere große Ausfälle zu erwarten.",
+     "source": "The Verge AI",
+     "url": "https://www.theverge.com/tech/1039851/major-tech-outages"
+    }
+   ]
+  }
+ ],
+ "topic": {
+  "field": "Berlin",
+  "title": "Die Geisterbahnhöfe der Berliner U-Bahn",
+  "body": "Nach dem Mauerbau 1961 verliefen einige West-Berliner U-Bahn-Linien auf kurzen Abschnitten durch Ost-Berliner Gebiet. Die U6 etwa querte unterirdisch den Ostteil der Stadt, ohne dort halten zu dürfen. Stationen wie Nordbahnhof, Bernauer Straße oder Unter den Linden wurden zu sogenannten Geisterbahnhöfen: Die Bahnsteige blieben dunkel, die Zugänge waren zugemauert, und bewaffnete DDR-Grenzposten patrouillierten, um Fluchtversuche über die durchfahrenden Züge zu verhindern. West-Berliner Fahrgäste sahen beim Vorbeifahren oft nur schemenhaft die verlassenen, staubigen Bahnhöfe im Scheinwerferlicht - ein Alltagsmoment, der die Teilung der Stadt jeden Tag sichtbar machte. Erst mit dem Fall der Mauer 1989 wurden die Geisterbahnhöfe nach 28 Jahren wieder geöffnet und in Betrieb genommen. Heute erinnert unter anderem der Verein Berliner Unterwelten mit Führungen an diese Orte. Wer heute durch den Nordbahnhof fährt, steht buchstäblich auf geteilter Geschichte.",
+  "links": [
+   "https://de.wikipedia.org/wiki/Geisterbahnhof",
+   "https://berliner-unterwelten.de/"
+  ]
+ }
+}
