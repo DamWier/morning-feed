@@ -1,0 +1,272 @@
+{
+  "date": "2026-11-24",
+  "headline": "Jensen Huang ist zurück an der Spitze von Nvidia, und die Weltbörsen feiern das mit dem stärksten Kurssprung seit Monaten: Der Nasdaq schließt mehr als sechs Prozent im Plus, der DAX gewinnt über 500 Punkte.",
+  "telegram_bullets": [
+    "Nvidia-Chef Jensen Huang zurück im Amt: Nasdaq +6,5%, S&P +4,7%, DAX über 500 Punkte im Plus. Im US-Kongress gibt es dafür parteiübergreifend Kritik an Trumps Einfluss.",
+    "Baumarkt-Beben in Deutschland: Obi und Toom fusionieren, Hellweg und Baywa-Filialen verschwinden komplett vom Markt.",
+    "Berlin: Linksfraktion stimmt heute über Ausschluss von Vanessa Emde ab, davon hängt eine mögliche Rot-Grün-Rot-Koalition ab.",
+    "Berichte über russische Atomwaffenpläne im All sorgen für Alarm, Merz nennt sie schockierend, NATO verspricht Verteidigung."
+  ],
+  "sections": [
+    {
+      "id": "youtube",
+      "title": "YouTube",
+      "items": [
+        {
+          "title": "Anthropics Ingenieure bauen angeblich keine klassischen KI-Agenten mehr",
+          "summary": "Laut Videotitel haben Anthropics eigene Entwickler-Teams den klassischen Ansatz, autonome KI-Agenten zu bauen, aufgegeben und setzen stattdessen auf etwas anderes. Die Beschreibung selbst liefert dazu kaum Substanz, sie verweist vor allem auf einen kostenlosen „Claude Skills Guide“ sowie eigene Tools und Partnerlinks des Kanals. Das deutet darauf hin, dass es inhaltlich um den Wechsel von Agenten hin zu einem auf Claude Skills basierenden Arbeitsansatz geht, Genaueres lässt sich aus der Beschreibung aber nicht belegen. (aus der Videobeschreibung)",
+          "source": "RoboNuggets",
+          "url": "https://www.youtube.com/watch?v=IMSYKloMFrE"
+        }
+      ]
+    },
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Obi und Toom wollen Baumarktketten fusionieren",
+          "summary": "Die Baumarktketten Obi und Toom wollen sich zusammenschließen und ihre mehr als 600 Märkte unter einer Marke vereinen, Toom soll dabei verschwinden. Das Bundeskartellamt muss der Fusion noch zustimmen.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/unternehmen/obi-toom-fusion-100.html"
+        },
+        {
+          "title": "Insolvenz: Hellweg und Baywa-Baumärkte schließen endgültig",
+          "summary": "Die Filialen der Ketten Hellweg und Baywa Bau- und Gartenmärkte wurden bundesweit dauerhaft geschlossen. Nur ein kleiner Teil der Standorte macht unter anderer Flagge weiter.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/wirtschaft/dpa-insolvenz-hellweg-verschwindet--was-wird-jetzt-aus-den-baumarkten-16318156.html"
+        },
+        {
+          "title": "Berliner Linksfraktion stimmt über Ausschluss von Vanessa Emde ab",
+          "summary": "Für den Ausschluss der zerstrittenen Abgeordneten ist eine Zweidrittelmehrheit nötig. Grünen-Chefin Brantner macht den Ausschluss zur Bedingung für eine mögliche Rot-Grün-Rot-Koalition in Berlin.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/linksfraktion-in-berlin-stimmt-ueber-ausschluss-der-abgeordneten-emde-ab-100.html"
+        },
+        {
+          "title": "Rechnungshof beanstandet doppelte Rente für Ex-Fraktionschef Saleh",
+          "summary": "Der Landesrechnungshof kritisiert den Arbeitsvertrag des früheren SPD-Fraktionschefs Raed Saleh als rechtswidrigen Sozialtrick. Saleh selbst verteidigt die Vereinbarung als notwendig.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/checkpoint/doppelte-rente-fur-saleh-rechnungshof-beanstandet-arbeitsvertrag-16318194.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Freie Wähler verteilen Aiwangers Ämter auf mehrere Schultern",
+          "summary": "Nach dem Tod Hubert Aiwangers, der Landes- und Bundeschef, bayerischer Wirtschaftsminister und Vize-Ministerpräsident zugleich war, übernimmt Staatssekretär Tobias Gotthardt das Wirtschaftsministerium. Der Landesverband soll künftig eine Doppelspitze führen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-nachfolge-gotthardt-100.html"
+        },
+        {
+          "title": "Bombendrohungen treffen Hunderte Schulen bundesweit",
+          "summary": "Schulen in Freiburg, Erfurt, Hamburg und weiteren Städten erhielten Drohschreiben, mehrere wurden vorsorglich geräumt. Die Polizei geht nach bisherigen Erkenntnissen von keiner konkreten Gefahr aus.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/bombendrohungen-schulen-102.html"
+        },
+        {
+          "title": "Im Rentenstreit deutet sich ein Kompromiss an",
+          "summary": "Die Union möchte die Rente mit 63 am liebsten abschaffen, die SPD will sie behalten. Arbeitsminister Schweitzer verhandelt mit der Union über ein Abrücken von den jeweiligen Maximalforderungen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-koalition-soeder-100.html"
+        },
+        {
+          "title": "VW und IG Metall starten Tarifverhandlungen für 120.000 Beschäftigte",
+          "summary": "In Emden nehmen Volkswagen und die IG Metall ihre Verhandlungen über den Haustarifvertrag des Autobauers auf.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/tarifverhandlungen-fuer-120-000-beschaeftigte-beginnen-102.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "NATO-Jahrestagung endet in Berlin mit Warnung an Russland",
+          "summary": "Die Parlamentarische Versammlung der NATO beendete ihre Tagung mit einer klaren Ansage: Man sei bereit, jeden Fuß des NATO-Gebiets zu verteidigen. Kanzler Merz äußerte sich dort auch zu den Berichten über russische Atomwaffenpläne im All.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/merz-rutte-nato-104.html"
+        },
+        {
+          "title": "EU-Kommission will russische Sportler ohne eigene Flagge antreten lassen",
+          "summary": "Russische Athletinnen und Athleten sollen bei europäischen Wettkämpfen künftig nicht mehr für ihr Land starten dürfen. Weitere Sanktionen in Wirtschaft und Energiesektor sind geplant.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/russische-mannschaften-sportler-eu-100.html"
+        },
+        {
+          "title": "Deutschland baut künftig ukrainische Aufklärungsdrohnen",
+          "summary": "Verteidigungsminister Pistorius konkretisierte die bereits im April vereinbarte engere militärische Zusammenarbeit beim Drohnenbau zwischen Deutschland und der Ukraine.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html"
+        },
+        {
+          "title": "Mitgliedstaaten werfen Costa Bevorzugung Frankreichs beim EU-Budget vor",
+          "summary": "Mehrere EU-Staaten kritisieren, Ratspräsident António Costa begünstige Frankreich in seinem neuen Vorschlag für den EU-Haushalt.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/budget-de-lue-cest-noel-avant-lheure-pour-emmanuel-macron/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Westliche Geheimdienste warnen vor russischer Atomwaffe im All",
+          "summary": "Laut Recherchen mehrerer deutscher Medien gehen westliche Geheimdienste davon aus, dass Russland noch in diesem Jahr eine Atomwaffe ins All schießen will. Kanzler Merz nannte die Berichte schockierend, die NATO kündigte Verteidigungsbereitschaft gegen Weltraumbedrohungen an.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/Bericht-Geheimdienste-sehen-russischen-Satelliten-mit-Atomwaffe-kurz-vor-Start-11534307.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "title": "Südkorea meldet russische Militärflugzeuge in seiner Luftraumzone",
+          "summary": "Mehrere russische Militärmaschinen sollen in Südkoreas Luftverteidigungszone eingedrungen sein. Zuletzt meldeten auch Taiwan und Japan ähnliche Vorfälle.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html"
+        },
+        {
+          "title": "Bukele wird in Haiti nach Militäreinsatz ohne UN-Mandat gefeiert",
+          "summary": "Nachdem internationale Missionen die Bandengewalt in Haiti kaum eindämmen konnten, griff El Salvadors Präsident Bukele mit mehreren Tausend eigenen Soldaten ein und wird dafür wie ein Volksheld gefeiert.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html"
+        },
+        {
+          "title": "Huangs Nvidia-Rückkehr löst parteiübergreifende Kritik im US-Kongress aus",
+          "summary": "Nvidias Entscheidung, Jensen Huang nach Trumps Einflussnahme wieder als Chef einzusetzen, sorgt bei Demokraten und Republikanern für Kritik wegen nationaler Sicherheitsbedenken. Senatsminderheitsführer Schumer kündigte Untersuchungen an.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/kritik-bei-demokraten-und-republikanern-im-us-kongress-nach-rueckkehr-von-huang-als-chef-von-nvidia-100.html"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Huangs Nvidia-Rückkehr löst weltweite Kursrally aus",
+          "summary": "Die Rückkehr Jensen Huangs an die Nvidia-Spitze beendete den Kursrutsch der vergangenen Woche abrupt: Der Nasdaq schloss mehr als sechs Prozent im Plus, der S&P 500 legte 4,7 Prozent zu, der DAX gewann über 500 Punkte. Experten warnen trotzdem, dass die Zweifel am KI-Boom damit nicht ausgeräumt seien.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-nach-huangs-rueckkehr-mehr-als-500-punkte-im-plus/100271947.html"
+        },
+        {
+          "title": "EZB akzeptiert künftig mehr Blockchain-basierte Sicherheiten",
+          "summary": "Die Europäische Zentralbank erweitert den Kreis der als Sicherheiten zugelassenen Vermögenswerte um DLT-basierte Assets im Eurosystem.",
+          "source": "EZB",
+          "url": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261123~76b6f57b74.en.html"
+        },
+        {
+          "title": "Fed-Direktorin Bowman wegen möglichem Verstoß gegen Schweigepflicht geprüft",
+          "summary": "Michelle Bowman soll wenige Stunden nach einer Notenbanksitzung bei einem Dinner der Bank of America gesprochen haben, was Fragen zur sogenannten Blackout-Regel aufwirft.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/2c1fcdc0-eb16-4cee-9041-736527c2ae83?syn-25a6b1a6=1"
+        },
+        {
+          "title": "US-Investoren greifen verstärkt nach deutschen Industriekonzernen",
+          "summary": "Firmen wie EBM-Papst, Trench und TKE geraten zunehmend ins Visier amerikanischer Käufer. Experten erklären die Gründe und sehen darin auch Nutzen für den Standort, nicht nur einen Ausverkauf.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/banken-versicherungen/banken/industrie-amerikas-griff-nach-deutschen-konzernen-droht-der-ausverkauf/100270590.html"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "KI-Kundenservice-Anbieter Sierra verdoppelt Bewertung auf 30 Milliarden Dollar",
+          "summary": "Das von Ex-Salesforce-Co-CEO Bret Taylor mitgegründete Unternehmen sammelte in einer Series F 1,75 Milliarden Dollar ein und verdoppelte seine Bewertung binnen sechs Monaten.",
+          "source": "TechCrunch Fundraising",
+          "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/"
+        },
+        {
+          "title": "Backcountry übernimmt Wintersport-Händler Christy Sports",
+          "summary": "Die Übernahme schafft ein kombiniertes Filialnetz von mehr als 60 Standorten und erweitert das Portfolio von Eigentümer CSC Generation um ein großes Ski- und Snowboard-Verleihgeschäft.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/backcountry-acquires-christy-sports-ski-retailer/875323/"
+        },
+        {
+          "title": "Black-Friday-Umsätze sollen laut NRF trotz Rekordwoche leicht sinken",
+          "summary": "Verlängerte Rabattaktionen haben viele Kundinnen und Kunden bereits vor Thanksgiving zum Kauf verleitet, was das klassische Black-Friday-und-Cyber-Monday-Geschäft etwas schmälern dürfte.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/black-friday-cyber-monday-shopping-projected-to-slip/875473/"
+        },
+        {
+          "title": "Allegro und Zalando klettern im europäischen Marktplatz-Ranking",
+          "summary": "Beide Händler legten im Ranking der größten europäischen Online-Marktplätze von ECDB zwei Plätze zu, Vinted ist neu in den Top 10. Angeführt wird die Liste weiter von Amazon.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/allegro-and-zalando-climb-european-top-10/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "L-Theanin gewinnt trotz schrumpfendem Sortiment Marktanteile bei Schlafsupplements",
+          "summary": "Laut Daten von Spate und NIQ steigt das Verbraucherinteresse an L-Theanin in Schlafprodukten, obwohl die Zahl verfügbarer Produkte sinkt und der gesamte Schlafmittelmarkt schrumpft.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/23/l-theanine-gains-ground-in-sleep-supplements-as-product-assortment-shrinks/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Prostata-Claims hängen künftig am Extrakt statt an der Pflanze",
+          "summary": "Sägepalme führt mit 95 von 100 Punkten weiter die Prostata-Kategorie an, die Nachfrage ist laut CPG Radar aber in sechs Monaten um 4 Prozent gesunken. Rund drei von vier Kritikern nennen Nebenwirkungen als Grund.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/23/after-saw-palmetto-prostate-health-claims-now-depend-on-the-extract-not-the-plant/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Süße Proteine profitieren vom GLP-1- und Protein-Trend",
+          "summary": "Amai-Proteins-CEO Doug Brown sieht wachsendes Interesse an Süßproteinen wie dem per Präzisionsfermentation hergestellten Sweelin, das 3.000-mal süßer als Zucker ist. Studien zeigen laut Unternehmen keinen Effekt auf Blutzucker, Insulin oder GLP-1.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/23/amai-proteins-ceo-sweet-proteins-are-having-a-moment-right-now/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Longevity-Boom überholt die Regulierung in mehreren Großmärkten",
+          "summary": "Strengere Zulassungen, GRAS-Reformen und neue Beschränkungen für Gesundheitsclaims in den USA, Großbritannien, der EU und Australien bringen Longevity-Anbieter unter Druck. Experten raten zu früher regulatorischer Planung und soliden Sicherheitsdossiers.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/23/the-regulatory-realities-of-the-longevity-boom/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "UN-Chef Guterres fordert globalen Rahmen gegen KI-Risiken",
+          "summary": "Macht verlagere sich von Staaten zu wenigen Konzernen, warnt der scheidende UN-Generalsekretär und will binnen eines Jahres einen globalen Rahmen gegen KI-Risiken. Barbados fordert einen Notschalter für KI-Modelle, ein globaler Vertrag fehlt bislang.",
+          "source": "Berliner Zeitung",
+          "url": "https://www.berliner-zeitung.de/article/groesster-machttransfer-in-der-geschichte-der-menschheit-un-chef-guterres-will-binnen-eines-jahres-globalen-rahmen-gegen-ki-risiken-10629050"
+        },
+        {
+          "title": "Signal blockiert neugierige KI-Assistenten beim Mitlesen",
+          "summary": "Der Messenger bekommt eine neue Funktion, die verhindern soll, dass KI-Assistenten wie Siri oder Gemini Chatinhalte per Screenshot mitlesen.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/Messenger-Signal-Sperre-fuer-neugierige-KI-Assistenten-11534436.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "title": "Ex-OpenAI-Mitarbeiter wegen vertraulicher Meeting-Aufnahmen angeklagt",
+          "summary": "US-Staatsanwälte werfen einem saudischen Staatsangehörigen vor, Dutzende Meeting-Aufzeichnungen besessen und vertrauliche Dokumente fotografiert zu haben.",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/f860152a-6bd6-43f7-8ba1-4a6ae94d6565?syn-25a6b1a6=1"
+        },
+        {
+          "title": "Chinesisches KI-Labor Z.ai stellt ersten Loop-Transformer vor",
+          "summary": "Mit GLM-5.4 nutzt Z.ai erstmals eine Architektur, bei der eine Gruppe von Schichten mit geteilten Gewichten mehrfach durchlaufen wird, statt wie üblich nur einmal pro Durchgang.",
+          "source": "Simon Willison",
+          "url": "https://simonwillison.net/2026/Nov/23/glm-54/"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "Finanzen & Märkte",
+    "title": "Black Wednesday: Wie ein Spekulant die Bank von England in die Knie zwang",
+    "body": "Am 16. September 1992, dem sogenannten Black Wednesday, musste Großbritannien das britische Pfund aus dem Europäischen Wechselkursmechanismus (EWS) nehmen, einem Vorläufer des Euro-Systems mit festen Bandbreiten zwischen den Währungen. Das Pfund war darin überbewertet, die Bank of England verteidigte den festgelegten Kurs mit Milliarden an Devisenreserven und Zinserhöhungen bis auf 15 Prozent an einem einzigen Tag, vergeblich. Der Hedgefonds-Manager George Soros hatte Wochen zuvor über seinen Quantum Fund eine Short-Position auf das Pfund im Umfang von rund 10 Milliarden Dollar aufgebaut, er wettete also darauf, dass die britische Regierung die Bindung nicht halten könne. Als die Bank of England kapitulierte und das Pfund aus dem System nahm, stürzte dessen Wert ab, Soros soll an diesem einen Tag etwa eine Milliarde Dollar Gewinn gemacht haben und wurde seither als „der Mann, der die Bank von England sprengte“ bekannt. Der Fall zeigt bis heute beispielhaft, wie schwer sich feste Wechselkurse gegen die schiere Größe globaler Finanzmärkte verteidigen lassen.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Schwarzer_Mittwoch"
+    ]
+  }
+}
