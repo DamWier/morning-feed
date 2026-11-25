@@ -1,0 +1,284 @@
+{
+  "date": "2026-11-25",
+  "headline": "Berlins Linksfraktion schließt Vanessa Emde aus und macht damit den Weg für eine mögliche rot-grün-rote Koalition frei, während an den Finanzmärkten dem Nvidia-Rebound nach Jensen Huangs Rückkehr schon wieder die Luft ausgeht.",
+  "telegram_bullets": [
+    "Berlin: Linksfraktion schließt Vanessa Emde aus, Weg für eine rot-grün-rote Koalition ist frei.",
+    "Märkte: Nvidia-Erholung verpufft, DAX und Nasdaq im Minus, auch Gold und Bitcoin fallen deutlich.",
+    "AI: Anthropic-Aktie fällt unter ihren IPO-Preis, neue Entwickler-Suite Claude Ship vorgestellt.",
+    "E-Com: Shein zahlt 100 Millionen Dollar Vergleich in den USA, Handel rüstet sich nach IT-Ausfällen für Black Friday."
+  ],
+  "sections": [
+    {
+      "id": "youtube",
+      "title": "YouTube",
+      "items": [
+        {
+          "title": "Warum es Anthropic beim Börsengang nicht ums Geld ging",
+          "summary": "Laut dem Video ist die eigentliche Geschichte hinter Anthropics Börsengang nicht die Rekordsumme des IPOs, sondern die 900 Milliarden Dollar, die das Unternehmen bis 2045 für Rechenzentren und Infrastruktur eingeplant hat, im Schnitt mehr pro Jahr bis 2030 als Anthropics gesamter heutiger Umsatz. Der eigentliche Grund für den Börsengang sei die Verschuldung: Bisher hängt Anthropic am Kredit weniger Tech-Konzerne wie Broadcom, Google und Amazon, um seine Rechenleistung zu finanzieren. Mit dem Börsengang will das Unternehmen eine Bilanz aufbauen, die für ein Investment-Grade-Rating reicht und unabhängige Kreditaufnahme ermöglicht. Das Video beschreibt das als Blueprint dafür, wie die nächste Phase des KI-Ausbaus finanziert werden soll. (aus der Videobeschreibung)",
+          "source": "CasuallyFinance",
+          "url": "https://www.youtube.com/watch?v=jAqT7bZdIbE"
+        },
+        {
+          "title": "Was synthetische Peptide im Sport wirklich bringen",
+          "summary": "Das Video ordnet den aktuellen Peptid-Hype im Leistungssport ein und erklärt zunächst die Unterschiede zwischen Aminosäuren, Proteinen und Peptiden. Im Zentrum steht die Rolle der Regeneration nach dem Training, dazu gehört laut den Hosts auch ein gewisses Maß an gewollter Entzündung sowie teils deutliche Qualitätsunterschiede zwischen Kollagenprodukten. Klar gewarnt wird vor online bestellten synthetischen Peptiden ohne ärztliche Begleitung, die sich von den über Ernährung aufgenommenen Peptiden unterscheiden. Abschließend beantworten Mark und Linnea Community-Fragen zur Aussagekraft von Herstellerstudien und zur weiteren Entwicklung der Peptidforschung. (aus der Videobeschreibung)",
+          "source": "AMSPORTLab",
+          "url": "https://www.youtube.com/watch?v=oCnk6cKtedQ"
+        },
+        {
+          "title": "Die neuen Regeln von Claude Code in elf Minuten",
+          "summary": "Laut Videotitel hat Anthropic neue Regeln für den Umgang mit Claude Code veröffentlicht, die der Kanal in rund elf Minuten zusammenfasst. Die Beschreibung selbst liefert dazu kaum inhaltliche Details, sie verweist vor allem auf einen kostenlosen Guide sowie eigene Tools und Partnerlinks des Kanals. Genaueres zum tatsächlichen Inhalt der neuen Regeln lässt sich aus der Beschreibung nicht belegen. (aus der Videobeschreibung)",
+          "source": "RoboNuggets",
+          "url": "https://www.youtube.com/watch?v=nT_oMAIZ3P4"
+        }
+      ]
+    },
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Linksfraktion schließt Emde aus, Weg zu Rot-Grün-Rot frei",
+          "summary": "Die Berliner Linksfraktion hat Vanessa Emde mit der nötigen Mehrheit aus ihren Reihen ausgeschlossen, 33 von 44 Abgeordneten stimmten dafür. Damit ist ein zentrales Hindernis für eine mögliche rot-grün-rote Koalition unter Linken-Kandidatin Elif Eralp beseitigt.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/emde-ausschluss-berlin-linke-100.html"
+        },
+        {
+          "title": "Neuer Anlauf für den Verkauf des Hotels Adlon",
+          "summary": "Nachdem ein erster Verkauf des Luxushotels am Brandenburger Tor im September an den Fondsgesellschaftern gescheitert war, liegt nun ein neuer Vorschlag mit reduzierten Erfolgsprämien für die Vermittler vor.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/wirtschaft/beitrag/2026/11/berlin-luxushotel-adlon-verkauf-neuer-versuch-jagdfeld.html"
+        },
+        {
+          "title": "Vattenfall erhöht Strompreise zum Februar",
+          "summary": "Der Energiekonzern hebt in der Grundversorgung die Strompreise an und begründet den Schritt unter anderem mit gestiegenen Netzentgelten. Betroffene Haushalte sollen in Kürze Post erhalten.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-strom-und-energie-vattenfall-erhoht-strompreise-zum-februar-16322109.html"
+        },
+        {
+          "title": "1.000 Haushalte in Kreuzberg ohne Heizung",
+          "summary": "Eine Fernwärmestörung ließ in Kreuzberg, Schöneberg und Tiergarten rund 1.000 Haushalte ohne Heizung und Warmwasser zurück. Zur Ursache und Dauer der Reparatur machte der Versorger zunächst keine Angaben.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/panorama/beitrag/2026/11/berlin-kreuzberg-schoeneberg-tiergarten-fernwaerme-stoerung.html"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Bundestag debattiert Rekord-Haushalt von 560 Milliarden Euro",
+          "summary": "Mit der Generaldebatte zum Kanzleretat ist die Haushaltswoche im Bundestag in die entscheidende Phase gegangen. Finanzminister Klingbeil verteidigte den für 2027 geplanten Rekordetat als wichtige Zukunftsinvestition, die Opposition übte scharfe Kritik.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundeshaushalt-2027-klingbeil-100.html"
+        },
+        {
+          "title": "BKA meldet weiteren Anstieg bei Gewalt gegen Frauen",
+          "summary": "Laut aktuellem Lagebild wurden im vergangenen Jahr rund 198.000 Frauen und Mädchen Opfer häuslicher Gewalt, zusätzlich stieg die digitale Gewalt gegen Frauen deutlich. Der heutige Orange Day soll auf das Problem aufmerksam machen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/gewalt-gegen-frauen-lagebericht-100.html"
+        },
+        {
+          "title": "Taliban stoppen Abschiebeflug nach Kabul",
+          "summary": "Ein für heute geplanter Abschiebeflug nach Kabul wurde von afghanischer Seite abgesagt. Die Taliban wollen damit offenbar Druck ausüben, um die Einreise weiterer eigener Konsularbeamter nach Deutschland zu erzwingen.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-taliban-abschiebeflug-gestoppt-100.html"
+        },
+        {
+          "title": "Trotz sinkender Geburtenzahlen fehlen weiter Kitaplätze",
+          "summary": "Ein neues Kita-Gap-Portal zeigt, dass es in Deutschland weiter an Kitaplätzen mangelt, obwohl weniger Kinder geboren werden. Besonders betroffen sind ärmere und nicht deutschsprachige Familien.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/kitaplaetze-mangel-100.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "EU-Kommission rügt Frankreich, Bulgarien und Ungarn",
+          "summary": "Die EU-Kommission hat ihre jährlichen Fiskal-Zeugnisse vorgelegt und dabei vor allem Bulgarien und Ungarn wegen Missachtung der gemeinsamen Haushaltsregeln kritisiert, Frankreich kommt trotz Defiziten moderater davon.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/good-bad-france-eu-countries-fiscal-report-cards/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "title": "Menschenrechtsgerichtshof erlaubt Pushbacks in Ausnahmefällen",
+          "summary": "Der Europäische Gerichtshof für Menschenrechte urteilte, dass EU-Staaten Migranten an der Grenze zurückweisen dürfen, wenn ein Drittstaat Migration gezielt als Druckmittel einsetzt. Besonders schutzbedürftige Menschen bleiben von dieser Ausnahme ausgenommen.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/egmr-pushbacks-belarus-100.html"
+        },
+        {
+          "title": "Feijóo steht kurz davor, Spanien zu regieren",
+          "summary": "Der Galicier Alberto Núñez Feijóo präsentiert sich als nüchterner Manager im Kontrast zu Sozialist Pedro Sánchez. Vor der Wahl am Sonntag gilt er als aussichtsreichster Kandidat für das Amt des Ministerpräsidenten.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/alberto-nunez-feijoo-one-step-away-from-running-spain/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "title": "Russland greift weiter ukrainische Brücken an",
+          "summary": "Russland attackiert wiederholt Brücken bei Kiew, Saporischschja und Odessa, während die Ukraine verstärkt zurückschießt, auch auf die Krim-Brücke. Beiden Seiten geht es dabei auch um symbolische Ziele.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Trump bereitet neue Zölle gegen EU und China vor",
+          "summary": "Nachdem der Supreme Court frühere Zölle für illegal erklärt hatte, bereitet die US-Regierung laut Medienberichten neue Zölle gegen China, die EU und weitere Länder vor. Details zu Höhe und Zeitpunkt sind noch offen.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-122.html"
+        },
+        {
+          "title": "Huawei in New York wegen Diebstahls von Geschäftsgeheimnissen verurteilt",
+          "summary": "Eine US-Jury befand Huawei nach monatelangem Prozess des Diebstahls von Geschäftsgeheimnissen für schuldig, sprach den Konzern aber vom Vorwurf der Erpressung frei. Huawei kündigte an, gegen das Urteil in Berufung zu gehen.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "China startet erstmals mit ausländischem Astronauten ins All",
+          "summary": "Mit der Mission Shenzhou-24 schickte China erstmals einen ausländischen Astronauten zur Raumstation Tiangong, einen pakistanischen Kampfpiloten. Peking präsentiert den kurzen Besuch als Zeichen seiner wachsenden Raumfahrt-Partnerschaft mit Islamabad.",
+          "source": "DW",
+          "url": "https://www.dw.com/en/china-launches-shenzhou-24-to-tiangong-station/a-80042281?maca=en-rss-en-all-1573-rdf"
+        },
+        {
+          "title": "Huthi-Angriff auf Riads Staatsfonds-Turm verletzt elf Menschen",
+          "summary": "Ein Huthi-Angriff auf den Sitz des saudischen Staatsfonds PIF in Riad verletzte elf Menschen. Er fiel mit der Vorstellung des ersten saudischen Haushalts seit dem Wiederaufflammen des Konflikts mit dem Iran-nahen Jemen zusammen.",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/ecdf59b6-c78b-4703-bc26-8d085d7b9d24?syn-25a6b1a6=1"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Nvidia-Erholung verpufft, Chipaktien in Asien rutschen ab",
+          "summary": "Der Kurssprung nach Jensen Huangs Rückkehr an die Nvidia-Spitze währte nur kurz. Nikkei, Kospi und Taiex fielen unter das Niveau vor der Rally, Nvidia verlor an der Wall Street 5,9 Prozent, der DAX 1,3 und der Nasdaq 1,5 Prozent. Auch Gold minus 2,8 und Bitcoin minus 3,6 Prozent gerieten in den Abverkauf.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-kospi-taiex-viele-chipaktien-in-asien-fallen-unter-das-niveau-vor-der-rally/100272545.html"
+        },
+        {
+          "title": "Dollar taugt laut Kommentar nicht mehr als sicherer Hafen",
+          "summary": "Der KI-Boom lässt den Dollar aufwerten, was für eine Krisenwährung ungewöhnlich ist, kommentiert Handelsblatt-Autor Jakob Blume. Das sollte Anlegerinnen und Anleger nachdenklich stimmen, weil der Dollar damit seine klassische Schutzfunktion in Krisenzeiten verliere.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/markt-warum-der-dollar-nicht-mehr-als-sicherer-hafen-taugt/100271551.html"
+        },
+        {
+          "title": "Ifo-Index steigt den siebten Monat in Folge",
+          "summary": "Das Geschäftsklima in der deutschen Wirtschaft hat sich im November den siebten Monat in Folge verbessert und erreichte den höchsten Stand seit Frühjahr 2023. Ökonomen werten das als Zeichen einer anziehenden Konjunkturerholung.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-110.html"
+        },
+        {
+          "title": "Refinanzierungskrise bei Gewerbeimmobilien spitzt sich 2027 zu",
+          "summary": "Der erneute Zinsanstieg erschwert die Refinanzierung von Gewerbeimmobilien-Darlehen zunehmend, Experten erwarten 2027 das bislang anspruchsvollste Jahr der Branche. Betroffen sind vor allem Investoren, die ihre Kredite aus der Niedrigzinsphase nun zu deutlich höheren Sätzen verlängern müssen.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/immobilien/immobilien-wie-extrem-wird-2027-die-refinanzierungskrise-spitzt-sich-zu/100270884.html"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "Shein zahlt 100 Millionen Dollar wegen irreführender Werbung",
+          "summary": "Der chinesische Fast-Fashion-Riese Shein zahlt in den USA 100 Millionen Dollar, um Vorwürfe der Verbrauchertäuschung beizulegen. Regulierungsbehörden werfen Zulieferern vor, als US-Baumwolle deklarierte Ware tatsächlich aus China bezogen zu haben.",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/0128d44e-8ca1-49b8-868b-b8fe0e4824c6?syn-25a6b1a6=1"
+        },
+        {
+          "title": "DACH-Startup-Ticker: Allocator One sammelt über 100 Millionen Euro",
+          "summary": "Im aktuellen Startup-Ticker meldet Allocator One eine Finanzierungsrunde von über 100 Millionen Euro, während VC Fly Ventures den Wert seines ersten Fonds versiebenfacht hat.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/11/24/carsten-maschmeyer-fly-ventures-allocator-one-konux-roll-ups-playbook/"
+        },
+        {
+          "title": "Onbuy und Octopia bauen Marktplatz-Partnerschaft in Europa aus",
+          "summary": "Die Cashback-Plattform Onbuy und Marktplatzbetreiber Octopia erweitern ihre Partnerschaft, Händler erhalten damit über eine Integration Zugang zu drei europäischen Marktplätzen.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/onbuy-and-octopia-expand-partnership/"
+        },
+        {
+          "title": "Händler rüsten sich nach IT-Ausfällen für Black Friday",
+          "summary": "Nach der jüngsten Welle globaler IT-Ausfälle sorgen sich Einzelhändler um die Stabilität ihrer Online-Systeme ausgerechnet vor Black Friday und Cyber Week, den umsatzstärksten Tagen des Jahres.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/black-friday-retailers-tech-outages-ai/875541/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "Bayer nimmt Herzmedikament Kerendia vom deutschen Markt",
+          "summary": "Nach einem Streit über den Erstattungspreis zieht Bayer das Herz- und Nierenmedikament Kerendia aus Deutschland zurück. Der Gemeinsame Bundesausschuss hatte dem Mittel keinen Zusatznutzen bescheinigt.",
+          "source": "apotheke adhoc",
+          "url": "https://www.apotheke-adhoc.de/nachrichten/detail/markt/streit-um-erstattungspreis-bayer-nimmt-kerendia-vom-markt/"
+        },
+        {
+          "title": "Longevity verändert, wie Konsumenten über Altern denken",
+          "summary": "Verbraucherinnen und Verbraucher stellen laut NutraIngredients zunehmend infrage, dass Altern zwangsläufig mit Verfall einhergeht, und fragen gezielter nach Produkten für ein langes, gesundes Leben.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/24/too-young-to-age-consumers-are-rewriting-the-rules-of-longevity/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Marken ringen darum, wie sie Healthspan verkaufen sollen",
+          "summary": "Weil sich praktisch jeder Inhaltsstoff als Beitrag zur Gesundheitsspanne vermarkten lässt, positionieren Supplement-Marken ihre Healthspan-Produkte laut NutraIngredients unterschiedlich, zwischen Anti-Aging, Optimierung und Personalisierung.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/24/how-to-package-healthspan-alter-optimize-or-personalize/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Beauty beansprucht fast ein Drittel der Gen-Z-Geschenkbudgets",
+          "summary": "Eine Umfrage unter fast 3.800 US-College-Studierenden zeigt, dass Beauty-Produkte fast ein Drittel ihres geplanten Weihnachtsgeschenkbudgets ausmachen. Für Beauty-Marken unterstreicht das die wachsende Bedeutung dieser Zielgruppe in der Holiday-Saison.",
+          "source": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/beauty-claims-nearly-third-of-gen-z-college-students-holiday-gift-budgets/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Anthropic-Aktie fällt unter ihren IPO-Ausgabepreis",
+          "summary": "Anthropic startete mit einem Kurssprung von 34 Prozent und einer Bewertung von zwei Billionen Dollar an die Börse, die Euphorie währte aber nur kurz. Inzwischen notiert die Aktie unter ihrem Ausgabepreis.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/ist-der-anthropic-boom-schon-wieder-vorbei-aktie-faellt-unter-den-ausgabepreis-1775067/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "title": "Anthropic stellt Entwickler-Suite Claude Ship vor",
+          "summary": "Mit Claude Ship bringt Anthropic eine neue Produktreihe, die Entwicklerinnen und Entwicklern helfen soll, KI-generierten Code schneller zu prüfen und freizugeben. Ziel ist eine höhere Produktivität beim Einsatz von Coding-Agenten.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/neue-ki-funktionen-fuer-entwickler-was-du-ueber-claude-ship-wissen-musst-1775032/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "title": "Trumps Rolle bei Huangs Nvidia-Rückkehr wirft Fragen auf",
+          "summary": "Trump versicherte dem Nvidia-Board persönlich, Jensen Huang stelle kein Sicherheitsrisiko dar, und knüpfte damit die Glaubwürdigkeit der US-Regierung an einen Chef, der über seine Beziehung zu einer mutmaßlichen chinesischen Spionin gelogen haben soll.",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/24/nvidias-one-man-board-how-trump-inherited-jensen-huangs-scandal"
+        },
+        {
+          "title": "Anthropic und OpenAI beweisen fast zeitgleich VP ungleich VNP",
+          "summary": "Wenige Tage nach einem viel beachteten Beweis zur Riemannschen Vermutung legen Anthropic und OpenAI nun fast zeitgleich Beweise für ein jahrzehntealtes Problem der theoretischen Informatik vor.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/Mathe-Wettlauf-Anthropic-und-OpenAI-mit-fast-zeitgleichen-Beweisen-fuer-VP-VNP-11536640.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "Politik & Geschichte",
+    "title": "Die Fünf-Prozent-Hürde: Eine Lehre aus dem Scheitern von Weimar",
+    "body": "Die Fünf-Prozent-Hürde im deutschen Wahlrecht ist eine Lehre aus dem Scheitern der Weimarer Republik. Weil deren Wahlrecht praktisch keine Zugangshürde kannte, saßen im Reichstag zeitweise siebzehn verschiedene Parteien, was Regierungsbildungen erschwerte und auch radikalen Kleinparteien eine Bühne verschaffte. Mit dem Bundeswahlgesetz führte die junge Bundesrepublik am 8. Juli 1953 erstmals eine bundesweite Sperrklausel ein: Wer nicht mindestens fünf Prozent der Zweitstimmen erreicht, bleibt ohne Sitz im Bundestag, es sei denn, eine Partei gewinnt mindestens drei Direktmandate, die sogenannte Grundmandatsklausel. Das Bundesverfassungsgericht erklärte die Hürde 1990 grundsätzlich für verfassungsgemäß, kippte aber im Juli 2024 ihre Ausnahmelosigkeit und ordnete an, bis zu einer Neuregelung eine Ausnahme ähnlich der früheren Grundmandatsklausel anzuwenden. Von der Hürde ausgenommen sind zudem Parteien nationaler Minderheiten, in Schleswig-Holstein etwa der Südschleswigsche Wählerverband, der die dänische Minderheit vertritt.",
+    "links": [
+      "https://de.wikipedia.org/wiki/Sperrklausel"
+    ]
+  }
+}
