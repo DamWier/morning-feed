@@ -1,0 +1,308 @@
+{
+  "date": "2026-11-26",
+  "headline": "Die Sorge vor einem Ende des KI-Booms schickt die Börsen weltweit auf Talfahrt – der DAX fällt auf den tiefsten Stand seit Ende Juni, während Trump neue Zölle gegen EU und China ankündigt.",
+  "telegram_bullets": [
+    "Börsen-Angst vor KI-Blase: DAX fällt unter 25.000 Punkte, Fed sieht Inflation hartnäckig, Bank of Korea erhöht Zinsen.",
+    "Trump kündigt neue Zölle gegen EU (15%) und China (20%) an.",
+    "EU-Sondergipfel in Brüssel: zäher Streit um langfristigen Haushalt und mögliche Digitalsteuer.",
+    "Bund: Union schlägt 'Respekt-Rente' als Kompromiss im Rentenstreit vor, Industrie warnt beim Rohstoffkongress in Berlin vor Abhängigkeit von China."
+  ],
+  "sections": [
+    {
+      "id": "youtube",
+      "title": "YouTube",
+      "items": [
+        {
+          "title": "Ersten AI Agent mit Claude in 5 Minuten bauen",
+          "summary": "Im Video zeigt RoboNuggets-Host Jay, wie man mit Claude in rund fünf Minuten einen ersten eigenen AI-Agenten baut. Details zu den einzelnen Schritten liefert die Videobeschreibung nicht, sie verweist vor allem auf Partner-Tools und einen kostenlosen PDF-Guide zum Thema. (aus der Videobeschreibung)",
+          "source": "RoboNuggets",
+          "url": "https://www.youtube.com/watch?v=7cX9Jqgi7_I"
+        }
+      ]
+    },
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Brandenburg verzichtet 2027 auf Diätenerhöhung im Landtag",
+          "summary": "Die Abgeordneten des Brandenburger Landtags erhalten 2027 keine Erhöhung ihrer Diäten. Der Verzicht soll ein Zeichen in Zeiten knapper öffentlicher Kassen setzen.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/beitrag/2026/11/brandenburg-landtag-diaeten-erhoehung-aussetzen.html"
+        },
+        {
+          "title": "Krankenhaus Beeskow kämpft um seine Zukunft",
+          "summary": "Der Landkreis Oder-Spree muss das 124-Betten-Haus in Beeskow mit Millionen stützen; ab 2028 ist unklar, wie es weitergeht. Im Landtag wird über einen Schutzschirm für kommunale Kliniken gestritten, während Privatisierung oder Schrumpfkurs im Raum stehen.",
+          "source": "rbb24",
+          "url": "https://www.rbb24.de/politik/beitrag/2026/11/brandenburg-krankenhaus-reform-klinik-beeskow-kosten-druck-privatisierung-fusion.html"
+        },
+        {
+          "title": "AfD-Kandidat scheitert bei Bezirksamtswahl in Pankow",
+          "summary": "Bei der Wahl des neuen Pankower Bezirksamts fällt der AfD-Stadtratskandidat in beiden Wahlgängen durch. Pankow bekommt stattdessen einen linken Bürgermeister.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/bezirke/pankow/afd-kandidat-fallt-in-berlin-durch-eklat-mit-ansage--wie-geht-es-jetzt-mit-dem-neuen-pankower-bezirksamt-weiter-16325291.html"
+        },
+        {
+          "title": "Grün-Rot-Rot will autoarme Schloßstraße in Steglitz-Zehlendorf",
+          "summary": "Grüne, SPD und Linke haben sich im bürgerlichen Berliner Südwesten auf ein gemeinsames Koalitionspapier verständigt und wollen die Schloßstraße autoärmer gestalten. Stimmen die Mitglieder zu, regieren die drei Parteien künftig gemeinsam im Bezirk.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/bezirke/steglitz-zehlendorf/neues-links-bundnis-will-autoarme-schlossstrasse-sechs-wichtige-punkte-aus-dem-koalitionspapier-von-grun-rot-rot-in-steglitz-zehlendorf-16325354.html"
+        },
+        {
+          "title": "Industrie schlägt bei Rohstoffkongress in Berlin Alarm",
+          "summary": "Beim ersten BDI-Resilienzkongress in Berlin fordern BMW und Rheinmetall, Rohstoffe künftig selbst zu beschaffen, statt auf die Bundesregierung zu warten. Die Industrie warnt vor zu großer Abhängigkeit von einzelnen Lieferländern.",
+          "source": "Berliner Zeitung",
+          "url": "https://www.berliner-zeitung.de/article/industrie-schlaegt-beim-ersten-rohstoffkongress-in-berlin-alarm-wir-koennen-uns-auf-deutschland-allein-nicht-mehr-verlassen-10631965"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Union schlägt 'Respekt-Rente' im Rentenstreit vor",
+          "summary": "Im Streit um die Rente mit 63 gehen Unionsabgeordnete mit einem Kompromiss auf die SPD zu: Eine 'Respekt-Rente' soll die abschlagsfreie Frühverrentung für Menschen mit kleinem Einkommen erhalten.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/rente-kompromiss-koalition-100.html"
+        },
+        {
+          "title": "Expertenkommission fordert schärfere Regeln für Prostitution",
+          "summary": "Eine Kommission empfiehlt mehr Schutz vor Gewalt und Ausbeutung sowie wirksamere Bekämpfung von Zwangsprostitution und Menschenhandel. Union und Grüne gehen in ihren Forderungen noch weiter und verlangen ein komplettes Verbot.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html"
+        },
+        {
+          "title": "Bundestag debattiert zwölf Milliarden Euro Ukraine-Hilfe",
+          "summary": "In der Generaldebatte zum Haushalt 2027 verteidigte Kanzler Merz rund zwölf Milliarden Euro Ukraine-Hilfe als Verteidigung 'unserer Freiheit'. Die AfD wertet die Summe als Veruntreuung von Steuergeldern.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html"
+        },
+        {
+          "title": "Klöckner droht nach Bundestags-Blockade mit Sanktionen",
+          "summary": "Nach einer Blockadeaktion zweier Linke-Abgeordneter im Parlament kündigt Bundestagspräsidentin Klöckner Strafmaßnahmen an.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/kloeckner-will-sanktionen-nach-blockade-durch-linke-politikerinnen-im-bundestag-102.html"
+        },
+        {
+          "title": "NRW verbietet Gesichtsschleier im Schulunterricht",
+          "summary": "Nordrhein-Westfalen untersagt künftig das Tragen von Gesichtsschleiern während des Unterrichts an Schulen.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/nordrhein-westfalen-verbietet-gesichtsschleier-im-unterricht-100.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "EU-Gipfel streitet um bis zu zwei Billionen Euro Haushalt",
+          "summary": "Die Staats- und Regierungschefs der 27 EU-Länder beraten in Brüssel über den langfristigen EU-Haushalt, dabei auch über neue Einnahmequellen wie eine mögliche Digitalsteuer.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html"
+        },
+        {
+          "title": "Klimagipfel COP31 in Antalya scheitert",
+          "summary": "Nach dem gescheiterten Klimagipfel herrscht vor allem bei pazifischen Inselstaaten Frust; Kritiker sprechen von einem Ergebnis, das Öl und Gas begünstigt.",
+          "source": "FAZ Politik",
+          "url": "https://www.faz.net/aktuell/politik/ausland/gescheiterte-klimakonferenz-der-frust-der-inselstaaten-201712087.html"
+        },
+        {
+          "title": "EU-Gerichtsverfahren gegen Polen laufen weiter",
+          "summary": "Der Europäische Gerichtshof nimmt Verfahren gegen Polen wieder auf, die aus dem Justizumbau der früheren nationalkonservativen Regierung resultieren. Polen drohen Entschädigungszahlungen in Millionenhöhe.",
+          "source": "Politico Europe",
+          "url": "https://www.politico.eu/article/donald-tusk-government-facing-armageddon-as-european-court-resumes-cases-against-poland/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS_Syndication"
+        },
+        {
+          "title": "EU verlängert gelockerte Beihilferegeln bis Juni 2027",
+          "summary": "Wegen der anhaltenden Energiekrise dürfen Landwirte, Industrie und andere Unternehmen weiter mit erleichterten staatlichen Zuschüssen rechnen, teilt die EU-Kommission mit.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-staatshilfen-landwirte-industrie-100.html"
+        },
+        {
+          "title": "Spanien wählt am Sonntag nach acht Jahren sozialistischer Regierung neu",
+          "summary": "Nach acht Jahren unter sozialistischer Führung stehen in Spanien vorzeitige Wahlen an. Hohe Wahlbeteiligung wird erwartet, der Konservative Alberto Núñez Feijóo fordert die Regierung heraus.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo?at_medium=RSS&at_campaign=rss"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "Trump kündigt neue Zölle gegen EU und China an",
+          "summary": "Die USA planen neue Sonderzölle gegen die EU, China und zwölf weitere Handelspartner. Für EU-Produkte ist ein Satz von 15 Prozent vorgesehen, für chinesische Waren 20 Prozent.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html"
+        },
+        {
+          "title": "Richter empfehlen Einstellung von Bestechungsvorwurf gegen Netanjahu",
+          "summary": "Israelische Richter raten, den letzten verbliebenen Anklagepunkt gegen Ministerpräsident Netanjahu wegen geringer Erfolgsaussichten fallen zu lassen. Netanjahu selbst wertet den gesamten Prozess als gescheitert.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html"
+        },
+        {
+          "title": "Sturm verschiebt Macy's Thanksgiving-Parade erstmals seit 100 Jahren",
+          "summary": "Ein Nor'easter an der US-Ostküste und Rekord-Flutwellen in Kalifornien bringen die Thanksgiving-Reisepläne vieler Amerikaner durcheinander. Die berühmte New Yorker Parade wird auf Samstag verschoben.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Mindestens 30 Tote bei Großbrand auf Autobahn in Gizeh",
+          "summary": "Ein mit Gasflaschen beladener Lastwagen löste bei einem Unfall auf einer stark befahrenen Autobahn in der ägyptischen Stadt Gizeh einen Großbrand aus. Die Zahl der Toten könnte weiter steigen.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html"
+        },
+        {
+          "title": "74 Peitschenhiebe für iranische Sängerin lösen Empörung aus",
+          "summary": "Weil sie ein Online-Konzert ohne Kopftuch gab, erhielt die Sängerin Parastu Ahmadi 74 Peitschenhiebe. International wird die Strafe als grausam und unmenschlich kritisiert.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/iran-saengerin-peitschenhiebe-100.html"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "US-Wirtschaft wächst stärker als gedacht, Inflation bleibt hartnäckig",
+          "summary": "Das US-BIP legte im dritten Quartal annualisiert um 4,3 Prozent zu, deutlich mehr als die zunächst gemeldeten 3,4 Prozent. Der Fed-Konjunkturbericht Beige Book zeigt gleichzeitig moderates Wachstum bei anhaltend hoher Teuerung.",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/25/economy-gdp-inflation-ai"
+        },
+        {
+          "title": "Bank of Korea erhöht Leitzins wegen KI-Chip-Boom",
+          "summary": "Die südkoreanische Notenbank hob den Leitzins zum dritten Mal in diesem Jahr um einen Viertelprozentpunkt auf 3,25 Prozent an.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/823af978-e22b-49a4-a2a1-52867a6520fa"
+        },
+        {
+          "title": "DAX fällt unter 25.000 Punkte auf Jahrestiefststand seit Juni",
+          "summary": "Der deutsche Leitindex schloss bei 24.702 Punkten und damit 1,26 Prozent niedriger - der tiefste Stand seit Ende Juni. Anhaltende Sorgen vor einem KI-Crash und neue US-Zolldrohungen belasten die Anleger.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/dax-aktuell-dax-schliesst-auf-tiefstem-stand-seit-ende-juni/100272589.html"
+        },
+        {
+          "title": "Euro fällt wegen 'KI-Dollar' auf tiefsten Stand seit anderthalb Jahren",
+          "summary": "Der Euro ist zum Dollar auf den niedrigsten Stand seit anderthalb Jahren gefallen. Hintergrund ist der KI-Boom in den USA, der den Dollar stützt.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/verbraucher/euro-dollar-ki-etf-sparer-100.html"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "Shein zahlt 100 Millionen Dollar in FTC-Vergleich",
+          "summary": "Die US-Handelsaufsicht FTC wirft dem Fast-Fashion-Händler irreführende Angaben zu Lieferzeiten, Stoffherkunft und unterdrückten negativen Produktbewertungen vor. Shein zahlt 100 Millionen Dollar, um die Vorwürfe beizulegen.",
+          "source": "Retail Dive",
+          "url": "https://www.retaildive.com/news/shein-to-pay-100m-in-ftc-settlement-over-deceptive-practices-claims/875748/"
+        },
+        {
+          "title": "Deichmann-Online-Shop gehackt",
+          "summary": "Der Schuhhändler meldet einen Cyberangriff auf seinen Online-Shop mit unbefugtem Zugriff auf Kundendaten.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/Deichmann-Online-Shop-geknackt-unbefugter-Datenzugriff-11537484.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "title": "CommerzVentures legt neuen 50-Millionen-Euro-Fonds auf",
+          "summary": "Der Venture-Capital-Arm der Commerzbank sammelt einen neuen Fonds mit 50 Millionen Euro Volumen ein, um in Start-ups zu investieren.",
+          "source": "deutsche-startups.de",
+          "url": "https://www.deutsche-startups.de/2026/11/25/sparhandy-commerzventures-arken-labs-the-exploration-company-cntr/"
+        },
+        {
+          "title": "Ex-ML-Chef von PolyAI sammelt 20 Millionen Dollar für Robotik-Start-up",
+          "summary": "Der frühere Machine-Learning-Chef des Sprach-KI-Anbieters PolyAI hat eine Finanzierungsrunde über 20 Millionen Dollar für ein neues Robotik-Start-up abgeschlossen.",
+          "source": "Sifted",
+          "url": "https://sifted.eu/articles/polyais-ex-machine-learning-chief-raises-20m-for-new-robotics-startup/"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "Danone entwickelt KI-Tool gegen Eisenmangelanämie bei Kindern",
+          "summary": "Das Tool soll helfen, das Risiko einer Eisenmangelanämie bei Kindern frühzeitig zu erkennen.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/26/danones-ai-powered-tool-to-detect-risk-of-iron-deficiency-anemia-in-kids/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Kalifornien befreit Supplements von neuer Datumskennzeichnung",
+          "summary": "Das Gesetz AB 2779 nimmt Nahrungsergänzungsmittel von Kaliforniens neuen Lebensmittel-Datumskennzeichnungspflichten aus und erspart Herstellern teure Neuetikettierung. Rechtliche Risiken bleiben laut NutraIngredients aber bestehen, wo Produkte die Grenze zwischen Supplement und Lebensmittel verwischen.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/25/california-supplement-labeling-exemption-offers-relief-but-legal-risks-remain/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "EU-Parlament beschließt neue Arzneimittelregeln gegen Lieferengpässe",
+          "summary": "Weil in Europa immer wieder Medikamente wie Antibiotika oder Fiebersäfte fehlen, unter anderem wegen großer Abhängigkeit von Asien, stimmte das EU-Parlament neuen Regeln zu.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-parlament-arzneimittel-100.html"
+        },
+        {
+          "title": "Haleon investiert über 80 Millionen Dollar in Forschung in Asien-Pazifik",
+          "summary": "Der Konsumgesundheitskonzern setzt bei der Investition auf Bereiche wie gesundes Altern, Immun-, Stoffwechsel- und Mundgesundheit.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/25/haleon-invests-over-us80m-in-apac-research-and-innovation/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Führungswechsel beim Luxus-Beauty-Händler Violet Grey",
+          "summary": "Konzernpräsidentin Tracy Kline und Marketing-SVP Emma Dee verlassen den Luxus-Beauty-Händler, der zugleich seine Expansion vorantreibt.",
+          "source": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/violet-grey-undergoes-executive-shakeup-retailer-ramps-up-expansion/"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "SpaceX darf bis zu eine Million KI-Satelliten ins All schicken",
+          "summary": "Die US-Regulierungsbehörde FCC genehmigt SpaceX' 'Starmind'-Initiative, mit KI-Chips ausgestattete Satelliten als Rechenzentren im Orbit zu betreiben. Bis 2033 soll der erste Satellit laufen, bis 2040 die volle Flotte - Astronomen zeigen sich besorgt.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/science/1042278/spacex-fcc-starmind-ai-space-data-centers"
+        },
+        {
+          "title": "Verbraucherzentrale verklagt OpenAI wegen ChatGPT-Abos",
+          "summary": "Die Verbraucherzentrale Brandenburg klagt gegen OpenAI, weil Nutzer ihre kostenpflichtigen ChatGPT-Abos nur schwer kündigen können und eine Preiserhöhungsklausel möglicherweise unwirksam ist. Eine außergerichtliche Einigung war zuvor gescheitert.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/verbraucherzentrale-verklagt-openai-1775427/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        },
+        {
+          "title": "Anthropic-Chef widerspricht Bericht über KI und freien Willen",
+          "summary": "Dario Amodei wies in seinen ersten großen öffentlichen Äußerungen seit dem Börsengang des Unternehmens die These zurück, Menschen müssten der KI ihre Selbstbestimmung opfern.",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/25/anthropic-dario-amodei-ai-free-will-contro-axios"
+        },
+        {
+          "title": "Demokraten fordern nach Sicherheitsbedenken bei KI-Firmen neue Regeln",
+          "summary": "Nach Axios-Berichten, wonach Mitarbeitende von OpenAI und Anthropic zunehmend fürchten, ihre leistungsfähigsten Modelle könnten nicht sicher veröffentlicht werden, fordern führende Demokraten neue Beschränkungen für die KI-Entwicklung.",
+          "source": "Axios",
+          "url": "https://www.axios.com/2026/11/25/democrats-ai-safety-restrictions-openai-anthropic-axios"
+        },
+        {
+          "title": "Tidal will 27 Millionen KI-generierte Songs löschen",
+          "summary": "Der Streaming-Dienst zieht eine harte Grenze gegen vollständig KI-erzeugte Musik. Zuletzt waren 43 Prozent aller neu angelieferten Titel maschinell erzeugt.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/ki-generierte-musik-tidal-will-27-millionen-songs-loeschen-1775228/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "E-Commerce & DTC",
+    "title": "Das Dollar-Shave-Club-Video: Wie 4.500 Dollar eine Milliarden-Marke starteten",
+    "body": "2012 drehte der New Yorker Gründer Michael Dubin für sein kleines Rasierklingen-Abo ein 94 Sekunden langes Werbevideo – Produktionskosten rund 4.500 Dollar, Hauptrolle inklusive. Der trockene Humor traf einen Nerv: Innerhalb von 48 Stunden gingen Tausende Bestellungen ein, das Video wurde zum viralen Hit mit bis heute Millionen von Aufrufen. Dollar Shave Club bewies damit etwas, das viele DTC-Gründer bis heute als Blaupause nutzen: Ein Start-up ohne großes Werbebudget kann allein mit klarer Tonalität und einem simplen Abo-Versprechen etablierte Konzerne wie Gillette herausfordern. 2016 kaufte Unilever das Unternehmen für rund eine Milliarde Dollar – einer der ersten großen DTC-Exits überhaupt. Bis heute gilt der Fall als Lehrbeispiel dafür, wie ein pointiertes, günstig produziertes Video eine ganze Produktkategorie aufmischen kann, wenn Botschaft und Zielgruppe exakt zusammenpassen.",
+    "links": [
+      "https://en.wikipedia.org/wiki/Dollar_Shave_Club"
+    ]
+  }
+}
