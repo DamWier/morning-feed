@@ -1,0 +1,273 @@
+{
+  "date": "2026-11-27",
+  "headline": "Der EU-Sondergipfel zum mehrjährigen Haushalt ist ohne Einigung abgebrochen, während sich DAX und Co von der jüngsten KI-Talfahrt erholen.",
+  "telegram_bullets": [
+    "EU-Haushaltsgipfel ohne Ergebnis abgebrochen, nächster Versuch am 17. Dezember.",
+    "DAX erholt sich auf über 25.000 Punkte, Nvidia bleibt Unsicherheitsfaktor.",
+    "IG Metall und Arbeitgeber einigen sich auf 4,3 % mehr Lohn in zwei Stufen.",
+    "Neuseelands Regierungskoalition verfehlt die Mehrheit, Königsmacherin entscheidet."
+  ],
+  "sections": [
+    {
+      "id": "youtube",
+      "title": "YouTube",
+      "items": [
+        {
+          "title": "Wie Banken schlechte Gewerbeimmobilien-Kredite in den Büchern verstecken",
+          "summary": "Banken müssen umstrukturierte Problemkredite eigentlich melden, entscheiden aber selbst, wer als \"in Schwierigkeiten\" gilt. Von über 3 Billionen Dollar an Krediten auf Bürotürme, Shopping-Center und Wohnanlagen wurden im vergangenen Jahr weniger als 1 Prozent so eingestuft, obwohl eine Fed-Bank das Niveau selbst als \"gedämpft\" bezeichnete. Das Video zeigt, wie diese Meldediskretion echte Verluste in den Bankbilanzen unsichtbar macht, statt sie auszuweisen. (aus der Videobeschreibung)",
+          "source": "CasuallyFinance",
+          "url": "https://www.youtube.com/watch?v=hCjKMgrkoc4"
+        }
+      ]
+    },
+    {
+      "id": "berlin",
+      "title": "Berlin",
+      "items": [
+        {
+          "title": "Brandenburg kippt Verbot kommunaler Verpackungssteuern nicht",
+          "summary": "Der Brandenburger Landtag hat einen Antrag abgelehnt, der kommunale Verpackungssteuern wie die in Potsdam verbieten sollte. Für Händler und Kunden, die sich über die Potsdamer Abgabe auf Einwegverpackungen beschweren, ändert sich damit nichts.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-abgabe-auf-einwegverpackungen-landtag-gegen-verbot-kommunaler-verpackungssteuer-16331438.html"
+        },
+        {
+          "title": "Wegner will Berliner Expo-Bewerbung schnell beschließen",
+          "summary": "Nach der Absage Brandenburgs für eine gemeinsame Bewerbung will Regierender Bürgermeister Wegner trotzdem an einer Berliner Expo-Bewerbung festhalten und hat dafür bereits ein Gewerbegebiet als möglichen Austragungsort im Blick.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-wegner-kundigt-schnellen-beschluss-zu-berliner-expo-bewerbung-an-16332064.html"
+        },
+        {
+          "title": "TU-Studierende besetzen Räume gegen jahrelangen Sanierungsstau",
+          "summary": "Weil mehrere TU-Gebäude wegen baulicher Mängel geschlossen werden mussten, haben Studierende ein Mathematikgebäude und das gesperrte Mathecafé besetzt. Sie fordern mehr Investitionen in die Hochschulen statt weiterer Kürzungen.",
+          "source": "Tagesspiegel Berlin",
+          "url": "https://www.tagesspiegel.de/berlin/dpa-mit-werkzeugkoffer-studenten-protestieren-gegen-sanierungsstau-an-tu-berlin-16331937.html"
+        },
+        {
+          "title": "CDU-Rebellin Ludwig stimmt gegen den Bundeshaushalt",
+          "summary": "Die Brandenburger CDU-Bundestagsabgeordnete Saskia Ludwig kündigte an, dem Bundeshaushalt 2027 nicht zuzustimmen. In einem internen Brief schreibt sie, eine weitere Mehrbelastung der Bürger ohne erkennbare Perspektive könne sie nicht mittragen.",
+          "source": "Berliner Zeitung",
+          "url": "https://www.berliner-zeitung.de/article/cdu-rebellin-saskia-ludwig-wird-nicht-fuer-bundeshalt-stimmen-10640079"
+        }
+      ]
+    },
+    {
+      "id": "germany",
+      "title": "Deutschland",
+      "items": [
+        {
+          "title": "Streit um Rente mit 63 bleibt in der Koalition ungelöst",
+          "summary": "Die Union hat einen neuen Vorschlag zur abschlagsfreien Rente mit 63 vorgelegt, die SPD reagiert aber verhalten. Arbeitsminister Schweitzer sieht die Koalition trotzdem auf einem guten Weg zu einer Einigung.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/innenpolitik/abschlagsfreie-rente-100.html"
+        },
+        {
+          "title": "Metall- und Elektroindustrie einigt sich auf Tarifabschluss",
+          "summary": "Gewerkschaft und Arbeitgeber haben sich auf eine Lohnerhöhung von insgesamt 4,3 Prozent in zwei Stufen geeinigt. Der Pilotabschluss erlaubt Betrieben zugleich, in Ausnahmefällen von der 35-Stunden-Woche abzuweichen.",
+          "source": "tagesschau Wirtschaft",
+          "url": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html"
+        },
+        {
+          "title": "Erzbistum Köln muss Rekord-Schmerzensgeld zahlen",
+          "summary": "Das Oberlandesgericht Köln verurteilte das Erzbistum zur Zahlung von 550.000 Euro an ein Missbrauchsopfer, die bislang höchste Summe in einem solchen Fall in Deutschland. Die Richter sahen die Kirche klar in der Verantwortung.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/missbrauch-kirche-schmerzensgeld-102.html"
+        },
+        {
+          "title": "Bundesanwaltschaft nimmt zwei Terrorverdächtige in Köln und Heidelberg fest",
+          "summary": "Die beiden Iraker sollen einer pro-iranischen Gruppe angehört und Anschläge geplant haben, möglicherweise auch auf eine Synagoge in Köln. Die Ermittlungen laufen auf Bundesebene.",
+          "source": "tagesschau Inland",
+          "url": "https://www.tagesschau.de/inland/gesellschaft/terrorverdacht-festnahmen-102.html"
+        }
+      ]
+    },
+    {
+      "id": "europe",
+      "title": "Europa",
+      "items": [
+        {
+          "title": "EU-Sondergipfel zum Haushalt scheitert ohne Ergebnis",
+          "summary": "Die Vorstellungen der 27 Staats- und Regierungschefs zum mehrjährigen EU-Haushalt lagen so weit auseinander, dass der zweite Gipfeltag ausfiel. Es geht um hunderte Milliarden Euro und die künftige Ukraine-Unterstützung; ein neuer Versuch ist für den 17. Dezember angesetzt.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html"
+        },
+        {
+          "title": "Spanier Hernández de Cos wird neuer EZB-Präsident",
+          "summary": "Die EU-Staats- und Regierungschefs einigten sich beim Brüsseler Gipfel auf den Spanier als Nachfolger von Christine Lagarde, die ihren Posten im Februar aufgibt. Je ein weiterer Spitzenposten geht an Deutschland und Frankreich, die Entscheidung muss noch formal bestätigt werden.",
+          "source": "Deutschlandfunk",
+          "url": "https://www.deutschlandfunk.de/spanier-soll-neuer-ezb-praesident-werden-112.html"
+        },
+        {
+          "title": "Bosniens Dodik macht seinen Sohn zum Regierungschef",
+          "summary": "Milorad Dodik, der über 20 Jahre die serbisch dominierte Republika Srpska führte und 2025 nach internationalem Druck wegen seiner Separatismuspolitik zurücktreten musste, hat nun seinen Sohn an die Spitze der Regierung gesetzt.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/dodik-bosnien-sohn-100.html"
+        },
+        {
+          "title": "Slowakei blockiert mit drei weiteren Staaten den EU-Haushalt",
+          "summary": "Regierungschef Fico stellt sich zusammen mit Polen, Ungarn und Tschechien gegen die EU-Haushaltspläne, vor allem gegen die Ukraine-Hilfen. Innenpolitisch könnte ihm die Blockadehaltung nutzen.",
+          "source": "tagesschau Europa",
+          "url": "https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html"
+        }
+      ]
+    },
+    {
+      "id": "world",
+      "title": "Welt",
+      "items": [
+        {
+          "title": "New Zealand's ruling coalition falls one seat short",
+          "summary": "The National Party-led bloc failed to secure a parliamentary majority, leaving a newcomer MP holding the balance of power. Talks now focus on whether she will back the government or trigger fresh instability.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c670278qk879o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Thanksgiving storm knocks out power across the US",
+          "summary": "Nearly one million customers lost power as storms hit both US coasts, bringing high winds, heavy rain and flooding, plus widespread flight delays over the holiday weekend.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Zelensky tells BBC the US isn't pressuring Russia enough",
+          "summary": "Ukraine's president said Washington is too focused on the Middle East and called it \"strange\" that Trump describes Putin as a friend rather than an adversary.",
+          "source": "BBC World",
+          "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "title": "Zwei Rheinmetall-Mitarbeiter bei Drohnenangriff in Kuwait getötet",
+          "summary": "Bei einem Angriff auf eine Anlage in Kuwait kamen zwei italienische Techniker des deutschen Rüstungskonzerns Rheinmetall ums Leben. Italien macht den Iran verantwortlich, Teheran bestreitet jede Beteiligung.",
+          "source": "tagesschau Ausland",
+          "url": "https://www.tagesschau.de/ausland/asien/kuwait-tote-angriff-kuwait-100.html"
+        }
+      ]
+    },
+    {
+      "id": "markets",
+      "title": "Märkte & Makro",
+      "items": [
+        {
+          "title": "Designierter EZB-Chef gilt als Anhänger niedriger Zinsen",
+          "summary": "Pablo Hernández de Cos, bislang bei der Bank für Internationalen Zahlungsausgleich, bringt viel geldpolitische Erfahrung mit und wird als diplomatisch versiert beschrieben. Märkte erwarten von ihm eher einen Kurs niedrigerer Zinsen als unter Lagarde.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/geldpolitik/notenbank-so-tickt-der-designierte-ezb-praesident-pablo-hernandez-de-cos/100270613.html"
+        },
+        {
+          "title": "Fed stays hawkish despite stock market turmoil",
+          "summary": "Even as a tech-led sell-off unsettled markets, inflation remains the top concern for US central bank officials, who are expected to raise rates regardless.",
+          "source": "FT Markets",
+          "url": "https://www.ft.com/content/3890f725-66dd-4613-8a60-d9e3ea38d25a?syn-25a6b1a6=1"
+        },
+        {
+          "title": "DAX erholt sich über 25.000 Punkte, Nvidia bleibt Risikofaktor",
+          "summary": "Nach einer Talfahrt sprang der DAX dank nachlassender Zollsorgen wieder über die Marke von 25.000 Punkten, auch asiatische Börsen zogen an. Nvidia bleibt aber ein Unsicherheitsfaktor, weil die Ratingagentur S&P eine Herabstufung prüft.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/maerkte/marktberichte/nikkei-yen-hang-seng-asiatische-boersen-tendieren-fester-nvidia-bleibt-unsicherheitsfaktor/100273175.html"
+        },
+        {
+          "title": "Reallöhne in Deutschland im dritten Quartal um 1,3 Prozent gestiegen",
+          "summary": "Nach Angaben von Destatis legten die Nominallöhne um 4,3 Prozent zu, während die Verbraucherpreise um 2,9 Prozent stiegen. Real blieb damit ein Plus von 1,3 Prozent gegenüber dem Vorjahresquartal.",
+          "source": "Destatis",
+          "url": "https://www.destatis.de/DE/Presse/Pressemitteilungen/2026/11/PD26_411_62321.html"
+        }
+      ]
+    },
+    {
+      "id": "ecom",
+      "title": "E-Com, Deals & M&A",
+      "items": [
+        {
+          "title": "Arvato acquires Ekol Logistics, expands storage in Türkiye",
+          "summary": "The Bertelsmann-owned logistics provider is taking over Ekol Logistics, adding 15 warehouses and 830,000 square meters of storage space. That brings Arvato's total storage footprint in Türkiye to 1.2 million square meters across 26 sites.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/arvato-acquires-ekol-logistics/"
+        },
+        {
+          "title": "Altria explores takeover bid for Imperial Brands",
+          "summary": "The US tobacco giant is weighing a bid that would remove another large listed consumer company from the London Stock Exchange.",
+          "source": "FT World",
+          "url": "https://www.ft.com/content/696e99b0-f6d1-4a1a-95b0-f68de88520d9?syn-25a6b1a6=1"
+        },
+        {
+          "title": "72% of German TikTok Shop merchants now sell cross-border",
+          "summary": "Platform-commissioned research found most German TikTok Shop sellers have gained experience selling to customers elsewhere in Europe, underscoring the channel's growing reach for DTC brands.",
+          "source": "Ecommerce News Europe",
+          "url": "https://ecommercenews.eu/72-of-german-tiktok-shop-merchants-sell-across-borders/"
+        },
+        {
+          "title": "Retailers lean into Reddit for full-funnel holiday ads",
+          "summary": "Brands including American Eagle, Lowe's and Kohl's are increasingly using Reddit as a full-funnel advertising tool this Black Friday/Cyber Monday season, not just for reach but for lower-funnel conversion.",
+          "source": "Modern Retail",
+          "url": "https://www.modernretail.co/marketing/brands-and-retailers-are-taking-a-full-funnel-approach-to-reddit-holiday-advertising-this-bfcm/?utm_campaign=modernretaildis&utm_medium=rss&utm_source=general-rss"
+        }
+      ]
+    },
+    {
+      "id": "industry",
+      "title": "Supplements & Beauty",
+      "items": [
+        {
+          "title": "Nike and Science in Sport launch co-branded nutrition range",
+          "summary": "The multi-year partnership combines SiS's sports-nutrition formulation expertise with Nike's brand and design reach, launching a running-specific performance nutrition range in spring 2027.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/26/sis-and-nike-announce-global-performance-nutrition-partnership/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        },
+        {
+          "title": "Luckyscent hires first-ever CEO after PE stake sale",
+          "summary": "The niche fragrance retailer named Bernard Zion as its first CEO to expand Scent Bar into new markets, following Monogram Capital Partners' acquisition of a majority stake after nearly 25 years as an independent business.",
+          "source": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/luckyscent-ceo-scent-bar/"
+        },
+        {
+          "title": "AI fragrance-matching startup Wonderscent raises $2.25 million",
+          "summary": "Founded by Pinterest alumni, the platform catalogs 50,000 fragrances from 3,000 brands to help shoppers navigate roughly 10,000 new launches a year.",
+          "source": "Beauty Independent",
+          "url": "https://www.beautyindependent.com/pinterest-alums-behind-ai-powered-wonderscent-raise-2-25m-to-help-shoppers-find-their-next-fragrance/"
+        },
+        {
+          "title": "Digestive enzymes may boost low-FODMAP diet benefits",
+          "summary": "A new study found combining digestive enzyme supplements with a low-FODMAP diet brought greater relief from bloating and digestive discomfort than diet changes alone.",
+          "source": "NutraIngredients",
+          "url": "https://www.nutraingredients.com/Article/2026/11/26/digestive-enzyme-supplement-may-boost-benefits-of-low-fodmap-diet/?utm_source=RSS_Feed&utm_medium=RSS&utm_campaign=RSS"
+        }
+      ]
+    },
+    {
+      "id": "ai",
+      "title": "AI & Tech",
+      "items": [
+        {
+          "title": "Anthropic-Aktie nach Rekord-Börsengang zur Glaubensfrage",
+          "summary": "Nach dem größten Börsengang aller Zeiten enttäuscht Anthropic seine Erstaktionäre, ein Blick in die Bilanz hilft nur bedingt. Der Fall zeigt, wie schwer sich selbst eine einstige Erfolgsgeschichte bewerten lässt.",
+          "source": "Handelsblatt Finanzen",
+          "url": "https://www.handelsblatt.com/finanzen/anlagestrategie/kolumnen/anthropic-der-groesste-boersengang-aller-zeiten-wird-zur-glaubensfrage/100272712.html"
+        },
+        {
+          "title": "42 US states move to block Character.AI chat data sale",
+          "summary": "A coalition of state attorneys general is trying to stop Character.AI from auctioning off the private chat histories of more than 21 million US accounts during its Chapter 11 bankruptcy.",
+          "source": "The Verge AI",
+          "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats"
+        },
+        {
+          "title": "US-Chipauflagen bremsen Chinas KI-Labore",
+          "summary": "Wegen US-Exportkontrollen und Maßnahmen gegen das Kopieren von Modellen drohen chinesischen KI-Entwicklern verspätete Modellstarts und längere Entwicklungszyklen.",
+          "source": "heise",
+          "url": "https://www.heise.de/news/Chinas-KI-Labore-unter-Druck-US-Massnahmen-bremsen-Modellentwicklung-11539653.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag"
+        },
+        {
+          "title": "Microsoft ruft nach globalem IT-Ausfall internen Code Red aus",
+          "summary": "Ein rund 24-stündiger weltweiter Ausfall von Diensten wie Outlook, Teams und Copilot alarmierte den Konzern. Microsoft will Störungen künftig schneller erkennen und beheben.",
+          "source": "t3n",
+          "url": "https://t3n.de/news/microsoft-code-red-it-ausfall-1775106/?utm_source=rss&utm_medium=newsFeed&utm_campaign=newsFeed"
+        }
+      ]
+    }
+  ],
+  "topic": {
+    "field": "Ernährung & Supplements",
+    "title": "Der erste klinische Vergleichstest: Wie James Lind mit Zitrusfrüchten den Skorbut besiegte",
+    "body": "1747 litt die britische Marine massiv unter Skorbut, einer Mangelkrankheit durch fehlendes Vitamin C, die auf langen Seereisen vielen Matrosen das Leben kostete. Der Schiffsarzt James Lind wollte herausfinden, welches der kursierenden Hausmittel wirklich half. An Bord der HMS Salisbury teilte er zwölf erkrankte Seeleute in sechs Paare und gab jedem Paar eine andere Zugabe zur ansonsten gleichen Kost: Apfelwein, Schwefelsäure, Essig, Meerwasser, eine Gewürzpaste oder zwei Orangen und eine Zitrone. Nach wenigen Tagen waren die beiden Matrosen mit Zitrusfrüchten deutlich gesundet, die übrigen Gruppen zeigten kaum Besserung. Lind veröffentlichte seine Ergebnisse 1753, doch es dauerte noch Jahrzehnte, bis die Royal Navy Zitronensaft zur Pflicht machte. Historiker gelten Linds Versuch heute als einer der ersten kontrollierten klinischen Vergleichstests überhaupt, lange bevor der Begriff Evidenzbasierte Medizin existierte. Das Vitamin C selbst wurde erst 1932 chemisch isoliert.",
+    "links": [
+      "https://de.wikipedia.org/wiki/James_Lind",
+      "https://de.wikipedia.org/wiki/Skorbut"
+    ]
+  }
+}
